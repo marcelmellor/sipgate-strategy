@@ -108,9 +108,7 @@ DE-specifics
 
 - 1.000 true fans from all over Europe · We&#39;re making our portfolio available to customers throughout Europe
 
-## Go to market
-
-## Frame 3458764636431654091
+## 3rd party API
 
 - 3rd party API
 
@@ -243,8 +241,6 @@ Mehrere Produkte - hubspot.de - Preise
 ***ready***
 
 **&#x1f9ed; Reisegruppe: Europe Ready** **&#x1f3af; Mission Statement** Mit *Europe Ready* machen wir unser gesamtes Produktportfolio europaweit verfügbar. Unser Ziel: In jedem EU-Land einfach nutzbar, kaufbar und einsatzbereit – ohne Umwege, ohne Hürden. Wir öffnen unsere Produkte für neue Märkte, neue Kunden und neue Möglichkeiten. Reiseleitung: Tomo Mitreisende: Mini, Alex, Björn, Lukas (und Lücki&#43;Jessi), Kevin
-
-## Frame 231
 
 ## Ai Plattform
 
@@ -488,8 +484,6 @@ Hypothese: Die PBX wird in Zukunft nicht mehr der Star im Portfolio sein.  Wenn 
 
 **Europe&#39;s Leading Voice Provider** Portfolio Prinzipien
 
-## Portfolio Steckbrief
-
 ## Frame 235
 
 **Europe&#39;s Leading Voice Provider** satellite business
@@ -652,13 +646,11 @@ zehntausen
 
 - Agent-management network
 
-## Frame 245
 
 
 
 
 
-## Frame 246
 
 ## Frame 247
 
@@ -815,33 +807,6 @@ Intelligent  Workspace
 
 - spark user
 
-## GRUPPE 2
-
-
-
-
-
-
-
-## GRUPPE1
-
-## Team Tomo&amp;Chris
-
-
-
-## Konsolidiert &amp; gemeinsam geplant
-
-
-
-## Frame 3458764641024256911
-
-
-
-## UPDATE ONE PAGER
-
-## PORTFOLIO STRATEGIE
-
-## Portfolio Steckbrief
 
 
 
@@ -851,21 +816,36 @@ Intelligent  Workspace
 
 
 
-## Goal\-oriented Product Roadmap 2025/2026
 
-## Plop Retreat, Mallorca, Sept 2025 \(Tim, Chris, Suse, Paul, Tomo, Stefan, Marcel &amp; Raffaela\)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Plop Retreat, Mallorca, Sept 2025 \(Tim, Chris, Suse, Paul, Tomo, Stef…
 
 *Execution ( Orga, Leadership, Teams) *
 
 *Next steps *
 
 ![image-3458764641026803039](https://api.miro.com/v2/boards/uXjVJXCZjlw%3D/resources/images/3458764517194800082?format=preview&redirect=false)
-
-## Copy of Portfolio Steckbrief
-
-## Frame 3458764641026604575
-
-## Frame 250
 
 
 
