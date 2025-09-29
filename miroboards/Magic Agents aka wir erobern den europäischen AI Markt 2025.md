@@ -1324,6 +1324,8 @@ Einstellungen
 
 Einstellungen
 
+- Team  Lead
+
 - Rufnummer 456
 
 - Außen
@@ -1343,8 +1345,6 @@ Einstellungen
 - Datenschutz  Channel
 
 - second level
-
-- Team  Lead
 
 - Team  Lead
 
@@ -1518,13 +1518,19 @@ Iteration 1a – Frontdesk ist am Ende eines Channels anstelle einer VM
 
 - Änderungen
 
+- Vorteile
+
 - Admin sieht im Routing was der Frontdesk macht · Weiterleitung auf den Frontdesk möglich (Weil Frontdesk in einem Channel, Frontdesk kann eine Kurzwahl haben)
 
 - Frontdeskkachel fällt weg und wird in Channels integriert · Analyse wandert in den Frontdesk und dann auch in den Channel
 
 - Frontdesk als "Deadend" oder Channelweiterleitung · Events weiterhin in der Frontdeskliste in der App
 
+- Frontdesk übernimmt die Aufgabe der Voicemail
+
 - Keinerlei Vorteile innerhalb der App
+
+- Frontdesk ist erstmalig im Channel mit Usern, allerdings nur am Ende des Routings
 
 - Wir stellen Szenarien inkl. Ziele  im Routing dar · Wir haben ein Konzept zur Wissenlagerung an einem Channel · Wir kriegen Kundenfeedback mit
 
@@ -1553,4 +1559,98 @@ Iteration 3 – Frontdesk kennt alle Zustände der PBX &#43; Usern
 - Frontdesk kennt die gesamte PBX und kann intelligent, mit wenig Konfigurationsaufwand smart an die richtigen Ziele weiterleiten
 
 - Es ist noch Unklar ob wir mehrere Menschengruppen innerhalb eines Channels haben wollen oder User Gruppen weiterhin in einzelnen Channel organisieren und der Frontdesk dann teile des Frontdesks bei einer Weiterleitung skippen kann
+
+## Copy of AI Frontdesk – Zielgruppe und Value Proposition
+
+|  | Aurix |  |
+| --- | --- | --- |
+|  | Automatisieren Sie Ihren Kundenservice |  |
+| Kontrolle | Steuerung | AI-Agenten |
+| Ihr tiefer Einblick in die Qualität Ihres Contact Centers, dank inhaltlicher Analysen in Echtzeit und AI-gestütztem Monitoring. | Optimieren Sie den Kundenservice mit einheitlichen Playbooks und automatisierten Nachbereitungen – angepasst auf Ihre Zielmetriken und Themen. | AI-Agents der neusten Generation bearbeiten selbstständig und nach Ihren Vorgaben Kundenanrufe – 24/7 und integriert mit ihren bestehenden Tools. |
+
+
+
+## Channels > Szenario > AI Feature
+
+- Woran hängt die AI Assist-Konfiguration (z.B. Set von Smart Answers, Custom Summary, etc.). Möglichkeiten: a) am Channel, b) am Call-Szenario c) am User.  Siehe nächste Schritte, 3. · In diesem Konzept: AI Funktionen hängen an CallSzenarien
+
+**AppWeb**
+
+**Admin/Lead** View in geteilten Channels
+
+![image-3458764641790964157](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517188103427?format=preview&redirect=false)
+
+Szenarien
+
+![image-3458764641790964131](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517187757201?format=preview&redirect=false)
+
+![image-3458764641790964133](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517187711403?format=preview&redirect=false)
+
+![image-3458764641790964154](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517187711403?format=preview&redirect=false)
+
+![image-3458764641790964155](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517185232737?format=preview&redirect=false)
+
+Szenarien
+
+**Neukunde**
+
+![image-3458764641790964141](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517187714549?format=preview&redirect=false)
+
+**Neukunde**
+
+**Neukunde**
+
+![image-3458764641790964147](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517188190276?format=preview&redirect=false)
+
+![image-3458764641790964137](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517187757201?format=preview&redirect=false)
+
+Szenarien
+
+![image-3458764641790964146](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517188125429?format=preview&redirect=false)
+
+![image-3458764641790964142](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517187757201?format=preview&redirect=false)
+
+Wissensdatenbank
+
+**AI Einstellungen**
+
+**Funktionen**
+
+Zusammenfassungen
+
+![image-3458764641790964127](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517188103427?format=preview&redirect=false)
+
+Zahlung
+
+![image-3458764641790964162](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517188191807?format=preview&redirect=false)
+
+![image-3458764641790964123](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517188191807?format=preview&redirect=false)
+
+![image-3458764641790964124](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517188103427?format=preview&redirect=false)
+
+![image-3458764641790964125](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517185232737?format=preview&redirect=false)
+
+AI Einstellungen
+
+
+
+
+
+
+
+## Multidirektional
+
+![image-3458764641821822572](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517185118287?format=preview&redirect=false)
+
+Call Szenarien
+
+AI ✨
+
+![image-3458764641821822571](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517185118287?format=preview&redirect=false)
+
+![image-3458764641821822573](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517185118287?format=preview&redirect=false)
+
+
+
+
 
