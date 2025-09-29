@@ -857,3 +857,175 @@ Intelligent  Workspace
 
 
 
+## Frame 1
+
+**Portfolio Zielzustand**  **2028**  **in DE**
+
+**Portfolio Startpunkt in DE**
+
+Wir überspringen den "zwei Marken"-Teil (satellite und sipgate) und starten alles unter sipgate. Die beiden Segmente trennen wir klar nach Zielgruppe: PBX-Käufer und Sales-und-Service-Automatisierer.
+
+Zwei Marktsegmente mit PBX-Käufern und CX-Service-und-Sales-Automatisierern. Mit diesem Portfolio können wir heute schon Kommunikation und Sales starten.
+
+Brand
+
+Domain
+
+Market Segment
+
+Product
+
+## Frame 2
+
+- **Customer Experience**
+
+- **Business Communications**
+
+- sipgate trunking
+
+- satellite business
+
+- sipgate neo
+
+- sipgate aurix
+
+- sipgate flow
+
+- sipgate trunking
+
+- **Channels & Routing**
+
+- ****
+
+- ****
+
+- **Workspace**
+
+- **Steuerung & Kontrolle**
+
+- **Agents**
+
+- ****
+
+- Assist
+
+- Control Panel
+
+- **API**
+
+- Growth
+
+- Growth
+
+## Frame 254
+
+Variante B (für EU)
+
+Auch wieder weniger Markenkomplexität und klarer AI-Fokus. Wir starten in EU mit einem reduzierten Portfolio. Variante A kommt dann im Laufe 2026 dazu.
+
+Brand
+
+- sipgate
+
+- **sipgate.com**
+
+Domain
+
+- **Customer Experience**
+
+Market Segment
+
+- sipgate aurix
+
+Product
+
+- sipgate flow
+
+- sipgate assist  for pbx
+
+- sipgate agents
+
+## Frame 255
+
+![image-3458764641467918603](https://api.miro.com/v2/boards/uXjVJXCZjlw%3D/resources/images/3458764517174348580?format=preview&redirect=false)
+
+## Frame 256
+
+**Aurix**
+
+**Agents**
+
+Dashboard
+
+Queues
+
+Agents
+
+Routing
+
+**flow**
+
+Dashboard
+
+Rufnummern
+
+Verträge
+
+![image-3458764641467918751](https://api.miro.com/v2/boards/uXjVJXCZjlw%3D/resources/images/3458764517174348580?format=preview&redirect=false)
+
+**assist**
+
+Dashboard
+
+Einstellungen
+
+**Account**
+
+Rufnummern
+
+Standorte
+
+Zahlungen
+
+SSO
+
+
+
+## Frame 257
+
+**Portfolio Startpunkt in EU**
+
+In der EU starten wir mit CX-Service-und-Sales-Automatisierern. Mit diesem Portfolio-Teil können wir heute schon Kommunikation und Sales starten.
+
+Brand
+
+- sipgate
+
+Domain
+
+Market Segment
+
+- Customer Experience
+
+Product
+
+- **sipgate aurix**
+
+- sipgate agents
+
+- sipgate flow
+
+- sipgate assist  for pbx
+
+- Agenten und  Qualitätsmanagement
+
+- v1: Eigene Agenten bauen v2: in allen Gesprächen
+
+## Copy of AI Frontdesk – Zielgruppe und Value Proposition
+
+|  | Aurix |  |
+| --- | --- | --- |
+|  | Automatisieren Sie Ihren Kundenservice |  |
+| Kontrolle | Steuerung | AI-Agenten |
+| Ihr tiefer Einblick in die Qualität Ihres Contact Centers, dank inhaltlicher Analysen in Echtzeit und AI-gestütztem Monitoring. | Optimieren Sie den Kundenservice mit einheitlichen Playbooks und automatisierten Nachbereitungen – angepasst auf Ihre Zielmetriken und Themen. | AI-Agents der neusten Generation bearbeiten selbstständig und nach Ihren Vorgaben Kundenanrufe – 24/7 und integriert mit ihren bestehenden Tools. |
+
