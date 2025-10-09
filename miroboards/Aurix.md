@@ -10,7 +10,7 @@ Voice AI for Service & Sales Automation
 
 **sipgate trunking assist** SIP trunk providing AI Assistance for every PBX [Product Brief](https://docs.google.com/document/d/1pferbeYVoNlPzoQvLYP2OariqkIM3HIw9jhMPvFqGWc/) [Landing Page](https://www.sipgatetrunking.de/)
 
-**sipgate ai.cx** Agentic Contact Center Solution [Product Brief_1](https://docs.google.com/document/d/16Sg-zcOFV5iWiXxqgAcNFlAMGEcVfvcGYeoIUMd2SFw) [Product Brief_2](https://docs.google.com/document/d/128Id5VAl9IEYWLlXNSVV2RPgh6oseVuZxe8xdq3mHpA) [Landing Page](https://www.sipgate.ai/cx)
+**sipgate ai.cx** Agentic Contact Center Solution [Product Brief](https://docs.google.com/document/d/128Id5VAl9IEYWLlXNSVV2RPgh6oseVuZxe8xdq3mHpA) [Landing Page](https://www.sipgate.ai/cx)
 
 ## sipgate flow
 
@@ -158,17 +158,17 @@ demnächst
 
 ![image-3458764641463374727](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517205527808?format=preview&redirect=false)
 
-## WIIFM
-
-| Name für CX | Interface/PLG für Flow |  | Aurix | Flow | trunking Assist |
-| --- | --- | --- | --- | --- | --- |
-| IA |  | Produkt definieren |  |  |  |
-| Portfolioview |  | Go-To-Market-Strategie ausarbeiten |  |  |  |
-| Pricing |  | Umsetzung starten |  |  |  |
-
 ## twillio
 
 ![image-3458764641467502297](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517205612612?format=preview&redirect=false)
+
+## Flow
+
+|  | Aurix | Flow | trunking Assist |
+| --- | --- | --- | --- |
+| Produkt definieren |  |  |  |
+| Go-To-Market-Strategie ausarbeiten |  |  |  |
+| Umsetzung starten |  |  |  |
 
 ## Parloa
 
@@ -178,7 +178,17 @@ demnächst
 
 ![image-3458764641465013762](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517205612953?format=preview&redirect=false)
 
+## Frame 1
 
+Themen der Woche
+
+- **Onboarding & Einrichtung**
+
+- **Produkt-Features & Roadmap**
+
+- **Support & Troubleshooting**
+
+- **Nutzungsoptimierung**
 
 
 
@@ -206,17 +216,7 @@ demnächst
 
 ## Frame 4
 
-- Wissen und Playbooks hängen immer am Channel
-
 - Queue
-
-- Playbook
-
-- Wissen
-
-- Assist-Konfig (Smart Answers, Custom Summaries etc.)
-
-- Frontdesk
 
 - Agent
 
@@ -250,11 +250,21 @@ Ausbaustufe
 
 - Assist-Konfig (Smart Answers, Custom Summaries etc.)
 
+Ausbaustufe
+
 - Agent "Heinz"
 
 - Aurix
 
+- Call-Szenarien
+
+- Playbook
+
+- Assist-Konfig (Smart Answers, Custom Summaries etc.)
+
 - Susanne
+
+- Wird vom Team Lead zugewiesen?
 
 - 2 Konzepte für Agents
 
