@@ -837,9 +837,19 @@ Intelligent  Workspace
 
 
 
-
-
 ## Plop Retreat, Mallorca, Sept 2025 \(Tim, Chris, Suse, Paul, Tomo, Stef…
+
+*INTRO*
+
+*2030*
+
+*PORTFOLIO*
+
+*ROADMAPS & RELEASES*
+
+*Q4 2025 *
+
+*Original bringe ich Dienstag mit*
 
 *Execution ( Orga, Leadership, Teams) *
 
@@ -859,21 +869,9 @@ Intelligent  Workspace
 
 ## Frame 1
 
-**Portfolio Zielzustand**  **2028**  **in DE**
-
-**Portfolio Startpunkt in DE**
-
-Wir überspringen den "zwei Marken"-Teil (satellite und sipgate) und starten alles unter sipgate. Die beiden Segmente trennen wir klar nach Zielgruppe: PBX-Käufer und Sales-und-Service-Automatisierer.
-
-Zwei Marktsegmente mit PBX-Käufern und CX-Service-und-Sales-Automatisierern. Mit diesem Portfolio können wir heute schon Kommunikation und Sales starten.
-
 Brand
 
 Domain
-
-Market Segment
-
-Product
 
 ## Frame 2
 
@@ -947,37 +945,27 @@ Product
 
 ## Frame 255
 
+|  | **NEO** |
+| --- | --- |
+|  | Dashboard · Channel |
+|  | Frontdesk · User |
+|  | Mobilfunk · Routing |
+|  | **trunking** · Dashboard |
+|  | PBX · Rufnummern |
+|  | Verträge |
+| **Account** | Rufnummern |
+|  | Standorte · Zahlungen |
+|  | SSO |
+
 ![image-3458764641467918603](https://api.miro.com/v2/boards/uXjVJXCZjlw%3D/resources/images/3458764517174348580?format=preview&redirect=false)
 
 ## Frame 256
 
 **Aurix**
 
-**Agents**
-
-Dashboard
-
 Queues
 
-Agents
-
-Routing
-
-**flow**
-
-Dashboard
-
-Rufnummern
-
-Verträge
-
 ![image-3458764641467918751](https://api.miro.com/v2/boards/uXjVJXCZjlw%3D/resources/images/3458764517174348580?format=preview&redirect=false)
-
-**assist**
-
-Dashboard
-
-Einstellungen
 
 **Account**
 
@@ -989,11 +977,19 @@ Zahlungen
 
 SSO
 
+## \*\*Strategic\*\*
+
+**Strategic**
+
 
 
 ## Frame 257
 
+Portfolio Zielzustand Mitte  2026  in EU
+
 **Portfolio Startpunkt in EU**
+
+Wir überspringen den "zwei Marken"-Teil (satellite und sipgate) und starten alles unter sipgate. Die beiden Segmente trennen wir klar nach Zielgruppe: PBX-Käufer und Sales-und-Service-Automatisierer.
 
 In der EU starten wir mit CX-Service-und-Sales-Automatisierern. Mit diesem Portfolio-Teil können wir heute schon Kommunikation und Sales starten.
 
@@ -1001,25 +997,69 @@ Brand
 
 - sipgate
 
+- sipgate
+
 Domain
+
+- **sipgate.com**
+
+- **sipgate.com**
 
 Market Segment
 
 - Customer Experience
 
-Product
+- Business Communications
+
+- Customer Experience
 
 - **sipgate aurix**
 
+Product
+
+- **sipgate neo**
+
+- **sipgate aurix**
+
+- Q4/ 2025
+
+- Q4/ 2025
+
 - sipgate agents
+
+- sipgate trunking
+
+- sipgate cloud pbx
+
+- sipgate agents
+
+- sipgate workspace
 
 - sipgate flow
 
 - sipgate assist  for pbx
 
+- sipgate flow
+
+- sipgate assist  for pbx
+
+- ****
+
 - Agenten und  Qualitätsmanagement
 
+- Trunk für Deine Telefonanlage
+
+- Beste Cloud-PBX
+
+- Agenten und  Qualitätsmanagement
+
+- Produktivität in der Desktop-App mit Assist
+
+- v1: Zum Agenten bauen v2: in allen Gesprächen
+
 - v1: Eigene Agenten bauen v2: in allen Gesprächen
+
+* Platzhalter für den richtigen Namen.
 
 ## Copy of AI Frontdesk – Zielgruppe und Value Proposition
 
@@ -1029,3 +1069,54 @@ Product
 | Kontrolle | Steuerung | AI-Agenten |
 | Ihr tiefer Einblick in die Qualität Ihres Contact Centers, dank inhaltlicher Analysen in Echtzeit und AI-gestütztem Monitoring. | Optimieren Sie den Kundenservice mit einheitlichen Playbooks und automatisierten Nachbereitungen – angepasst auf Ihre Zielmetriken und Themen. | AI-Agents der neusten Generation bearbeiten selbstständig und nach Ihren Vorgaben Kundenanrufe – 24/7 und integriert mit ihren bestehenden Tools. |
 
+
+
+## Fahrplan PM Retreat am 14\.10\.2025
+
+**Fahrplan PM Retreat am 14.10.2025** 9:00 - 16:30
+
+- Grober Ablauf
+
+- Was ist noch offen?
+
+- Dabei sind
+
+**Von der Mission zur Execution**
+
+- Portfolio One Pager · ** **Zielgruppen/ ICPs
+
+- ** Update One Pager: Mission/ Vision  **
+
+![image-3458764643474057429](https://api.miro.com/v2/boards/uXjVJXCZjlw%3D/resources/images/3458764517194664739?format=preview&redirect=false)
+
+Gemeinsames Verständnis Langfristige Vision / Mission und Portfoliostrategie 2026:  Wie wollen wir gewinnen? Inkl. Markt, ICPs, Portfolio-Steckbrief  etc.
+
+- Q4 Taktik Backlog linked mit  Umsatzzielen
+
+- Portfoliostrategie Deep Dive
+
+![image-3458764643472543551](https://api.miro.com/v2/boards/uXjVJXCZjlw%3D/resources/images/3458764517256934604?format=preview&redirect=false)
+
+![image-3458764643474263853](https://api.miro.com/v2/boards/uXjVJXCZjlw%3D/resources/images/3458764517257087049?format=preview&redirect=false)
+
+- Aktualsisierten Mission One Pager
+
+- Jahresziele &#43; Release Aurix
+
+Blick auf Prototyp Idee
+
+- Klare Verantwortlichkeiten auf PL Ebene
+
+Abgleich: Aktuelle Roadmaps / Backlogs und Priorisierung
+
+- Q4 Fokus/ Taktik
+
+- Execution Board in Jira
+
+- Strategy/ Taktik Board in Jira
+
+- Fehlt jemand?
+
+- Team Backlogs Tools& Needs
+
+Notwendige Änderungen oder Bedingungen für den Erfolg
