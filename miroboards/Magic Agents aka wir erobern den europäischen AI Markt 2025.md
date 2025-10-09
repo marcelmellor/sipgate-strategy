@@ -1654,3 +1654,92 @@ AI ✨
 
 
 
+## Copy of AI Frontdesk – Zielgruppe und Value Proposition
+
+- Channels
+
+- Agents
+
+- Wissen
+
+- Call-Szenarien
+
+NameStimmeToolzugriff&#x1f517; Szenarien&#x1f517; Wissen
+
+NameRufnummerRoutingInbox&#x1f517; User&#x1f517; Agents&#x1f517; (Wissen)&#x1f517; Szenarien
+
+
+
+## Frame 45
+
+- Call-Szenarien
+
+BeschreibungAbschlussaktion&#x1f517; Assist-KonfigurationPlaybook
+
+- Gruppen-Channel
+
+- Agent
+
+NamePersönlichkeitRolle
+
+NameRufnummerRoutingInbox
+
+- "Persönlicher" Channel
+
+- Agent
+
+- Call-Szenarien
+
+BeschreibungAbschlussaktion&#x1f517; Assist-KonfigurationPlaybook
+
+NamePersönlichkeitRolle
+
+(Name)RufnummerRoutingInbox
+
+## Frame 46
+
+- PBX
+
+- Aurix
+
+- Playbooks
+
+- Wissen
+
+- Playbooks
+
+- Wissen
+
+- Agent
+
+- Agent
+
+![image-3458764643081348545](https://api.miro.com/v2/boards/uXjVJfuNUIY%3D/resources/images/3458764517246216623?format=preview&redirect=false)
+
+- Agent
+
+Playbook "Entstörung"
+
+- Playbooks
+
+- Statistiken
+
+- HI-Agent-Views
+
+- Zusätzliche Routingoptionen
+
+- Channel
+
+- Queue
+
+- Agent
+
+- Playbooks
+
+- Wissen
+
+- Agent
+
+- Playbooks
+
+- Wissen
