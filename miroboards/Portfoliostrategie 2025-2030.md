@@ -1069,7 +1069,14 @@ Product
 | Kontrolle | Steuerung | AI-Agenten |
 | Ihr tiefer Einblick in die Qualität Ihres Contact Centers, dank inhaltlicher Analysen in Echtzeit und AI-gestütztem Monitoring. | Optimieren Sie den Kundenservice mit einheitlichen Playbooks und automatisierten Nachbereitungen – angepasst auf Ihre Zielmetriken und Themen. | AI-Agents der neusten Generation bearbeiten selbstständig und nach Ihren Vorgaben Kundenanrufe – 24/7 und integriert mit ihren bestehenden Tools. |
 
+## NEXT STEPS
 
+| NEXT STEPS |  |
+| --- | --- |
+| Release scope 1.0 & Produkt Definitionen definieren | Mo 13:00,  Mi Nachmittag Fr Vormittag |
+| Revisit Match: ICP Needs > Value Proposition |  |
+| Execution Prep der Gaps im Detail |  |
+| Sprintstart: 27.10 |  |
 
 ## Fahrplan PM Retreat am 14\.10\.2025
 
@@ -1085,38 +1092,49 @@ Product
 
 - Portfolio One Pager · ** **Zielgruppen/ ICPs
 
+Gemeinsames Verständnis Langfristige Vision / Mission und Portfoliostrategie 2026: Wie wollen wir gewinnen? Inkl. Markt, ICPs und das passende Portfolio
+
 - ** Update One Pager: Mission/ Vision  **
 
 ![image-3458764643474057429](https://api.miro.com/v2/boards/uXjVJXCZjlw%3D/resources/images/3458764517194664739?format=preview&redirect=false)
 
-Gemeinsames Verständnis Langfristige Vision / Mission und Portfoliostrategie 2026:  Wie wollen wir gewinnen? Inkl. Markt, ICPs, Portfolio-Steckbrief  etc.
-
-- Q4 Taktik Backlog linked mit  Umsatzzielen
-
-- Portfoliostrategie Deep Dive
-
-![image-3458764643472543551](https://api.miro.com/v2/boards/uXjVJXCZjlw%3D/resources/images/3458764517256934604?format=preview&redirect=false)
+- Grob: Was ändert sich? Was ist die eine Sache die hängen bleiben soll? Z.B. erst Mal die Chance große Kunden abzubügeln
 
 ![image-3458764643474263853](https://api.miro.com/v2/boards/uXjVJXCZjlw%3D/resources/images/3458764517257087049?format=preview&redirect=false)
 
+- Q4 Taktik Backlog linked mit  Umsatzzielen
+
+- Portfolio Bild
+
+![image-3458764643472543551](https://api.miro.com/v2/boards/uXjVJXCZjlw%3D/resources/images/3458764517256934604?format=preview&redirect=false)
+
 - Aktualsisierten Mission One Pager
 
-- Jahresziele &#43; Release Aurix
+- Blick auf Prototyp Idee Überleitung zur Taktik Q4: Release planning
 
-Blick auf Prototyp Idee
+- Jahresziele &#43; Product Brief/ Release** Aurix**
 
 - Klare Verantwortlichkeiten auf PL Ebene
 
 Abgleich: Aktuelle Roadmaps / Backlogs und Priorisierung
 
-- Q4 Fokus/ Taktik
+- Änderung: Teammissionen statt kurzfristige Reisegruppen &#43; Schnittstellen optimierung in Zukunft · Q4 Fokus/ Taktik
 
 - Execution Board in Jira
 
-- Strategy/ Taktik Board in Jira
-
-- Fehlt jemand?
+- Fehlt jemand? · Alena hinzufügen · Laura G.  hinzufügen?
 
 - Team Backlogs Tools& Needs
 
 Notwendige Änderungen oder Bedingungen für den Erfolg
+
+- Strategy/ Taktik Board in Jira
+
+## \*\*RELEASE PLANNING AURIX\*\*
+
+**RELEASE PLANNING AURIX**
+
+
+
+
+
