@@ -915,34 +915,6 @@ Domain
 
 - Growth
 
-## Frame 254
-
-Variante B (für EU)
-
-Auch wieder weniger Markenkomplexität und klarer AI-Fokus. Wir starten in EU mit einem reduzierten Portfolio. Variante A kommt dann im Laufe 2026 dazu.
-
-Brand
-
-- sipgate
-
-- **sipgate.com**
-
-Domain
-
-- **Customer Experience**
-
-Market Segment
-
-- sipgate aurix
-
-Product
-
-- sipgate flow
-
-- sipgate assist  for pbx
-
-- sipgate agents
-
 ## Frame 255
 
 |  | **NEO** |
@@ -977,19 +949,39 @@ Zahlungen
 
 SSO
 
-## \*\*Strategic\*\*
+## Frame 254
 
-**Strategic**
+Variante B (für EU)
+
+Auch wieder weniger Markenkomplexität und klarer AI-Fokus. Wir starten in EU mit einem reduzierten Portfolio. Variante A kommt dann im Laufe 2026 dazu.
+
+Brand
+
+- sipgate
+
+- **sipgate.com**
+
+Domain
+
+- **Customer Experience**
+
+Market Segment
+
+- sipgate aurix
+
+Product
+
+- sipgate flow
+
+- sipgate assist  for pbx
+
+- sipgate agents
 
 
 
 ## Frame 257
 
-Portfolio Zielzustand Mitte  2026  in EU
-
 **Portfolio Startpunkt in EU**
-
-Wir überspringen den "zwei Marken"-Teil (satellite und sipgate) und starten alles unter sipgate. Die beiden Segmente trennen wir klar nach Zielgruppe: PBX-Käufer und Sales-und-Service-Automatisierer.
 
 In der EU starten wir mit CX-Service-und-Sales-Automatisierern. Mit diesem Portfolio-Teil können wir heute schon Kommunikation und Sales starten.
 
@@ -997,11 +989,7 @@ Brand
 
 - sipgate
 
-- sipgate
-
 Domain
-
-- **sipgate.com**
 
 - **sipgate.com**
 
@@ -1013,12 +1001,8 @@ Market Segment
 
 - Customer Experience
 
-- **sipgate aurix**
-
 Product
 
-- **sipgate neo**
-
 - **sipgate aurix**
 
 - Q4/ 2025
@@ -1027,35 +1011,11 @@ Product
 
 - sipgate agents
 
-- sipgate trunking
-
-- sipgate cloud pbx
-
-- sipgate agents
-
-- sipgate workspace
-
 - sipgate flow
 
 - sipgate assist  for pbx
 
-- sipgate flow
-
-- sipgate assist  for pbx
-
-- ****
-
 - Agenten und  Qualitätsmanagement
-
-- Trunk für Deine Telefonanlage
-
-- Beste Cloud-PBX
-
-- Agenten und  Qualitätsmanagement
-
-- Produktivität in der Desktop-App mit Assist
-
-- v1: Zum Agenten bauen v2: in allen Gesprächen
 
 - v1: Eigene Agenten bauen v2: in allen Gesprächen
 
@@ -1069,14 +1029,7 @@ Product
 | Kontrolle | Steuerung | AI-Agenten |
 | Ihr tiefer Einblick in die Qualität Ihres Contact Centers, dank inhaltlicher Analysen in Echtzeit und AI-gestütztem Monitoring. | Optimieren Sie den Kundenservice mit einheitlichen Playbooks und automatisierten Nachbereitungen – angepasst auf Ihre Zielmetriken und Themen. | AI-Agents der neusten Generation bearbeiten selbstständig und nach Ihren Vorgaben Kundenanrufe – 24/7 und integriert mit ihren bestehenden Tools. |
 
-## NEXT STEPS
 
-| NEXT STEPS |  |
-| --- | --- |
-| Release scope 1.0 & Produkt Definitionen definieren | Mo 13:00,  Mi Nachmittag Fr Vormittag |
-| Revisit Match: ICP Needs > Value Proposition |  |
-| Execution Prep der Gaps im Detail |  |
-| Sprintstart: 27.10 |  |
 
 ## Fahrplan PM Retreat am 14\.10\.2025
 
@@ -1084,13 +1037,9 @@ Product
 
 - Grober Ablauf
 
-- Was ist noch offen?
-
 - Dabei sind
 
 **Von der Mission zur Execution**
-
-- Portfolio One Pager · ** **Zielgruppen/ ICPs
 
 Gemeinsames Verständnis Langfristige Vision / Mission und Portfoliostrategie 2026: Wie wollen wir gewinnen? Inkl. Markt, ICPs und das passende Portfolio
 
@@ -1098,43 +1047,130 @@ Gemeinsames Verständnis Langfristige Vision / Mission und Portfoliostrategie 20
 
 ![image-3458764643474057429](https://api.miro.com/v2/boards/uXjVJXCZjlw%3D/resources/images/3458764517194664739?format=preview&redirect=false)
 
-- Grob: Was ändert sich? Was ist die eine Sache die hängen bleiben soll? Z.B. erst Mal die Chance große Kunden abzubügeln
-
 ![image-3458764643474263853](https://api.miro.com/v2/boards/uXjVJXCZjlw%3D/resources/images/3458764517257087049?format=preview&redirect=false)
-
-- Q4 Taktik Backlog linked mit  Umsatzzielen
 
 - Portfolio Bild
 
 ![image-3458764643472543551](https://api.miro.com/v2/boards/uXjVJXCZjlw%3D/resources/images/3458764517256934604?format=preview&redirect=false)
 
-- Aktualsisierten Mission One Pager
-
-- Blick auf Prototyp Idee Überleitung zur Taktik Q4: Release planning
-
 - Jahresziele &#43; Product Brief/ Release** Aurix**
-
-- Klare Verantwortlichkeiten auf PL Ebene
 
 Abgleich: Aktuelle Roadmaps / Backlogs und Priorisierung
 
-- Änderung: Teammissionen statt kurzfristige Reisegruppen &#43; Schnittstellen optimierung in Zukunft · Q4 Fokus/ Taktik
+- Q4 Fokus/ Taktik
 
-- Execution Board in Jira
-
-- Fehlt jemand? · Alena hinzufügen · Laura G.  hinzufügen?
+- Fehlt jemand?
 
 - Team Backlogs Tools& Needs
 
-Notwendige Änderungen oder Bedingungen für den Erfolg
-
-- Strategy/ Taktik Board in Jira
-
-## \*\*RELEASE PLANNING AURIX\*\*
-
-**RELEASE PLANNING AURIX**
 
 
+## Frame 261
+
+|  | **sipgate Produktstrategie ** 180° Drehung in den letzten 12 Monaten |  |  |  |
+| --- | --- | --- | --- | --- |
+| Gute Channels | Der erste Euro | Frontdesk | Magic Agents | AI Voice Portfolio |
+
+## Frame 263
+
+**sipgate Produktstrategie ** Herausforderung bleibt: Umsatz, Umsatz, ... Umsatz
+
+- Als innovatives Tech- Unternehmen brauchen wir 10%&#43; Umsatzwachstum
+
+- Aus Produkt
+
+- **Nicht aus:**  - Sparen/Effizienz - Preisanpassungen
+
+- Guter Monat in 2025: 7k
+
+- Ohne alles was wir heute anschauen ist der Plan: 0
+
+- Wo stehen wir
+
+- Ziel Umsatzwachstum 40k€&#43; MoM
+
+- Was wollen wir angehen
+
+- Mehr Umsatz aus AI Portfolio
+
+- Churn / Overserving fixen
+
+- Komplexität reduzieren
+
+## Frame 260
+
+**Europe&#39;s Leading Voice Provider** Shift im Portfolio: Von PBX zu AI-Voice
+
+![image-3458764644087077225](https://api.miro.com/v2/boards/uXjVJXCZjlw%3D/resources/images/3458764517271857971?format=preview&redirect=false)
+
+Hypothese: Die PBX wird in Zukunft nicht mehr der Star im Portfolio sein. Wenn wir heute den Shift hin zu einem mindestens gleichwertigen AI-Voice-Portfolio hinbekommen, positionieren wir uns rechtzeitig in einem wachsenden Markt, sichern uns langfristige Relevanz und schaffen die Basis, dass Kunden sipgate nicht mehr primär als Telefonanbieter, sondern als Anbieter intelligenter Customer-Experience-Lösungen wahrnehmen.
+
+## Frame 264
+
+|  | **sipgate goes AI Voice Portfolio** sipgate Aurix und sipgate Neo |  |  |
+| --- | --- | --- | --- |
+| **Aurix 1.0** Aurix Agents |  | **Aurix 1.1** Agents in EU | **Aurix 1.2 ** Aurix Portfolio |
+| Die professionelle Alternative zu fonio |  | Aurix Agents in Europa | Aurix mit Agents, Flow und Assist |
 
 
+
+## Frame 266
+
+**Portfolio Startpunkt in EU**
+
+In der EU starten wir mit CX-Service-und-Sales-Automatisierern. Mit diesem Portfolio-Teil können wir heute schon Kommunikation und Sales starten.
+
+- Q1/ 2026
+
+Brand
+
+- sipgate
+
+Domain
+
+- **sipgate.com**
+
+Market Segment
+
+- Customer Service Automation
+
+- Business Communications
+
+- Customer Service Automation
+
+- **sipgate aurix**
+
+Product
+
+- **sipgate neo**
+
+- **sipgate aurix**
+
+- sipgate agents
+
+- sipgate flow
+
+- sipgate assist  for pbx
+
+- sipgate flow
+
+- sipgate assist  for pbx
+
+- Agenten und  Qualitätsmanagement
+
+- v1: Eigene Agenten bauen v2: in allen Gesprächen
+
+* Platzhalter für den richtigen Namen.
+
+## Frame 267
+
+|  | **sipgate Portfolio ** Zielbild Europa für 2026 |  | sipgate |  |  |
+| --- | --- | --- | --- | --- | --- |
+| sipgate trunking · Trunk für Deine Telefonanlage | sipgate cloud pbx · **sipgate neo** · Beste Cloud-PBX | sipgate workspace · Produktivität in der Desktop-App mit Assist | sipgate agents · Agenten und  Qualitätsmanagement | sipgate flow · **sipgate aurix** · v1: Zum Agenten bauen v2: in allen Gesprächen | sipgate assist  for pbx |
+
+- **sipgate.com**
+
+- Customer Service Automation
+
+- Business Communications
 
