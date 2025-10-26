@@ -286,3 +286,81 @@ Ausbaustufe
 
 - PBX-User können keine Live-AI-Features nutzen – richtig so?
 
+## Frame 4
+
+Verpasste Anrufe und geringe Erreichbarkeit
+
+Hoher manueller Aufwand für Terminierung & Lead-Qualifizierung
+
+AI im aktuellen Setup nicht gut möglich
+
+Bedarf nach 24/7-Kundenerreichbarkeit
+
+Inhaltliche Qualität der Kundenerfahrung ist eine Blackbox
+
+## Frame 6
+
+**Customers**
+
+- **Aufgaben/ JTBD** trägt die fachliche Führung und Ausgestaltung aller Kundenserviceprozesse. Qualitäts- und Quantitätsmanagement der externen Partner liegt in ihrer Verantwortung. keine disziplinarische Verantwortung. Entwicklung von Trainingsunterlagen und Schulungsmaterialien. Qualitätscoaching über entsprechende Bewertungsbögen. Sicherstellung korrekter Prozessanwendung strichprobenartig. Ableitung von Verbesserungsmaßnahmen. Arbeitet eng mit dem Experience Team zusammen und ist verantwortlich für die Analyse von Kundenbewertungen einschließlich NPS, CSAT und FCR-Metriken  Bewertung von Bot-Performance und Identifikation problematischer Bereiche und Weiterentwicklung des Bots.
+
+## Frame 7
+
+**Landingapge**
+
+## Frame 8
+
+**Channels**
+
+- Aktuell noch auf Frontdesk
+
+- Messen · Partner
+
+## Frame 9
+
+- Demo auf der Website · Idee: unseren eigenen Agenten für die Leadgenerierung nutzen · Geführte Demo · Signup
+
+**Website**
+
+**Demo**
+
+**Onboarding**
+
+**% Activation**
+
+**% Demo / Leads**
+
+**% Signups**
+
+- Natürliches Gespräch statt IVR-Experience
+
+- Wir können die üblichen Features, die Leute erwarten (Rückruf, Kalender etc.)
+
+- Idee: unseren eigenen Agenten für die Leadgenerierung nutzen
+
+- Terminbuchung (Wow-Effekt)
+
+- Anbindung an externe Systeme / Integrationen
+
+- Erstes Ziel im Onboarding: ersten, eigenen Case abbilden
+
+- Testimonials: Use Case und deren Setup
+
+- Der Agent löst echte Probleme, existierende Cases
+
+- Wir bieten mehrere Agents
+
+- Zusammenfassung und die Geschwindigkeit, in der sie erstellt wird
+
+- Ich komme schnell zum Ziel
+
+- Website noch dynamischer machen
+
+- Agent ist im Self Service einricht- und wartbar (ich brauch keinen Solution Engineer)
+
+- Ich kann meinen Agenten anpassen (Stimme, Inhalte etc.)
+
+- Qualitätsmanagement
+
+- Pricing
+
