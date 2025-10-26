@@ -1174,3 +1174,40 @@ Product
 
 - Business Communications
 
+## Frame 268
+
+- sipgate
+
+- **sipgate.com**
+
+- Customer Experience
+
+- Business Communications
+
+- **sipgate aurix**
+
+- **sipgate neo**
+
+- sipgate agents
+
+- sipgate trunking
+
+- sipgate cloud pbx
+
+- sipgate workspace
+
+- sipgate flow
+
+- sipgate assist  for pbx
+
+- ****
+
+- Agenten und  Qualitätsmanagement
+
+- Trunk für Deine Telefonanlage
+
+- Beste Cloud-PBX
+
+- Produktivität in der Desktop-App mit Assist
+
+- v1: Zum Agenten bauen v2: in allen Gesprächen
