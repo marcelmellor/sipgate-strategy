@@ -4,8 +4,6 @@
 
 Voice AI for Service & Sales Automation
 
-- Im CC kostet Eine Minute 1€ (09.2025)
-
 **sipgate flow** real time voice to text API in the PSTN [Product Brief](https://docs.google.com/document/d/11qdBR3g3GxSnWHGT4KHmcvcKjEGcyWy2dVguBTUxd8M/edit?tab&#61;t.0) [Landing Page](https://www.sipgate.de/lp/ai-flow)
 
 **sipgate trunking assist** SIP trunk providing AI Assistance for every PBX [Product Brief](https://docs.google.com/document/d/1pferbeYVoNlPzoQvLYP2OariqkIM3HIw9jhMPvFqGWc/) [Landing Page](https://www.sipgatetrunking.de/)
@@ -25,8 +23,6 @@ Voice AI for Service & Sales Automation
 ![image-3458764641103361657](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517196866878?format=preview&redirect=false)
 
 ## sipgate flow
-
-- turn by turn ist erstmal echtzeit genug? (falls ja, wie lange?)
 
 ![image-3458764641103119191](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517196866789?format=preview&redirect=false)
 
@@ -286,81 +282,157 @@ Ausbaustufe
 
 - PBX-User können keine Live-AI-Features nutzen – richtig so?
 
-## Frame 4
+## Strategie
 
-Verpasste Anrufe und geringe Erreichbarkeit
+Strategie
 
-Hoher manueller Aufwand für Terminierung & Lead-Qualifizierung
+Vision
 
-AI im aktuellen Setup nicht gut möglich
+Kundenservice-Teams mit hohem Anrufvolumen arbeiten so effizient und kundenorientiert wie Enterprise Contact Center – ohne deren Komplexität und Kosten.
 
-Bedarf nach 24/7-Kundenerreichbarkeit
+Strategische Ziele 2025/2026
 
-Inhaltliche Qualität der Kundenerfahrung ist eine Blackbox
+- Aurix MRR Growth
 
-## Frame 6
+Soll
 
-**Customers**
+Ist
 
-- **Aufgaben/ JTBD** trägt die fachliche Führung und Ausgestaltung aller Kundenserviceprozesse. Qualitäts- und Quantitätsmanagement der externen Partner liegt in ihrer Verantwortung. keine disziplinarische Verantwortung. Entwicklung von Trainingsunterlagen und Schulungsmaterialien. Qualitätscoaching über entsprechende Bewertungsbögen. Sicherstellung korrekter Prozessanwendung strichprobenartig. Ableitung von Verbesserungsmaßnahmen. Arbeitet eng mit dem Experience Team zusammen und ist verantwortlich für die Analyse von Kundenbewertungen einschließlich NPS, CSAT und FCR-Metriken  Bewertung von Bot-Performance und Identifikation problematischer Bereiche und Weiterentwicklung des Bots.
+*bis Ende Q4 &#39;25* Wir etablieren einen Sales-Prozess für AurixWir erzeugen die drei Produkte: Aurix, Flow & AssistWir verkaufen und lernen
+
+- 60k
+
+*bis Ende Q1 &#39;26* Wir erweitern Aurix um human Intelligence
+
+- 20
+
+- sipgate
+
+- sipgate
+
+- **sipgate.de / sipgate.co.uk**
+
+- **sipgate.com**
+
+- Customer Experience
+
+- **Business Communications**
+
+- Business Communications
+
+- **sipgate aurix**
+
+- **sipgate neo**
+
+- **sipgate neo**
+
+- sipgate agents
+
+- sipgate trunking
+
+- sipgate cloud pbx
+
+- sipgate workspace
+
+- sipgate trunking
+
+- sipgate cloud pbx
+
+- sipgate flow
+
+- sipgate assist  for pbx
+
+- sipgate workspace
+
+- Agenten und  Qualitätsmanagement
+
+- Trunk für Deine Telefonanlage
+
+- Beste Cloud-PBX
+
+- Trunk für Deine Telefonanlage
+
+- Beste Cloud-PBX
+
+- Produktivität in der Desktop-App mit Assist
+
+- v1: Zum Agenten bauen v2: in allen Gesprächen
+
+- Produktivität in der Desktop-App mit Assist
+
+
 
 ## Frame 7
 
-**Landingapge**
+Vorbereitung
+
+- [https://sipgate-aurix.lovable.app/](https://sipgate-aurix.lovable.app/)
+
+- Erst Framing AI Agent only etc.
+
+- [https://www.sipgate.ai/](https://www.sipgate.ai/)
+
+- User hinführen, was im Prototypen sie testen sollen
+
+- 30-45 Minuten, moderiert · Prototypen vorher ein bisschen befüllen, sodass man Beispiele hat
+
+- Informiere dich - Verständnisfragen
+
+- Lukas: ist das die aktuell sinnvolle website? - Dora
+
+- An Tester kommen
+
+- Vllt hat Suse eine Idee - Dora
+
+- Service Leads
+
+- Ggf mit impacs / friends
+
+- [Die Profis](https://miro.com/app/board/uXjVJ7muKwA&#61;/?moveToWidget&#61;3458764645226110152&cot&#61;14)
+
+- Buyer "chefchefs" · Wie unterscheidet sich die Wahrnehmung der beiden Gruppen?
 
 ## Frame 8
 
-**Channels**
+**Mentale Modelle der Begriffswelt / Terminologie - Card Sorting**
 
-- Aktuell noch auf Frontdesk
+Zentrale Begriffe: *Agent, Playbook, Queue, Workflow, Tool, Assist, Job, Wissen…*
 
-- Messen · Partner
+**Clustern**: *“Was gehört für Sie zusammen – und warum?”***Ordnen**: *“Was ist übergeordnet, was ist Teil wovon?”**“Was fehlt? Was ist unklar? Was wäre ein besserer Begriff?”*
 
-## Frame 9
+**Aufgaben für die Informationsarchitektur mit Tree Testing**
 
-- Demo auf der Website · Idee: unseren eigenen Agenten für die Leadgenerierung nutzen · Geführte Demo · Signup
+- Vereinfachte Struktur von Aurix zeigen
 
-**Website**
+„Sie wollen einen neuen Agenten konfigurieren – wo würden Sie klicken?“„Sie möchten ein Gesprächsleitfaden (Playbook) erstellen – wo im Menü?“„Sie möchten steuern, wie Nachbearbeitung von Calls läuft – wo?“„Warum haben Sie diesen Pfad genommen?“ „Was war klar, was war verwirrend?“
 
-**Demo**
+Wie schnell und einfach kommen die Leute an die entsprechenden Orte
 
-**Onboarding**
+**Verständnis und Modellierung von *Agenten und Playbooks***
 
-**% Activation**
+- Wenn Sie hier ‘Agent’ lesen – was stellen Sie sich darunter vor?
 
-**% Demo / Leads**
+- “Agent” in drei Kontexten zeigen – mit/ohne Stimme, mit Jobbeschreibung, mit Persönlichkeitsprofil ->*“Was passt für Sie, was irritiert?*
 
-**% Signups**
+- Welche Aufgaben hat ein Playbook in diesem Zusammenhang?
 
-- Natürliches Gespräch statt IVR-Experience
+***Queue*- und *Workflow*-Logik**
 
-- Wir können die üblichen Features, die Leute erwarten (Rückruf, Kalender etc.)
+- Was verstehen Sie unter einem Workflow
 
-- Idee: unseren eigenen Agenten für die Leadgenerierung nutzen
+- Zwei gegensätzliche Darstellungen von Workflows zweigen – oben nach Gesamtlogik, unten als lokale Einstellung: *“Was fühlt sich für Sie natürlicher an – und warum?*
 
-- Terminbuchung (Wow-Effekt)
+## Frame 260
 
-- Anbindung an externe Systeme / Integrationen
+[Produktvision](https://sipgate-aurix.lovable.app/)
 
-- Erstes Ziel im Onboarding: ersten, eigenen Case abbilden
+## Frame 261
 
-- Testimonials: Use Case und deren Setup
+**Szenario** Sie sind Service Lead von 10 Mitarbeitenden und im Vorhinein wurde entschieden, dass es AI Agenten gibt, die mit telefonieren. Sie sehen hier das Interface um die Telefonie der MA und AI Agenten zu verwalten. Schauen Sie sich einmal um. Schauen sich Kacheln an und was sie darunter erwarten Sie können sich auch gerne frei reinklicken und schauen, was Sie darunter verstehen. Was verstehen Sie unter Queues, was unter Agenten? Flow Api ignorieren
 
-- Der Agent löst echte Probleme, existierende Cases
+**AI Agent konfigurieren:** Jetzt möchten Sie den Support AI Agenten der schon angelegt ist konfigurieren. Wie würden Sie da vorgehen? Konfigurieren Sie das so wie das für Ihr Team interessant wäre.
 
-- Wir bieten mehrere Agents
+**Verständnis wo AI Agent funktioniert** Wo glauben Sie wird der AI Agent gerade aktiv?
 
-- Zusammenfassung und die Geschwindigkeit, in der sie erstellt wird
-
-- Ich komme schnell zum Ziel
-
-- Website noch dynamischer machen
-
-- Agent ist im Self Service einricht- und wartbar (ich brauch keinen Solution Engineer)
-
-- Ich kann meinen Agenten anpassen (Stimme, Inhalte etc.)
-
-- Qualitätsmanagement
-
-- Pricing
+- Ein Agent kann an verschiedenen Stellen der Telefonie eingesetzt werden
 
