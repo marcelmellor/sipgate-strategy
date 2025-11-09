@@ -428,7 +428,7 @@ Wie schnell und einfach kommen die Leute an die entsprechenden Orte
 
 ## Frame 261
 
-**Szenario** Sie sind Service Lead von 10 Mitarbeitenden und im Vorhinein wurde entschieden, dass es AI Agenten gibt, die mit telefonieren. Sie sehen hier das Interface um die Telefonie der MA und AI Agenten zu verwalten. Schauen Sie sich einmal um. Schauen sich Kacheln an und was sie darunter erwarten Sie können sich auch gerne frei reinklicken und schauen, was Sie darunter verstehen. Was verstehen Sie unter Queues, was unter Agenten? Flow Api ignorieren
+**Szenario** Sie sind Service Lead von 10 Mitarbeitenden und im Vorhinein wurde entschieden, dass es AI Agenten gibt, die mit telefonieren. Sie sehen hier das Interface um die Telefonie der MA und AI Agenten zu verwalten. Schauen Sie sich einmal um. Schauen sich Kacheln an und was sie darunter erwarten Sie können sich auch gerne frei reinklicken und schauen, was Sie darunter verstehen. (Prototyp noch nicht 10% funktional) Was verstehen Sie unter Queues, was unter Agenten? Flow Api ignorieren
 
 **AI Agent konfigurieren:** Jetzt möchten Sie den Support AI Agenten der schon angelegt ist konfigurieren. Wie würden Sie da vorgehen? Konfigurieren Sie das so wie das für Ihr Team interessant wäre.
 
