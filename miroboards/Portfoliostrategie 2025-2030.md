@@ -1212,3 +1212,76 @@ Product
 
 - v1: Zum Agenten bauen v2: in allen Gesprächen
 
+## Frame 269
+
+- **sipgate**
+
+- **sipgate.com**
+
+- Customer Service Automation
+
+- Business Communications
+
+- **sipgate aurix**
+
+- **sipgate neo**
+
+- sipgate agents
+
+- sipgate trunking
+
+- sipgate cloud pbx
+
+- sipgate workspace
+
+- sipgate flow
+
+- sipgate assist  for pbx
+
+- Agenten und  Qualitätsmanagement
+
+- Trunk für Deine Telefonanlage
+
+- Beste Cloud-PBX
+
+- Produktivität in der Desktop-App mit Assist
+
+- v1: Zum Agenten bauen v2: in allen Gesprächen
+
+## Frame 270
+
+- satellite
+
+- sipgate
+
+- **satellite.me**
+
+- **sipgate.com**
+
+- **Business Communications**
+
+- sipgate trunking
+
+- satellite business
+
+- Trunk für Deine Telefonanlage
+
+- sipgate agents
+
+- sipgate workspace
+
+- Agenten und  Qualitätsmanagement
+
+- Produktivität in der Desktop-App mit Assist
+
+- v1: Zum Agenten bauen v2: in allen Gesprächen
+
+## Frame 271
+
+| sipgate trunking | satellite business · Business Communications | sipgate workspace | sipgate ai agents | sipgate contact center · Customer Service Automation | sipgate flow | sipgate assist for trunks |
+| --- | --- | --- | --- | --- | --- | --- |
+| Trunk für Deine Telefonanlage | Beste Cloud-PBX | Produktivität in der Desktop-App mit Assist | AI Agenten und QM | Queues mit Humans | Conversational AI API | Assist for 3rd party PBX |
+
+- sipgate
+
+- **sipgate.com**
