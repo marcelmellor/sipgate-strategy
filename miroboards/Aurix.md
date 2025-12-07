@@ -362,36 +362,6 @@ Ist
 
 
 
-## Research Plan
-
-Vorbereitung
-
-- [https://sipgate-aurix.lovable.app/](https://sipgate-aurix.lovable.app/)
-
-- Erst Framing AI Agent only etc.
-
-- [https://www.sipgate.ai/](https://www.sipgate.ai/)
-
-- User hinführen, was im Prototypen sie testen sollen
-
-- 30-45 Minuten, moderiert · Prototypen vorher ein bisschen befüllen, sodass man Beispiele hat
-
-- Informiere dich - Verständnisfragen
-
-- Lukas: ist das die aktuell sinnvolle website? - Dora
-
-- An Tester kommen
-
-- Vllt hat Suse eine Idee - Dora
-
-- Service Leads
-
-- Ggf mit impacs / friends
-
-- [Die Profis](https://miro.com/app/board/uXjVJ7muKwA&#61;/?moveToWidget&#61;3458764645226110152&cot&#61;14)
-
-- Buyer "chefchefs" · Wie unterscheidet sich die Wahrnehmung der beiden Gruppen?
-
 ## Weitere Ideen für Research Techniken
 
 **Mentale Modelle der Begriffswelt / Terminologie - Card Sorting**
@@ -422,15 +392,45 @@ Wie schnell und einfach kommen die Leute an die entsprechenden Orte
 
 - Zwei gegensätzliche Darstellungen von Workflows zweigen – oben nach Gesamtlogik, unten als lokale Einstellung: *“Was fühlt sich für Sie natürlicher an – und warum?*
 
+## Research Plan
+
+Vorbereitung
+
+- [https://sipgate-aurix.lovable.app/](https://sipgate-aurix.lovable.app/)
+
+- Erst Framing AI Agent only etc.
+
+- [https://www.sipgate.ai/](https://www.sipgate.ai/)
+
+- User hinführen, was im Prototypen sie testen sollen
+
+- 30-45 Minuten, moderiert · Prototypen vorher ein bisschen befüllen, sodass man Beispiele hat
+
+- Informiere dich - Verständnisfragen
+
+- Lukas: ist das die aktuell sinnvolle website? - Dora
+
+- An Tester kommen
+
+- Vllt hat Suse eine Idee - Dora
+
+- Service Leads
+
+- Ggf mit impacs / friends
+
+- [Die Profis](https://miro.com/app/board/uXjVJ7muKwA&#61;/?moveToWidget&#61;3458764645226110152&cot&#61;14)
+
+- Buyer "chefchefs" · Wie unterscheidet sich die Wahrnehmung der beiden Gruppen?
+
 ## Frame 260
 
 [Produktvision](https://sipgate-aurix.lovable.app/)
 
 ## Prototypen Test
 
-**Vorab** Fragen zur Rolle, UnternehmenHat ihr Team wiederkehrende Anrufe, die sich sehr ähnlich sind?Wie bereitet das Team Calls nach?Managen Sie, wie Calls geführt und nachbearbeitet werden? **Szenario** Stellen Sie sich vor, Sie sind Service Lead von 10 Mitarbeitenden und es gibt mittlerweile auch AI Agents, die zusätzlich zu den Mitarbeitenden telefonieren. **Prototyp** [https://sipgate-aurix.lovable.app/](https://sipgate-aurix.lovable.app/)Sie sehen hier das Teamlead Interface um die Telefonie der Mitarbeitenden und AI Agents zu verwalten (Prototyp noch nicht 100%ig funktional).Schauen Sie sich einmal um und beschreiben Sie was Sie sehen, wo Sie sich befinden und was Sie dort machen können.Schauen Sie sich Kacheln an und was sie darunter erwarten (Ignorieren Sie den Bereich Flow API)Sie können sich auch gerne frei reinklicken und schauen, was Sie darunter verstehen. **Wissendatenbank** Wenn Sie nochmal auf die Kachel "Wissen" schauen, was verbirgt sich dahinte? Was können Sie dort machen?Einstieg in Wissensdatenbank UnterseiteVersteht die Person, dass die Wissendatenbank global ist? **Playbooks** Wenn Sie nochmal auf die Kachel "Playbook" schauen, was verbirgt sich dahinter? Was können Sie dort machen?Einstieg in Playbook UnterseiteKlicken Sie auf eins der Playbooks, das Sie an Ihren Arbeitsalltag erinnert.Beschreiben Sie mal, was Sie dort alles sehen und einstellen können, ohne zu klicken.Start -> Gesprächsleitfaden -> Abschlussaktion -> Assist Features zur Nachbereitung bzw. passiert im NachhineinWenn Sie sich jetzt einen Überblick verschafft haben, was verstehen Sie nun unter Playbooks?Nachfragen, wenn die Person dazu noch nichts gesagt hat:Was verstehen Sie unter "Trigger"?Was verstehen Sie unter "Automatisierte Nachbereitung mit Assist"?Was erwarten Sie was passiert, wenn sie die Toggles bedienen?Wenn Sie hier auf "Playbook speichern" drücken: Wo gilt das Playbook nun, das Sie hier angelegt sehen? (Z.B. Anrufe, Mitarbeitenden oder AI Agents)[Zurück zur Startseite]
-
 - **Mentales Modell: **Agenten teilen sich (teilweise) gemeinsames Wissen und gemeine Playbooks
+
+**Szenario** Stellen Sie sich vor, Sie sind Service Lead von 10 Mitarbeitenden und es gibt mittlerweile auch AI Agents, die zusätzlich zu den Mitarbeitenden telefonieren. **Prototyp** [https://sipgate-aurix.lovable.app/](https://sipgate-aurix.lovable.app/)Sie sehen hier das Teamlead Interface um die Telefonie der Mitarbeitenden und AI Agents zu verwalten (Prototyp noch nicht 100%ig funktional).Schauen Sie sich einmal um und beschreiben Sie was Sie sehen, wo Sie sich befinden und was Sie dort machen können.Schauen Sie sich Kacheln an und was sie darunter erwarten (Ignorieren Sie den Bereich Flow API)Sie können sich auch gerne frei reinklicken und schauen, was Sie darunter verstehen. **Wissendatenbank** Wenn Sie nochmal auf die Kachel "Wissen" schauen, was verbirgt sich dahinte? Was können Sie dort machen?Einstieg in Wissensdatenbank UnterseiteVersteht die Person, dass die Wissendatenbank global ist? **Playbooks** Wenn Sie nochmal auf die Kachel "Playbook" schauen, was verbirgt sich dahinter? Was können Sie dort machen?Einstieg in Playbook UnterseiteKlicken Sie auf eins der Playbooks, das Sie an Ihren Arbeitsalltag erinnert.Beschreiben Sie mal, was Sie dort alles sehen und einstellen können, ohne zu klicken.Start -> Gesprächsleitfaden -> Abschlussaktion -> Assist Features zur Nachbereitung bzw. passiert im NachhineinWenn Sie sich jetzt einen Überblick verschafft haben, was verstehen Sie nun unter Playbooks?Nachfragen, wenn die Person dazu noch nichts gesagt hat:Was verstehen Sie unter "Trigger"?Was verstehen Sie unter "Automatisierte Nachbereitung mit Assist"?Was erwarten Sie was passiert, wenn sie die Toggles bedienen?Wenn Sie hier auf "Playbook speichern" drücken: Wo gilt das Playbook nun, das Sie hier angelegt sehen? (Z.B. Anrufe, Mitarbeitenden oder AI Agents)[Zurück zur Startseite]
 
 - **Mentales Modell: **Ein AI-Agent hat menschliche Eigenschaften wie Stimme, Persönlichkeit und Jobbeschreibung
 
@@ -447,6 +447,8 @@ Gleicher Laden
 Ruft mich zurück
 
 - Nutzen Xing Recruiter, machen uns Angebot bis Montag 17.11.
+
+
 
 
 
