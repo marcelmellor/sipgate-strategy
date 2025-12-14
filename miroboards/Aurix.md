@@ -362,39 +362,11 @@ Ist
 
 
 
-## Weitere Ideen für Research Techniken
-
-**Mentale Modelle der Begriffswelt / Terminologie - Card Sorting**
-
-Zentrale Begriffe: *Agent, Playbook, Queue, Workflow, Tool, Assist, Job, Wissen…*
-
-**Clustern**: *“Was gehört für Sie zusammen – und warum?”***Ordnen**: *“Was ist übergeordnet, was ist Teil wovon?”**“Was fehlt? Was ist unklar? Was wäre ein besserer Begriff?”*
-
-**Aufgaben für die Informationsarchitektur mit Tree Testing**
-
-- Vereinfachte Struktur von Aurix zeigen
-
-„Sie wollen einen neuen Agenten konfigurieren – wo würden Sie klicken?“„Sie möchten ein Gesprächsleitfaden (Playbook) erstellen – wo im Menü?“„Sie möchten steuern, wie Nachbearbeitung von Calls läuft – wo?“„Warum haben Sie diesen Pfad genommen?“ „Was war klar, was war verwirrend?“
-
-Wie schnell und einfach kommen die Leute an die entsprechenden Orte
-
-**Verständnis und Modellierung von *Agenten und Playbooks***
-
-- Wenn Sie hier ‘Agent’ lesen – was stellen Sie sich darunter vor?
-
-- “Agent” in drei Kontexten zeigen – mit/ohne Stimme, mit Jobbeschreibung, mit Persönlichkeitsprofil ->*“Was passt für Sie, was irritiert?*
-
-- Welche Aufgaben hat ein Playbook in diesem Zusammenhang?
-
-***Queue*- und *Workflow*-Logik**
-
-- Was verstehen Sie unter einem Workflow
-
-- Zwei gegensätzliche Darstellungen von Workflows zweigen – oben nach Gesamtlogik, unten als lokale Einstellung: *“Was fühlt sich für Sie natürlicher an – und warum?*
-
 ## Research Plan
 
 Vorbereitung
+
+- Anzahl Teilnehmer: 15?
 
 - [https://sipgate-aurix.lovable.app/](https://sipgate-aurix.lovable.app/)
 
@@ -426,27 +398,35 @@ Vorbereitung
 
 [Produktvision](https://sipgate-aurix.lovable.app/)
 
-## Prototypen Test
-
-- **Mentales Modell: **Agenten teilen sich (teilweise) gemeinsames Wissen und gemeine Playbooks
-
-**Szenario** Stellen Sie sich vor, Sie sind Service Lead von 10 Mitarbeitenden und es gibt mittlerweile auch AI Agents, die zusätzlich zu den Mitarbeitenden telefonieren. **Prototyp** [https://sipgate-aurix.lovable.app/](https://sipgate-aurix.lovable.app/)Sie sehen hier das Teamlead Interface um die Telefonie der Mitarbeitenden und AI Agents zu verwalten (Prototyp noch nicht 100%ig funktional).Schauen Sie sich einmal um und beschreiben Sie was Sie sehen, wo Sie sich befinden und was Sie dort machen können.Schauen Sie sich Kacheln an und was sie darunter erwarten (Ignorieren Sie den Bereich Flow API)Sie können sich auch gerne frei reinklicken und schauen, was Sie darunter verstehen. **Wissendatenbank** Wenn Sie nochmal auf die Kachel "Wissen" schauen, was verbirgt sich dahinte? Was können Sie dort machen?Einstieg in Wissensdatenbank UnterseiteVersteht die Person, dass die Wissendatenbank global ist? **Playbooks** Wenn Sie nochmal auf die Kachel "Playbook" schauen, was verbirgt sich dahinter? Was können Sie dort machen?Einstieg in Playbook UnterseiteKlicken Sie auf eins der Playbooks, das Sie an Ihren Arbeitsalltag erinnert.Beschreiben Sie mal, was Sie dort alles sehen und einstellen können, ohne zu klicken.Start -> Gesprächsleitfaden -> Abschlussaktion -> Assist Features zur Nachbereitung bzw. passiert im NachhineinWenn Sie sich jetzt einen Überblick verschafft haben, was verstehen Sie nun unter Playbooks?Nachfragen, wenn die Person dazu noch nichts gesagt hat:Was verstehen Sie unter "Trigger"?Was verstehen Sie unter "Automatisierte Nachbereitung mit Assist"?Was erwarten Sie was passiert, wenn sie die Toggles bedienen?Wenn Sie hier auf "Playbook speichern" drücken: Wo gilt das Playbook nun, das Sie hier angelegt sehen? (Z.B. Anrufe, Mitarbeitenden oder AI Agents)[Zurück zur Startseite]
-
-- **Mentales Modell: **Ein AI-Agent hat menschliche Eigenschaften wie Stimme, Persönlichkeit und Jobbeschreibung
-
-- **Mentales Modell:  **Ein Agent kann an verschiedenen Stellen der Telefonie eingesetzt werden
-
 ## mercatus\-est\.de/Frame 261
 
 Teststudios
 
-Gleicher Laden
+## Prototypen Test
 
-[https://www.easy-testing.de/](https://www.easy-testing.de/)
+*Alles in orange nicht beim Test vorlesen
 
-Ruft mich zurück
+- **Mentales Modell:** Als Service Lead / Sales Lead möchte steuern, wie Calls geführt und nachbearbeitet werden
 
-- Nutzen Xing Recruiter, machen uns Angebot bis Montag 17.11.
+- **Mentales Modell: **Agenten teilen sich (teilweise) gemeinsames Wissen und gemeine Playbooks
+
+**Szenario** Stellen Sie sich vor, Sie sind Service Lead von 10 Mitarbeitenden und es gibt mittlerweile auch AI Agents, die zusätzlich zu den Mitarbeitenden telefonieren. **Prototyp** [https://sipgate-aurix.lovable.app/](https://sipgate-aurix.lovable.app/)Sie sehen hier das Teamlead Interface um die Telefonie der Mitarbeitenden und AI Agents zu verwalten (Prototyp noch nicht 100%ig funktional).Schauen Sie sich einmal um und beschreiben Sie was Sie sehen, wo Sie sich befinden und was Sie dort machen können.Schauen Sie sich Kacheln an und was sie darunter erwarten (Ignorieren Sie den Bereich Flow API)Sie können sich auch gerne frei reinklicken und schauen, was Sie darunter verstehen. **Wissendatenbank** Wenn Sie nochmal auf die Kachel "Wissen" schauen, was verbirgt sich dahinter? Was können Sie dort machen?Einstieg in Wissensdatenbank UnterseiteVersteht die Person, dass die Wissendatenbank global ist? **Playbooks** Wenn Sie nochmal auf die Kachel "Playbook" schauen, was verbirgt sich dahinter? Was können Sie dort machen?Einstieg in Playbook UnterseiteKlicken Sie auf eins der Playbooks, das Sie an Ihren Arbeitsalltag erinnert.Beschreiben Sie mal, was Sie dort alles sehen und einstellen können, ohne zu klicken.Start -> Gesprächsleitfaden -> Abschlussaktion -> Assist Features zur Nachbereitung bzw. passiert im NachhineinWenn Sie sich jetzt einen Überblick verschafft haben, was verstehen Sie nun unter Playbooks?Nachfragen, wenn die Person dazu noch nichts gesagt hat:Was verstehen Sie unter "Trigger"?Was verstehen Sie unter "Automatisierte Nachbereitung mit Assist"?Was erwarten Sie was passiert, wenn sie die Toggles bedienen?Wenn Sie hier auf "Playbook speichern" drücken: Wo gilt das Playbook nun, das Sie hier angelegt sehen? (Z.B. Anrufe, Mitarbeitenden oder AI Agents)[Zurück zur Startseite]
+
+- **Mentales Modell: **Menschen und Agenten arbeiten (teilweise) an ähnlichen Anrufen / Gesprächsleitfäden · **Mentales Modell: **Ein bestimmter Anruftyp (z.B. Terminvereinbarung) verlangt einen bestimmten Gesprächsleitfaden und auch eine bestimmte Art der Nachbearbeitung
+
+- **Hypothese:** Menschen verstehen nicht, was die Assist Funktionen sind, inkl. Toggles und dass Manches. · **Fragen: **Versteht man, wie Playbooks funktionieren? Versteht man, wie sie aktiviert werden? Versteht man, dass die Playbooks global sind?
+
+- **Mentales Modell: **Unter Agent verstehe ich einen "AI-Agenten" · **Mentales Modell: **Ein AI-Agent hat menschliche Eigenschaften wie Stimme, Persönlichkeit und Jobbeschreibung
+
+- **Mentales Modell:  **Ein Agent kann an verschiedenen Stellen der Telefonie eingesetzt werden
+
+**AI Agent konfigurieren:** Angenommen Sie jetzt möchten Sie den *"Support AI Agenten"* konfigurieren. Wie gehen Sie da vor?Einstieg in Agent UnterseiteSchauen Sie sich auf der Seite einmal um: Was können Sie hier tun?Wie würden Sie den AI Agent das für Ihr Team konfigurieren? Klicken Sie sich einmal durch alle Reiter durch. Person sollte an diesen Einstellungen vorbeikommen:*Grundeinstellungen* (Name, RN)*Personalisierung des Agents* Name, wie förmlich, Stimme, Persönlichkeit prompten (beratend, informativ, etc.), Tonalität*Briefing* (Rolle des Agents, Begrüßungsphrase, weitere Anweisungen fürs VH inkl. pre-sets)*Wissen *Wissensdatenbank mit Docs die man hinzufügen oder erstellen kann, Kundendatenbanken (toggle - an aus) -> Kennt die Person schon*Playbooks* (Standard ist wenn nichts anderes ausgewählt ist) -> Kennt die Person schon*Workflows* zur Nachbearbeitung **Verständnis wo AI Agent aktiv ist** Wo glauben Sie ist der AI Agent gerade aktiv? [Zurück zur Startseite] **Queues** Wenn Sie nochmal auf die Kachel "Queue" schauen, was verbirgt sich dahinter?Was können Sie dort machen?Einstieg in Queue UnterseiteWürdest du sagen, AI Agents sind Teil Queue oder immer davor oder danach oder parallel?In der Queue sind nur Menschen. AI Agenten sind davor, übernehmen danach (z.B. nach x Zeit in Warteschleife) oder parallel (z.B. außerhalb der Geschäftszeiten).*Über die Queue kann man steuern, wann AI Agents rangehen sollen: Anruf kann in bestimmten Queues durch ein Playbook an AI Agents weitergeleitet werden.**Ein AI Agent kann über seine eigene RN erreichbar sein.**Ein AI Agent kann selbst weiterleiten.* [Zurück zur Startseite] Wie würden Sie es einstellen wenn ein AI Agent immer im 1st Level Support drangeht und im 2nd Level echte Mitarbeitende telefonieren?Wir wollen nur den ersten Gedanken zum Einstieg: Klickt man auf Queue oder Playbook?  **Abschlussfrage** Wie relevant ist sind diese Funktionen für Sie?
+
+- **Mentales Modell: **In einer Queue verknüpfe ich Rufnummer, menschliche Agenten und Warteschleifen-Logik
+
+- **Mentales Modell: **Die Telefonie von 1st und 2nd Level Support manage ich über die Queues (nicht Playbooks)
+
+**TBD** Test wahrscheinlich zu lang für 30 Min - Nochmal drüberschauen: Was ist das wichtigste?Wir hatten die Frage, wo werden Trigger aus der Nachbereitung mit Assist hingeschrieben? (CRM etc.) Funktion noch in den Prototypen integrieren?
 
 
 
@@ -458,3 +438,56 @@ Ruft mich zurück
 
 
 
+
+
+
+
+## QM
+
+![image-3458764651931137111](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517465534667?format=preview&redirect=false)
+
+Qualitätsmanagement
+
+OVERVIEW
+
+- Data grid mit allen Calls
+
+- Wie interagieren User mit dem Datagrid -  Wie (wertvoll) wird ein Datagrid mit allen Calls wahrgenommen?
+
+Analyse Hub
+
+AI AGENTS
+
+- aktuelle Frontdesk Analyse
+
+Analyse
+
+- Was wir lernen können: Wie wird das zentrale QM wahrgenommen? (alles an einer Stelle & filterbar) · Was wir lernen können: Wird verstanden, dass sich das QM  auf Menschen und AI bezieht? · Problem: KPIs auf dem Analyse Bord bezieht sich vorrangig  auf AI . · Wir haben noch kein Konzept, welches AI und Menschen denkt.
+
+QUEUES
+
+- Naming schwierig. Queues beinhalten AI Agents (?!!!)
+
+- Wie wird zwischen den Bereichen AI Agent & Queues navigiert? · Was brauchen User um einen ganzheitlichen Blick auf die Hotline zu bekommen, · Kriegen eher Irritationen mit, warum es getrennte Bereiche sind. · Näher am aktuellem Produktstand
+
+Live Monitoring
+
+- aktuelle Konzepte
+
+- Was wir lernen können:  Welche Daten braucht&#39;s für den ganzheitlichen Blick / Zusammenspiel AI & Mensch
+
+- Problem: Live Dashboard nur auf Queue (Menschen)
+
+Analyse
+
+Live Monitoring
+
+## Frame 264
+
+Zum Board für die Proband:innen:
+
+- [https://miro.com/app/board/uXjVGcKDX-U&#61;/](https://miro.com/app/board/uXjVGcKDX-U&#61;/)
+
+Zum Leitfaden
+
+- [https://docs.google.com/document/d/1i3pfyW_wA4Jnp4RYKHcWpedbbKURt5ea4WKfsetZdk0/edit?tab&#61;t.0](https://docs.google.com/document/d/1i3pfyW_wA4Jnp4RYKHcWpedbbKURt5ea4WKfsetZdk0/edit?tab&#61;t.0)
