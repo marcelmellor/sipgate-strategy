@@ -491,3 +491,248 @@ Zum Board für die Proband:innen:
 Zum Leitfaden
 
 - [https://docs.google.com/document/d/1i3pfyW_wA4Jnp4RYKHcWpedbbKURt5ea4WKfsetZdk0/edit?tab&#61;t.0](https://docs.google.com/document/d/1i3pfyW_wA4Jnp4RYKHcWpedbbKURt5ea4WKfsetZdk0/edit?tab&#61;t.0)
+
+## Marcel
+
+- **Job & Unternehmen**
+
+- **Service **
+
+- **Kauf-entscheidung (Head Of Support)**
+
+- **Relevante Use Cases**
+
+- **Card Sorting**
+
+- **Prototyp**
+
+- **Kachel "Wissens-datenbank"**
+
+- **Kachel "Play-books"**
+
+- **Al Agent konfigurieren**
+
+- **Queues**
+
+- **Qualitäts-mgmt**
+
+- **Wrapup**
+
+- 150 MA
+
+- Möbelhandel
+
+- hochpreisige Möbel (wie z.B. Höffner und nicht Pocco)
+
+- **AI Agents**
+
+- **Queues**
+
+- **Data Grid**
+
+
+
+
+
+## Lars
+
+- **Job & Unternehmen**
+
+- **Service **
+
+- **Kaufentscheidung (Head Of Support)**
+
+- **Relevante Use Cases**
+
+- **Ai im Service**
+
+- **Admin / Einstellungen**
+
+- **Card Sorting**
+
+- **Prototyp**
+
+- **Kachel "Wissens-datenbank"**
+
+- **Kachel "Play-books"**
+
+- **Al Agent konfigurieren**
+
+- **Queues**
+
+- **Qualitäts-mgmt**
+
+- **Wrapup**
+
+- Personalberatung · Unternehmen zu EInstellungen
+
+- aktuell bisschen geschrupft, weil wirtschaftliche lage nicht die beste ist · ca. 450 Mitarbeitende
+
+- **AI Agents**
+
+- **Queues**
+
+- **Data Grid**
+
+- Fokus mit Unternehmen zusammenzuarbeiten (früher viel Personalbedarf, und konnten das nicht dementsprechend besetzen) · Überzeugen durch Tolles Kanidaten Kataloug, ...
+
+- hat ein eigenes Team
+
+- Leute finden für Jobs.
+
+- Finanzbereich
+
+- mit Kandidtaten und Unternehen sprechen
+
+- fach und führungskräfte
+
+
+
+
+
+## Tomas
+
+- **Job & Unternehmen**
+
+- **Service **
+
+- **Kauf-entscheidung (Head Of Support)**
+
+- **Relevante Use Cases**
+
+- **Ai im Service**
+
+- **Admin / Einstellungen**
+
+- **Card Sorting**
+
+- **Prototyp**
+
+- **Kachel "Wissens-datenbank"**
+
+- **Kachel "Play-books"**
+
+- **Al Agent konfigurieren**
+
+- **Queues**
+
+- **Qualitäts-mgmt**
+
+- **Wrapup**
+
+- **AI Agents**
+
+- **Queues**
+
+- **Data Grid**
+
+
+
+
+
+## Paul
+
+- **Job & Unternehmen**
+
+- **Kauf-entscheidung (Head Of Support)**
+
+- **Relevante Use Cases**
+
+- **Card Sorting**
+
+- **Prototyp**
+
+- **Kachel "Wissens-datenbank"**
+
+- **Kachel "Play-books"**
+
+- **Al Agent konfigurieren**
+
+- **Queues**
+
+- **Qualitäts-mgmt**
+
+- **Wrapup**
+
+
+
+## Dominic
+
+- **Job & Unternehmen**
+
+- **Kauf-entscheidung (Head Of Support)**
+
+- **Relevante Use Cases**
+
+- **Card Sorting**
+
+- **Prototyp**
+
+- **Kachel "Wissens-datenbank"**
+
+- **Kachel "Play-books"**
+
+- **Al Agent konfigurieren**
+
+- **Queues**
+
+- **Qualitäts-mgmt**
+
+- **Wrapup**
+
+
+
+
+
+
+
+## Frame 265
+
+- **Kundendienstleiter im Einzelhandel (Möbel- & Küchen)**
+
+- **Teamleiter in der Personalberatung**
+
+- **CTO im IT-Systemhaus**
+
+- **CTO in der Erlebnisgastronomie**
+
+**Technisches Verständnis & Arbeitsweise** Kann **Prototypen gut nachvollziehen**Leichte Irritation wegen **Sprachmix Deutsch/Englisch**Nicht immer tief in **technischen Details oder Abläufen** drin **Einschätzung & Feedback** Sehr **angetan von unserer Lösung**, besonders von den **Workflows**Positiv überrascht, wie verständlich der Prototyp ist **Potenziale & Weiterentwicklung** Sieht **klar weiteres Potenzial**, v. a. bei:**Monitoring****Professionalisierung und Feinjustierung**Verständnis dafür, dass KI:Wissen über **Öffnungszeiten** etc. brauchtüber **APIs** mit Systemen verbunden sein mussklar definierte **Weiterleitungs- und Aktionslogiken** benötigt
+
+![image-3458764652883099334](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
+
+![image-3458764652883099432](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
+
+- **Hypothese: Hier wird das Call Routing festgelegt**
+
+![image-3458764652883099577](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
+
+![image-3458764652883099471](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
+
+![image-3458764652883099706](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: AI Agents & Mitarbeitende teilen sich Wissen**
+
+- **Hypothese: Ein Gesprächstyp verlangt einen Leitfaden und Nachbereitung**
+
+- **QUALITÄTSMANAGEMENT**
+
+![image-3458764652883312099](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
+
+![image-3458764652883312237](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
+
+![image-3458764652883311953](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
