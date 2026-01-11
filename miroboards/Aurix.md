@@ -688,16 +688,6 @@ Zum Leitfaden
 
 ## Frame 265
 
-- **Kundendienstleiter im Einzelhandel (Möbel- & Küchen)**
-
-- **Teamleiter in der Personalberatung**
-
-- **CTO im IT-Systemhaus**
-
-- **CTO in der Erlebnisgastronomie**
-
-**Technisches Verständnis & Arbeitsweise** Kann **Prototypen gut nachvollziehen**Leichte Irritation wegen **Sprachmix Deutsch/Englisch**Nicht immer tief in **technischen Details oder Abläufen** drin **Einschätzung & Feedback** Sehr **angetan von unserer Lösung**, besonders von den **Workflows**Positiv überrascht, wie verständlich der Prototyp ist **Potenziale & Weiterentwicklung** Sieht **klar weiteres Potenzial**, v. a. bei:**Monitoring****Professionalisierung und Feinjustierung**Verständnis dafür, dass KI:Wissen über **Öffnungszeiten** etc. brauchtüber **APIs** mit Systemen verbunden sein mussklar definierte **Weiterleitungs- und Aktionslogiken** benötigt
-
 ![image-3458764652883099334](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
 
 ![image-3458764652883099432](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
