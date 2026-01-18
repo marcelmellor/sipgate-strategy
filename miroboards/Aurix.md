@@ -660,9 +660,15 @@ Zum Leitfaden
 
 - **Job & Unternehmen**
 
+- **Service **
+
 - **Kauf-entscheidung (Head Of Support)**
 
 - **Relevante Use Cases**
+
+- **Ai im Service**
+
+- **Admin / Einstellungen**
 
 - **Card Sorting**
 
@@ -680,17 +686,27 @@ Zum Leitfaden
 
 - **Wrapup**
 
+- **AI Agents**
 
 
 
 
 
 
-## Frame 265
+
+## Interviewpartner 1
+
+- **PROTOTYP**
+
+![image-3458764652887143607](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488835890?format=preview&redirect=false)
+
+- **MENTALE MODELLE**
 
 ![image-3458764652883099334](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
 
 ![image-3458764652883099432](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
 
 - **QUALITÄTSMANAGEMENT**
 
@@ -723,6 +739,152 @@ Zum Leitfaden
 ![image-3458764652883312237](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
 
 ![image-3458764652883311953](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+- **Welche Informationen braucht es für einen ganzheitlichen Überblick?**
+
+- **Struktur des Qualitätsmanagements**
+
+- **QUALITÄTSMANAGEMENT**
+
+
+
+
+
+## Interviewpartner 2
+
+- **PROTOTYP**
+
+![image-3458764655337032899](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488835890?format=preview&redirect=false)
+
+- **MENTALE MODELLE**
+
+![image-3458764655337032876](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
+
+![image-3458764655337032877](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
+
+- **Hypothese: Hier wird das Call Routing festgelegt**
+
+![image-3458764655337032879](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
+
+![image-3458764655337032878](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
+
+![image-3458764655337032880](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: AI Agents & Mitarbeitende teilen sich Wissen**
+
+- **Hypothese: Ein Gesprächstyp verlangt einen Leitfaden und Nachbereitung**
+
+- **QUALITÄTSMANAGEMENT**
+
+![image-3458764655337032882](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
+
+![image-3458764655337032883](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
+
+![image-3458764655337032881](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+- **Welche Informationen braucht es für einen ganzheitlichen Überblick?**
+
+- **Struktur des Qualitätsmanagements**
+
+- **QUALITÄTSMANAGEMENT**
+
+## Interviewpartner 3
+
+![image-3458764655337250266](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
+
+![image-3458764655337250267](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
+
+![image-3458764655337250269](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
+
+![image-3458764655337250268](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
+
+![image-3458764655337250270](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+![image-3458764655337250272](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
+
+![image-3458764655337250273](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
+
+![image-3458764655337250271](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+## Interviewpartner 4
+
+- **PROTOTYP**
+
+![image-3458764655337250325](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488835890?format=preview&redirect=false)
+
+- **MENTALE MODELLE**
+
+![image-3458764655337250302](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
+
+![image-3458764655337250303](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
+
+- **Hypothese: Hier wird das Call Routing festgelegt**
+
+![image-3458764655337250305](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
+
+![image-3458764655337250304](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
+
+![image-3458764655337250306](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: AI Agents & Mitarbeitende teilen sich Wissen**
+
+- **Hypothese: Ein Gesprächstyp verlangt einen Leitfaden und Nachbereitung**
+
+- **QUALITÄTSMANAGEMENT**
+
+![image-3458764655337250308](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
+
+![image-3458764655337250309](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
+
+![image-3458764655337250307](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+- **Welche Informationen braucht es für einen ganzheitlichen Überblick?**
+
+- **Struktur des Qualitätsmanagements**
 
 - **QUALITÄTSMANAGEMENT**
 
