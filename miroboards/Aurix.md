@@ -610,7 +610,7 @@ Zum Leitfaden
 
 - **Kachel "Wissens-datenbank"**
 
-- **Kachel "Play-books"**
+- **Kachel "Playbooks"**
 
 - **Al Agent konfigurieren**
 
@@ -726,8 +726,6 @@ Zum Leitfaden
 
 - **QUALITÄTSMANAGEMENT**
 
-- **QUALITÄTSMANAGEMENT**
-
 - **Hypothese: AI Agents & Mitarbeitende teilen sich Wissen**
 
 - **Hypothese: Ein Gesprächstyp verlangt einen Leitfaden und Nachbereitung**
@@ -749,6 +747,42 @@ Zum Leitfaden
 
 
 
+
+## Interviewpartner 3
+
+- **MENTALE MODELLE**
+
+![image-3458764655337250266](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
+
+![image-3458764655337250267](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
+
+![image-3458764655337250269](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
+
+![image-3458764655337250268](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
+
+![image-3458764655337250270](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+![image-3458764655337250272](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
+
+![image-3458764655337250273](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
+
+![image-3458764655337250271](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Welche Informationen braucht es für einen ganzheitlichen Überblick?**
 
 ## Interviewpartner 2
 
@@ -802,53 +836,63 @@ Zum Leitfaden
 
 - **QUALITÄTSMANAGEMENT**
 
-## Interviewpartner 3
-
-![image-3458764655337250266](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
-
-![image-3458764655337250267](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
-
-- **QUALITÄTSMANAGEMENT**
-
-- **QUALITÄTSMANAGEMENT**
-
-- **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
-
-![image-3458764655337250269](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
-
-![image-3458764655337250268](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
-
-![image-3458764655337250270](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
-
-- **QUALITÄTSMANAGEMENT**
-
-- **QUALITÄTSMANAGEMENT**
-
-- **QUALITÄTSMANAGEMENT**
-
-- **QUALITÄTSMANAGEMENT**
-
-![image-3458764655337250272](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
-
-![image-3458764655337250273](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
-
-![image-3458764655337250271](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
-
-- **QUALITÄTSMANAGEMENT**
-
 ## Interviewpartner 4
 
 - **PROTOTYP**
 
+- "Queue ist ein gängiger Begriff, das kenn ich von Teams und aus der Telefonie - also einfach die Anrufwarteschlange."
+
+- "AI Agents würde ich sagen sind irgendwie KI-Agenten, die irgendetwas tun - vielleicht auch einzeln auf irgendeine Art von Thematik abgestimmt: Z. B. einen für Reservierungen, einen anderen für technische Dinge."
+
+- "Man legt hier fest, wie lange man in irgendeiner Art von Warteschlange verweilen kann und nach vorgegebenen Bedingungen wird man vielleicht weitergeleitet. Solche Dinge kann man da sicherlich festlegen.
+
+- Queues sind ein vertrautes Konzept. Er denkt an Kapazitäten, Wartezeiten und Überläufe. AI kann helfen, indem Anrufende gar nicht erst in der Queue landen müssen.
+
+- AI Agents als konfigurierbare Einheiten, die Anrufe annehmen, Informationen abfragen, nachschlagen und Entscheidungen treffen  (inkl. Weiterleiten). Der Nutzen liegt  in der Entlastung der Hotline bei häufig wiederkehrenden Fragen.
+
+- "Workflow ist eine Art von Branching, also dass man Verzweigungen hat, wie eine Art von Logik in einem Programm. Nur deutlich einfacher als eine Programmierung."
+
+- "Workflow ist z. B. etwas, wenn die Eingabe erfolgt, dass es sich um ein größeres Event handelt, dann erfolgt eine Weiterleitung."
+
+- Wissensdatenbank als  ein Nachschlagewerk, das über APIs angebunden ist, konkrete Antworten liefern kann und mit Live-Daten arbeitet.
+
+- Workflows  als logische Abläufe: Eingaben der Anrufenden führen zu bestimmten Aktionen (Weiterleitungen, API-Abfragen). Er sieht hier starke Analogien zu n8n. Ein Workflow ist für ihn  technisch-funktional: *Wenn X, dann Y*.
+
+- Playbooks  als Handlungsrahmen  – eine Mischung aus Wissen & Ablauf.  Im Unterschied zu Workflows geht es weniger um technische Logik, sondern um inhaltliche Struktur. Welche Informationen werden zuerst abgefragt? Wie wird ein Gast identifiziert?
+
 ![image-3458764655337250325](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488835890?format=preview&redirect=false)
+
+- Unklarheit, die Begriffe Agent, Workflow & Playbook voneinander abzugrenzen: „ist ja ähnlich wie ich es bereits erklärt habe“,  "das ist Denglisch" Es ist beispielsweise nicht klar, was genau ein AI Agent im Unterschied zu einem Call Flow, einem Regelwerk und der klassischen Hotline-Logik ist.
+
+- Qualitätsmanagement beinhalten Metriken, Dashboards, Reports. Z. B. Wie viele Anrufe kommen rein? Welche Themen dauern lange?
+
+- „Was ist eine Performance von einem AI Agent? – Da tue ich mich schwer“
+
+- Data Grid als strukturierte Auswertungsebene: Texterkennung, Themencluster, Gesprächsinhalte. Also nicht nur *was* gesagt wurde, sondern *worum es ging* und *wie*. Es dient als Grundlage für Insights: Welche Fragen kommen häufig? Wo fehlen Informationen?
+
+
+
+
+
+## Interviewpartner 5 \- Verständnis der Begriffe
+
+- Konfiguration von AI Agent: bei Automatisierung -> Wissen
+
+- offensichtlich, dass man da verschiedene AI Agents hat, die man steuern kann
+
+- Weiß er nicht
+
+- Uhrzeiten anpassen, Telefonansagen
+
+## Interviewpartner 5 \- Mentale Modelle
 
 - **MENTALE MODELLE**
 
-![image-3458764655337250302](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
+![image-3458764656507759326](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
 
-![image-3458764655337250303](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+![image-3458764656507759327](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
 
-- **QUALITÄTSMANAGEMENT**
+- **Hypothese: Hier wird das Call Routing/ das Service Team festgelegt.**
 
 - **QUALITÄTSMANAGEMENT**
 
@@ -856,19 +900,13 @@ Zum Leitfaden
 
 - **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
 
-- **Hypothese: Hier wird das Call Routing festgelegt**
+- **Hypothese: Ein AI Agent kann an verschiedenen Stellen der Telefonie eingesetzt werden**
 
-![image-3458764655337250305](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
+![image-3458764656507759329](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
 
-![image-3458764655337250304](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
+![image-3458764656507759328](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
 
-![image-3458764655337250306](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
-
-- **QUALITÄTSMANAGEMENT**
-
-- **QUALITÄTSMANAGEMENT**
-
-- **QUALITÄTSMANAGEMENT**
+![image-3458764656507759330](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
 
 - **Hypothese: AI Agents & Mitarbeitende teilen sich Wissen**
 
@@ -876,15 +914,187 @@ Zum Leitfaden
 
 - **QUALITÄTSMANAGEMENT**
 
-![image-3458764655337250308](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
-
-![image-3458764655337250309](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
-
-![image-3458764655337250307](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
-
-- **Welche Informationen braucht es für einen ganzheitlichen Überblick?**
-
-- **Struktur des Qualitätsmanagements**
+- **QUALITÄTSMANAGEMENT**
 
 - **QUALITÄTSMANAGEMENT**
+
+- **Frage: Blickt man beim Erstellen von Workflows auf die Gesamttelefonie oder auf einen spitzen Use Case?**
+
+- **Hypothese: AI Agents & Mitarbeitende teilen sich Playbooks**
+
+- **QUALITÄTSMANAGEMENT**
+
+![image-3458764656507759332](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
+
+![image-3458764656507759333](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
+
+![image-3458764656507759331](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+- **Teamleads wollen das Coaching von Mitarbeitenden an einen objektiven AI Agenten auslagern. **
+
+- **Warteschleife - Wie wertvoll ist die prognostizierte Wartezeit vs. Positionsansage**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: Teamleads möchten in der Analyse den gesamtheitlichen Blick auf die Hotline haben. (vs. aktuell die zwei getrennten Ansichten)**
+
+- **Hypothese: Teamleads wünschen sich  ein Live Monitoring zu den AI Agent Calls.**
+
+## Copy of Interviewpartner 5 \- Verständnis der Begriffe
+
+- Was mir sofort auffällt,ist die Vermischung von deutsch/ englisch
+
+- Wissen für alle
+
+![image-3458764656511786110](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517581340881?format=preview&redirect=false)
+
+- Auf die Fachbegriffe zugreifen kann. sehr wichtig
+
+## Copy of Interviewpartner 5 \- Mentale Modelle
+
+- **MENTALE MODELLE**
+
+![image-3458764656511786112](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
+
+![image-3458764656511786113](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+
+- **Hypothese: Hier wird das Call Routing/ das Service Team festgelegt.**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
+
+- **Hypothese: Ein AI Agent kann an verschiedenen Stellen der Telefonie eingesetzt werden**
+
+![image-3458764656511786115](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
+
+![image-3458764656511786114](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
+
+![image-3458764656511786116](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
+
+- **Hypothese: AI Agents & Mitarbeitende teilen sich Wissen**
+
+- **Hypothese: Ein Gesprächstyp verlangt einen Leitfaden und Nachbereitung**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Frage: Blickt man beim Erstellen von Workflows auf die Gesamttelefonie oder auf einen spitzen Use Case?**
+
+- **Hypothese: AI Agents & Mitarbeitende teilen sich Playbooks**
+
+- **QUALITÄTSMANAGEMENT**
+
+![image-3458764656511786118](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
+
+![image-3458764656511786119](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
+
+![image-3458764656511786117](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+## Copy of Interviewpartner 5 \- Kontext
+
+- IT-affinität
+
+- Unternehmen
+
+- KI und Einsatz von KI
+
+- Rolle & Verantwortung
+
+- Struktur des Service
+
+- Wer macht Einstellungen in der Telefonie?
+
+- Aufgaben seines Teams
+
+- Buying Entscheidung
+
+- Anrufe
+
+- Kommunikationskanäle
+
+- **Hohes Interesse am Monitoring** · Monitoring & Erreichbarkeitsziele
+
+## Frame 265
+
+- customer intelligence: Infos die das Leben vereinfachen
+
+- Data hub - große Datensammlung als Bündel darstellen
+
+- AI Agents nutzen wir auch - aber als Fehlersuche (Ausreißer definieren und ...)
+
+- Playbooks: keine Vorstellung
+
+- Queues: Sacht mir nichts
+
+- Agenten: Bisschen so wie bei aI, dass man so gewisse Faktoren festmacht, die nicht sein sollen
+
+- Live Monitoring: Echtzeitdaten
+
+- Kriterien: Anruferzufriedenheit
+
+- Effizienzsteuerung / braucht man mit AI agents länger?
+
+- Coaching: Arbeitserleichterung / Entscheidungsstützen holen bei Bedarf
+
+- Kundenzufriedenheit: will er wissen; ohne dass diese die Leitung blockieren während sie feedback da lassen
+
+- wöchentliche JF: kein Coaching an sich (nicht die Welt erklären, wie man sich am Telefon verhält); aber dass man Argumente den MA mit an die Hand gibt
+
+## Copy of Interviewpartner 5 \- Verständnis der Begriffe
+
+![image-3458764656636397784](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517581340881?format=preview&redirect=false)
+
+## Copy of Interviewpartner 5 \- Mentale Modelle
+
+![image-3458764656636397786](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
+
+![image-3458764656636397787](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+
+![image-3458764656636397789](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
+
+![image-3458764656636397788](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
+
+![image-3458764656636397790](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
+
+![image-3458764656636397792](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
+
+![image-3458764656636397793](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
+
+![image-3458764656636397791](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+## Copy of Interviewpartner 5 \- Kontext
+
+- IT-affinität
+
+- Unternehmen
+
+- KI und Einsatz von KI
+
+- Rolle & Verantwortung
+
+- Wer macht Einstellungen in der Telefonie?
+
+- Struktur des Service
+
+- Buying Entscheidung
+
+- Aufgaben seines Teams
+
+- Kommunikationskanäle
+
+- Anrufe
+
+- **Hohes Interesse am Monitoring** · Monitoring & Erreichbarkeitsziele
+
+
+
+
 
