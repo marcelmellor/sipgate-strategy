@@ -1092,7 +1092,147 @@ Zum Leitfaden
 
 - Anrufe
 
+- Monitoring & Erreichbarkeitsziele
+
+
+
+
+
+
+
+## Copy of Interviewpartner 5 \- Mentale Modelle
+
+- **MENTALE MODELLE**
+
+![image-3458764656920431240](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
+
+![image-3458764656920431241](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+
+- **Hypothese: Hier wird das Call Routing/ das Service Team festgelegt.**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
+
+- **Hypothese: Ein AI Agent kann an verschiedenen Stellen der Telefonie eingesetzt werden**
+
+![image-3458764656920431243](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
+
+![image-3458764656920431242](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
+
+![image-3458764656920431244](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
+
+- **Hypothese: AI Agents & Mitarbeitende teilen sich Wissen**
+
+- **Hypothese: Ein Gesprächstyp verlangt einen Leitfaden und Nachbereitung**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Frage: Blickt man beim Erstellen von Workflows auf die Gesamttelefonie oder auf einen spitzen Use Case?**
+
+- **Hypothese: AI Agents & Mitarbeitende teilen sich Playbooks**
+
+- **QUALITÄTSMANAGEMENT**
+
+![image-3458764656920431246](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
+
+![image-3458764656920431247](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
+
+![image-3458764656920431245](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+- **Teamleads wollen das Coaching von Mitarbeitenden an einen objektiven AI Agenten auslagern. **
+
+- **Warteschleife - Wie wertvoll ist die prognostizierte Wartezeit vs. Positionsansage**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: Teamleads wünschen sich  ein Live Monitoring zu den AI Agent Calls, um zu verstehen, wie viele und welche Calls diese grade abwickeln (und welche Anruflast im 2nd Level zu erwarten) **
+
+- **Hypothese: Teamleads möchten in der Analyse den gesamtheitlichen Blick auf die Hotline haben. (vs. aktuell die zwei getrennten Ansichten)**
+
+## Copy of Interviewpartner 5 \- Kontext
+
+- IT-affinität
+
+- Unternehmen
+
+- KI und Einsatz von KI
+
+- Rolle & Verantwortung
+
+- Struktur des Service
+
+- Aufgaben seines Teams
+
+- Wer macht Einstellungen in der Telefonie?
+
+- Anrufe
+
+- Buying Entscheidung
+
+- Kommunikationskanäle
+
 - **Hohes Interesse am Monitoring** · Monitoring & Erreichbarkeitsziele
+
+## Copy of Interviewpartner 5 \- Verständnis der Begriffe
+
+![image-3458764656920431323](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517581340881?format=preview&redirect=false)
+
+## Copy of Interviewpartner 5 \- Mentale Modelle
+
+![image-3458764656920431325](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
+
+![image-3458764656920431326](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+
+![image-3458764656920431328](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
+
+![image-3458764656920431327](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
+
+![image-3458764656920431329](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+![image-3458764656920431331](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
+
+![image-3458764656920431332](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
+
+![image-3458764656920431330](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+## Copy of Interviewpartner 5 \- Kontext
+
+- IT-affinität
+
+- Unternehmen
+
+- KI und Einsatz von KI
+
+- Rolle & Verantwortung
+
+- Wer macht Einstellungen in der Telefonie?
+
+- Struktur des Service
+
+- Buying Entscheidung
+
+- Aufgaben seines Teams
+
+- Kommunikationskanäle
+
+- Anrufe
+
+- **Hohes Interesse am Monitoring** · Monitoring & Erreichbarkeitsziele
+
+
+
+
+
+
 
 
 
