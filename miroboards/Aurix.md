@@ -556,8 +556,6 @@ Zum Leitfaden
 
 - **Kachel "Play-books"**
 
-- **Al Agent konfigurieren**
-
 - **Queues**
 
 - **Qualitäts-mgmt**
@@ -694,7 +692,7 @@ Zum Leitfaden
 
 
 
-## Interviewpartner 1
+## Marcel \- Prototyp &\#43; Modell
 
 - **PROTOTYP**
 
@@ -748,7 +746,7 @@ Zum Leitfaden
 
 
 
-## Interviewpartner 3
+## Tomas \- Prototyp &\#43; Modell
 
 - **MENTALE MODELLE**
 
@@ -784,7 +782,7 @@ Zum Leitfaden
 
 - **Welche Informationen braucht es für einen ganzheitlichen Überblick?**
 
-## Interviewpartner 2
+## Lars \- Prototyp &\#43; Modell
 
 - **PROTOTYP**
 
@@ -836,7 +834,7 @@ Zum Leitfaden
 
 - **QUALITÄTSMANAGEMENT**
 
-## Interviewpartner 4
+## Dominic \- Prototyp &\#43; Modell
 
 - **PROTOTYP**
 
@@ -874,7 +872,7 @@ Zum Leitfaden
 
 
 
-## Interviewpartner 5 \- Verständnis der Begriffe
+## Jan \- Prototyp
 
 - Konfiguration von AI Agent: bei Automatisierung -> Wissen
 
@@ -884,7 +882,7 @@ Zum Leitfaden
 
 - Uhrzeiten anpassen, Telefonansagen
 
-## Interviewpartner 5 \- Mentale Modelle
+## Jan \- Mentales Modell
 
 - **MENTALE MODELLE**
 
@@ -940,7 +938,7 @@ Zum Leitfaden
 
 - **Hypothese: Teamleads wünschen sich  ein Live Monitoring zu den AI Agent Calls.**
 
-## Copy of Interviewpartner 5 \- Verständnis der Begriffe
+## Ilham \- Prototyp
 
 - Was mir sofort auffällt,ist die Vermischung von deutsch/ englisch
 
@@ -950,7 +948,7 @@ Zum Leitfaden
 
 - Auf die Fachbegriffe zugreifen kann. sehr wichtig
 
-## Copy of Interviewpartner 5 \- Mentale Modelle
+## Ilham \- Mentales Modell
 
 - **MENTALE MODELLE**
 
@@ -998,7 +996,7 @@ Zum Leitfaden
 
 - **QUALITÄTSMANAGEMENT**
 
-## Copy of Interviewpartner 5 \- Kontext
+## Ilham \- Kontext
 
 - IT-affinität
 
@@ -1022,7 +1020,7 @@ Zum Leitfaden
 
 - **Hohes Interesse am Monitoring** · Monitoring & Erreichbarkeitsziele
 
-## Frame 265
+## Jan \- Begriffe
 
 - customer intelligence: Infos die das Leben vereinfachen
 
@@ -1048,11 +1046,11 @@ Zum Leitfaden
 
 - wöchentliche JF: kein Coaching an sich (nicht die Welt erklären, wie man sich am Telefon verhält); aber dass man Argumente den MA mit an die Hand gibt
 
-## Copy of Interviewpartner 5 \- Verständnis der Begriffe
+## Jasmin \- Prototyp
 
 ![image-3458764656636397784](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517581340881?format=preview&redirect=false)
 
-## Copy of Interviewpartner 5 \- Mentale Modelle
+## Jasmin \- Mentales Modell
 
 ![image-3458764656636397786](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
 
@@ -1070,7 +1068,7 @@ Zum Leitfaden
 
 ![image-3458764656636397791](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
 
-## Copy of Interviewpartner 5 \- Kontext
+## Jasmin \- Kontext
 
 - IT-affinität
 
@@ -1100,7 +1098,7 @@ Zum Leitfaden
 
 
 
-## Copy of Interviewpartner 5 \- Mentale Modelle
+## Nabil \- Mentales Modell
 
 - **MENTALE MODELLE**
 
@@ -1156,7 +1154,7 @@ Zum Leitfaden
 
 - **Hypothese: Teamleads möchten in der Analyse den gesamtheitlichen Blick auf die Hotline haben. (vs. aktuell die zwei getrennten Ansichten)**
 
-## Copy of Interviewpartner 5 \- Kontext
+## Nabil \- Kontext
 
 - IT-affinität
 
@@ -1204,7 +1202,7 @@ Zum Leitfaden
 
 ![image-3458764656920431330](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
 
-## Copy of Interviewpartner 5 \- Kontext
+## Kontext
 
 - IT-affinität
 
@@ -1235,6 +1233,204 @@ Zum Leitfaden
 
 
 
+
+
+
+## Kontext / Service
+
+- Lead
+
+- broad range of experience: bis zu 20 Jahre
+
+- Wie ist der Service strukturiert?
+
+- 30 Mit-arbeitende
+
+
+
+## Begriffe / Runde 2
+
+- **Pre-Prototyp**
+
+- Arbeitsschritte, wie 1:1 Übersetzung *Leitung Kundenservice,  Baubranche*
+
+- Abteilungen/ Bestandlteile *Teamlead, Onlineshop* · SOP, das gibt mir vor, wie ich den Fall zu bearbeiten habe *CC-Teamlead, Healthcare*
+
+- Service, der komplett abgedeckt werden kann, durch AI. *CC-Teamlead, Healthcare*
+
+- künstliche Intelligenz für den Kundenservice * Leitung Kundenservice,  Baubranche*
+
+- KI Agent, den man mal ausprobieren könnte *Teamlead, Onlineshop*
+
+- Richtlinienbuch: Festgehaltene Vorgehensweisen für TMs *CC-Teamlead, Healthcare*
+
+- Skills-Teams (Reklamation, Bestallannahme, App-Support, ...) *CC-Teamlead, Healthcare*
+
+- Keine Vorstellung: Schwierigkeiten mit Englisch *Teamlead, Onlineshop / Leitung Kundenservice Baubranche*
+
+- Playbooks, wie ein Schulungsbuch, kriegen die Agents mit nach Hause nach einer Schulung
+
+- Die Kundenberater, die die Gespräche annehmen und deren Anliegen bearbeiten. *Teamlead, Onlineshop*
+
+- Wie wenn ich mich tatsächilch neben den MA setze: dem MA beim arbeiten zuschauen, zuhören. *CC-Teamlead, Healthcare*
+
+- Direktes, stichprobenartiges Monitoring eines einzelnen Agenten, live dazuschalten mit Gesprächs-ID *Teamlead, Onlineshop*
+
+- Fällt ad hoc nichts zu ein *CC-Teamlead, Healthcare*
+
+- Hub &#61;  Als hätte ich einen USB-Stick *Teamlead, Onlineshop*
+
+- Das was die Mitarbeitenden für Playbooks auf Papier zuhause haben, aber im Internet, wie Intranet *Teamlead, Onlineshop*
+
+- Feedback geben monatlich/wöchentlich *Leitung Kundenservice,  Baubranche* · Machen "side by side" Coaching insbesondere bei neuen MA. Da sitzen sie zusammen in einem virtuellen Raum mit whispering.  *Teamlead, Onlineshop*
+
+- 1:1 Übersetzung, kann mit den Begriffen nichts anfangen *CC-Teamlead, Healthcare*
+
+- Kundenintelligenz - unklar. Vielleicht eine einfache Variante, dem Kunden mehr Hilfestellung zu geben, die mehr auf die Intelligenz geht. Beispiel: Der Kunde bekommt im Hilfecenter nicht die ganz genaue Antwort und holen sich diese dann beim Support statt über die CI. *Teamlead, Onlineshop*
+
+## Runde 1 / AI Agents im Einsatz
+
+- **Kontext**
+
+- Möbel
+
+- **Struktur der Service Teams**
+
+- **Anrufe**
+
+- 11 Personen, verteilt auf 2 Teams
+
+- **1**
+
+- **Unternehmen/Branche**: Möbelhaus, Möbelhandel, Küchenlösungen
+
+- 4 stationäre Standorte
+
+- Kein Online Shop
+
+- Gehobenes Marktsegment
+
+- Küche
+
+- **Aufgaben**
+
+- Auftragsbearbeitung
+
+- Kommunikation mit Hersteller
+
+- Kommunikation mit Kunden
+
+- 2 Möbelhäuser
+
+- 2 Küchenstudios
+
+- **2**
+
+- **Einsatz von KI**
+
+- **1**
+
+- **Erfahrungen**
+
+- **Abgebildete Use Cases**
+
+- **Problem**
+
+- **Bisherige Lösung**
+
+- **Eigene Agent Lösung**
+
+
+
+
+
+
+
+
+
+## Mapping: Vorerfahrung / Einsatz von KI im Unternehmen
+
+- KI woanders im Unternehmen implementiert
+
+- Keine KI implementiert
+
+- Fest als Assistent zur Erledigung einer Teilaufgabe;  in Kollaboration mit dem Menschen
+
+- Ergänzend für eine vollständige Aufgabe; anstelle des Menschen
+
+- Test von AI agents / Rollback; schlechte Erfahrung
+
+- Bedingungen für AI agents im Einsatz
+
+- Emotionales Auffangen zentral für Ilhams Use Cases, wird von KI nicht erfüllt · Ihre Ableitung: **KI folgt einem simplen Standard**  Menschen sind flexibler,  Skepsis
+
+- **Ambivalenz**: sieht sich als KI-Fan, findet das Fine-Tuning zur Imitation menschlicher Eigenschaften befremdlich
+
+- **Ambivalenz:** sieht sich als KI-Fan, aber hat Sorge, dass Service MA ersetzt werden
+
+- Anrufannahme:  In ihrer Vorstellung ist KI immer am Anfang. Und MA kann sich zuschalten, wenn Bedarf beim Anrufenden besteht · Würde am Anfang mithören wollen und auf die Kundenzufriedenheit achten
+
+- **Datenschutz **– Sorge, dass AI agent sensible Unternehmensdaten verrät
+
+- Sie vertraut KI nicht genug, um die Kontrolle abzugeben · Hat die Einschätzung, dass 80% lieber mit einem Menschen sprechen wollen und bereit wären, länger zu warten
+
+- Ilham
+
+- Ilham
+
+- Jasmin
+
+- Nabil
+
+- Während des Calls · Nach dem Call · Monitoring
+
+- AI agents für 1st Level
+
+- Social desirability?
+
+- Nabil
+
+- Trainings über Produktveränderungen, KI gestützt
+
+- Marcel (Runde 1)
+
+- Sensor kaputt
+
+- Sensornummer aufnehmen
+
+- Bestellung  aufgeben
+
+- Ticket
+
+- Abhängig von Produktspezifikiationen
+
+- Übernahme einfacher Anrufe denkbar
+
+- Nabil
+
+- ChatGPT
+
+- Mehrwert:  Wenn mans einmal richtig eingestellt hat, ist das für alle MAs gleich - menschlicher Trainer macht es ggf anders pro Training
+
+- Lieferzeiten mit Lieferanten
+
+- Glaubt, der Kunde hat auch ein Interesse, das mit KI zu machen, zu "vereinfachen"
+
+- Bewertung des Calls als "kritisch", wenn Zufriedenheit nicht angesprochen oder Ruhezeiten überschritten
+
+- Call-Center Kunde wird gemeint sein
+
+- Reklamation
+
+- Authentifikation, z.B. via Bestellnummer, Geburtsdatum, eMail-Adresse
+
+- Wenn einfache Recherche nicht ausreicht, Weiterleitung
+
+- Gesprächsführung: muss deutlich machen, dass eine Weiterleitung stattfinden kann
+
+- Jasmin
+
+- Übernahme einfacher Anrufe denkbar · Kann sich auch vorstellen, dass der AI Agent Rückrufe tätigt, wenn der Kunde einen Ruckruf angefordert hat
 
 
 
