@@ -686,6 +686,10 @@ Zum Leitfaden
 
 - **AI Agents**
 
+- **Queues**
+
+- **Data Grid**
+
 
 
 
@@ -747,6 +751,10 @@ Zum Leitfaden
 
 
 ## Tomas \- Prototyp &\#43; Modell
+
+- **PROTOTYP**
+
+![image-3458764655337250289](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488835890?format=preview&redirect=false)
 
 - **MENTALE MODELLE**
 
@@ -880,7 +888,11 @@ Zum Leitfaden
 
 - Weiß er nicht
 
+- unsicher
+
 - Uhrzeiten anpassen, Telefonansagen
+
+- selber Workflows erstellen, die man dann an AI Agents überspielen kann
 
 ## Jan \- Mentales Modell
 
@@ -932,11 +944,25 @@ Zum Leitfaden
 
 - **Warteschleife - Wie wertvoll ist die prognostizierte Wartezeit vs. Positionsansage**
 
+- **data hub -verständlich dass dort alle daten drin sind**
+
 - **QUALITÄTSMANAGEMENT**
 
 - **Hypothese: Teamleads möchten in der Analyse den gesamtheitlichen Blick auf die Hotline haben. (vs. aktuell die zwei getrennten Ansichten)**
 
 - **Hypothese: Teamleads wünschen sich  ein Live Monitoring zu den AI Agent Calls.**
+
+## Jan \- Kontext
+
+| Unternehmen | IT-affinität |
+| --- | --- |
+| Rolle & Verantwortung | KI und Einsatz von KI |
+| Monitoring & Erreichbarkeitsziele |  |
+|  | Wer macht Einstellungen in der Telefonie? |
+| Struktur des Service | Buying Entscheidung |
+| Aufgaben seines Teams |  |
+| Kommunikationskanäle |  |
+| Anrufe |  |
 
 ## Ilham \- Prototyp
 
@@ -993,6 +1019,10 @@ Zum Leitfaden
 ![image-3458764656511786119](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
 
 ![image-3458764656511786117](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+- **Teamleads wollen das Coaching von Mitarbeitenden an einen objektiven AI Agenten auslagern. **
+
+- **Warteschleife - Wie wertvoll ist die prognostizierte Wartezeit vs. Positionsansage**
 
 - **QUALITÄTSMANAGEMENT**
 
@@ -1056,11 +1086,17 @@ Zum Leitfaden
 
 ![image-3458764656636397787](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
 
+- **QUALITÄTSMANAGEMENT**
+
 ![image-3458764656636397789](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
 
 ![image-3458764656636397788](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
 
 ![image-3458764656636397790](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
 
 ![image-3458764656636397792](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
 
@@ -1097,6 +1133,10 @@ Zum Leitfaden
 
 
 
+
+## Nabil \- Kontext
+
+- Unternehmen
 
 ## Nabil \- Mentales Modell
 
@@ -1148,45 +1188,25 @@ Zum Leitfaden
 
 - **Warteschleife - Wie wertvoll ist die prognostizierte Wartezeit vs. Positionsansage**
 
+- **data hub -verständlich dass dort alle daten drin sind**
+
 - **QUALITÄTSMANAGEMENT**
 
 - **Hypothese: Teamleads wünschen sich  ein Live Monitoring zu den AI Agent Calls, um zu verstehen, wie viele und welche Calls diese grade abwickeln (und welche Anruflast im 2nd Level zu erwarten) **
 
 - **Hypothese: Teamleads möchten in der Analyse den gesamtheitlichen Blick auf die Hotline haben. (vs. aktuell die zwei getrennten Ansichten)**
 
-## Nabil \- Kontext
-
-- IT-affinität
-
-- Unternehmen
-
-- KI und Einsatz von KI
-
-- Rolle & Verantwortung
-
-- Struktur des Service
-
-- Aufgaben seines Teams
-
-- Wer macht Einstellungen in der Telefonie?
-
-- Anrufe
-
-- Buying Entscheidung
-
-- Kommunikationskanäle
-
-- **Hohes Interesse am Monitoring** · Monitoring & Erreichbarkeitsziele
-
-## Copy of Interviewpartner 5 \- Verständnis der Begriffe
+## Victoria \- Prototyp
 
 ![image-3458764656920431323](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517581340881?format=preview&redirect=false)
 
-## Copy of Interviewpartner 5 \- Mentale Modelle
+## Victoria \- Mentale Modelle
 
 ![image-3458764656920431325](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
 
 ![image-3458764656920431326](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
 
 ![image-3458764656920431328](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
 
@@ -1196,13 +1216,17 @@ Zum Leitfaden
 
 - **QUALITÄTSMANAGEMENT**
 
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
 ![image-3458764656920431331](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
 
 ![image-3458764656920431332](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
 
 ![image-3458764656920431330](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
 
-## Kontext
+## Victoria \- Kontext
 
 - IT-affinität
 
@@ -1212,9 +1236,9 @@ Zum Leitfaden
 
 - Rolle & Verantwortung
 
-- Wer macht Einstellungen in der Telefonie?
-
 - Struktur des Service
+
+- Wer macht Einstellungen in der Telefonie?
 
 - Buying Entscheidung
 
@@ -1238,6 +1262,8 @@ Zum Leitfaden
 
 ## Kontext / Service
 
+- 7 Teams
+
 - Lead
 
 - broad range of experience: bis zu 20 Jahre
@@ -1248,97 +1274,21 @@ Zum Leitfaden
 
 
 
-## Begriffe / Runde 2
-
-- **Pre-Prototyp**
-
-- Arbeitsschritte, wie 1:1 Übersetzung *Leitung Kundenservice,  Baubranche*
-
-- Abteilungen/ Bestandlteile *Teamlead, Onlineshop* · SOP, das gibt mir vor, wie ich den Fall zu bearbeiten habe *CC-Teamlead, Healthcare*
-
-- Service, der komplett abgedeckt werden kann, durch AI. *CC-Teamlead, Healthcare*
-
-- künstliche Intelligenz für den Kundenservice * Leitung Kundenservice,  Baubranche*
-
-- KI Agent, den man mal ausprobieren könnte *Teamlead, Onlineshop*
-
-- Richtlinienbuch: Festgehaltene Vorgehensweisen für TMs *CC-Teamlead, Healthcare*
-
-- Skills-Teams (Reklamation, Bestallannahme, App-Support, ...) *CC-Teamlead, Healthcare*
-
-- Keine Vorstellung: Schwierigkeiten mit Englisch *Teamlead, Onlineshop / Leitung Kundenservice Baubranche*
-
-- Playbooks, wie ein Schulungsbuch, kriegen die Agents mit nach Hause nach einer Schulung
-
-- Die Kundenberater, die die Gespräche annehmen und deren Anliegen bearbeiten. *Teamlead, Onlineshop*
-
-- Wie wenn ich mich tatsächilch neben den MA setze: dem MA beim arbeiten zuschauen, zuhören. *CC-Teamlead, Healthcare*
-
-- Direktes, stichprobenartiges Monitoring eines einzelnen Agenten, live dazuschalten mit Gesprächs-ID *Teamlead, Onlineshop*
-
-- Fällt ad hoc nichts zu ein *CC-Teamlead, Healthcare*
-
-- Hub &#61;  Als hätte ich einen USB-Stick *Teamlead, Onlineshop*
-
-- Das was die Mitarbeitenden für Playbooks auf Papier zuhause haben, aber im Internet, wie Intranet *Teamlead, Onlineshop*
-
-- Feedback geben monatlich/wöchentlich *Leitung Kundenservice,  Baubranche* · Machen "side by side" Coaching insbesondere bei neuen MA. Da sitzen sie zusammen in einem virtuellen Raum mit whispering.  *Teamlead, Onlineshop*
-
-- 1:1 Übersetzung, kann mit den Begriffen nichts anfangen *CC-Teamlead, Healthcare*
-
-- Kundenintelligenz - unklar. Vielleicht eine einfache Variante, dem Kunden mehr Hilfestellung zu geben, die mehr auf die Intelligenz geht. Beispiel: Der Kunde bekommt im Hilfecenter nicht die ganz genaue Antwort und holen sich diese dann beim Support statt über die CI. *Teamlead, Onlineshop*
-
 ## Runde 1 / AI Agents im Einsatz
-
-- **Kontext**
-
-- Möbel
-
-- **Struktur der Service Teams**
-
-- **Anrufe**
-
-- 11 Personen, verteilt auf 2 Teams
-
-- **1**
-
-- **Unternehmen/Branche**: Möbelhaus, Möbelhandel, Küchenlösungen
-
-- 4 stationäre Standorte
-
-- Kein Online Shop
-
-- Gehobenes Marktsegment
-
-- Küche
-
-- **Aufgaben**
-
-- Auftragsbearbeitung
-
-- Kommunikation mit Hersteller
-
-- Kommunikation mit Kunden
-
-- 2 Möbelhäuser
-
-- 2 Küchenstudios
-
-- **2**
-
-- **Einsatz von KI**
-
-- **1**
 
 - **Erfahrungen**
 
-- **Abgebildete Use Cases**
+## Begriffe / Runde 2
 
-- **Problem**
+- Könnt man ein "2 Lügen, eine Wahrheit"-Spiel draus machen
 
-- **Bisherige Lösung**
+- Feedback geben monatlich/wöchentlich · Coaching an MA oder an die Endkunden?
 
-- **Eigene Agent Lösung**
+- Kundenintelligenz - unklar. Vielleicht eine einfache Variante, dem Kunden mehr Hilfestellung zu geben, die mehr auf die Intelligenz geht. Beispiel: Der Kunde bekommt im Hilfecenter nicht die ganz genaue Antwort und holen sich diese dann beim Support statt über die CI.
+
+- Machen "side by side" Coaching insbesondere bei neuen MA. Da sitzen sie zusammen in einem virtuellen Raum mit whispering.
+
+- MA Coaching findet regelmäßig statt. weil es immer was neues gibt
 
 
 
@@ -1350,47 +1300,9 @@ Zum Leitfaden
 
 ## Mapping: Vorerfahrung / Einsatz von KI im Unternehmen
 
-- KI woanders im Unternehmen implementiert
-
-- Keine KI implementiert
-
-- Fest als Assistent zur Erledigung einer Teilaufgabe;  in Kollaboration mit dem Menschen
-
-- Ergänzend für eine vollständige Aufgabe; anstelle des Menschen
-
-- Test von AI agents / Rollback; schlechte Erfahrung
-
-- Bedingungen für AI agents im Einsatz
-
-- Emotionales Auffangen zentral für Ilhams Use Cases, wird von KI nicht erfüllt · Ihre Ableitung: **KI folgt einem simplen Standard**  Menschen sind flexibler,  Skepsis
-
-- **Ambivalenz**: sieht sich als KI-Fan, findet das Fine-Tuning zur Imitation menschlicher Eigenschaften befremdlich
-
-- **Ambivalenz:** sieht sich als KI-Fan, aber hat Sorge, dass Service MA ersetzt werden
-
-- Anrufannahme:  In ihrer Vorstellung ist KI immer am Anfang. Und MA kann sich zuschalten, wenn Bedarf beim Anrufenden besteht · Würde am Anfang mithören wollen und auf die Kundenzufriedenheit achten
-
-- **Datenschutz **– Sorge, dass AI agent sensible Unternehmensdaten verrät
-
-- Sie vertraut KI nicht genug, um die Kontrolle abzugeben · Hat die Einschätzung, dass 80% lieber mit einem Menschen sprechen wollen und bereit wären, länger zu warten
-
 - Ilham
 
-- Ilham
-
-- Jasmin
-
 - Nabil
-
-- Während des Calls · Nach dem Call · Monitoring
-
-- AI agents für 1st Level
-
-- Social desirability?
-
-- Nabil
-
-- Trainings über Produktveränderungen, KI gestützt
 
 - Marcel (Runde 1)
 
@@ -1403,10 +1315,6 @@ Zum Leitfaden
 - Ticket
 
 - Abhängig von Produktspezifikiationen
-
-- Übernahme einfacher Anrufe denkbar
-
-- Nabil
 
 - ChatGPT
 
@@ -1431,6 +1339,164 @@ Zum Leitfaden
 - Jasmin
 
 - Übernahme einfacher Anrufe denkbar · Kann sich auch vorstellen, dass der AI Agent Rückrufe tätigt, wenn der Kunde einen Ruckruf angefordert hat
+
+
+
+
+
+## Michael \- Prototyp
+
+![image-3458764659074353470](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517581340881?format=preview&redirect=false)
+
+## Michael \- Mentale Modelle
+
+![image-3458764659074353472](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
+
+![image-3458764659074353473](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+![image-3458764659074353475](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
+
+![image-3458764659074353474](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
+
+![image-3458764659074353476](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+![image-3458764659074353478](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
+
+![image-3458764659074353479](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
+
+![image-3458764659074353477](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+## Michael \- Kontext
+
+- Unternehmen
+
+- IT-affinität
+
+- KI und Einsatz von KI
+
+- Rolle & Verantwortung
+
+- Struktur des Service
+
+- Buying Entscheidung
+
+- Aufgaben seines Teams
+
+- Anrufe
+
+- **Hohes Interesse am Monitoring** · Monitoring & Erreichbarkeitsziele
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Copy of Tomas \- Prototyp &\#43; Modell
+
+![image-3458764659274192524](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
+
+![image-3458764659274192525](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+![image-3458764659274192527](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
+
+![image-3458764659274192526](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
+
+![image-3458764659274192528](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+![image-3458764659274192530](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
+
+![image-3458764659274192531](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
+
+![image-3458764659274192529](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+## Copy of Marcel \- Prototyp &\#43; Modell
+
+- **PROTOTYP**
+
+- Thema Warteschleifen ist klassische Funktion von Warteschleifen.
+
+![image-3458764659274192505](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488835890?format=preview&redirect=false)
+
+- Tools wüsste ich jetzt tatsächlich gerade auch noch nicht, was ich darunter dann finde, wahrscheinlich irgendwelche Anbindungen oder so, aber das weiß ich jetzt nicht.
+
+- Hat keine konkrete Vorstellung.
+
+- **MENTALE MODELLE**
+
+![image-3458764659274192483](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
+
+![image-3458764659274192484](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
+
+- **Hypothese: Hier wird das Call Routing festgelegt**
+
+![image-3458764659274192486](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
+
+![image-3458764659274192485](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
+
+![image-3458764659274192487](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: AI Agents & Mitarbeitende teilen sich Wissen**
+
+- **Hypothese: Ein Gesprächstyp verlangt einen Leitfaden und Nachbereitung**
+
+- **QUALITÄTSMANAGEMENT**
+
+
+
+
+
+
+
+
 
 
 
