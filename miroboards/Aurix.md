@@ -1350,17 +1350,27 @@ Zum Leitfaden
 
 ## Michael \- Mentale Modelle
 
+- **MENTALE MODELLE**
+
 ![image-3458764659074353472](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
 
 ![image-3458764659074353473](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
 
 - **QUALITÄTSMANAGEMENT**
 
+- **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
+
 ![image-3458764659074353475](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
 
 ![image-3458764659074353474](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
 
 ![image-3458764659074353476](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
+
+- **Hypothese: AI Agents & Mitarbeitende teilen sich Wissen**
+
+- **Hypothese: Ein Gesprächstyp verlangt einen Leitfaden und Nachbereitung**
 
 - **QUALITÄTSMANAGEMENT**
 
@@ -1375,6 +1385,8 @@ Zum Leitfaden
 ![image-3458764659074353479](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
 
 ![image-3458764659074353477](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
 
 ## Michael \- Kontext
 
@@ -1422,11 +1434,17 @@ Zum Leitfaden
 
 ## Copy of Tomas \- Prototyp &\#43; Modell
 
+- **PROTOTYP**
+
+- **MENTALE MODELLE**
+
 ![image-3458764659274192524](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
 
 ![image-3458764659274192525](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
 
 - **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
 
 ![image-3458764659274192527](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
 
@@ -1440,11 +1458,17 @@ Zum Leitfaden
 
 - **QUALITÄTSMANAGEMENT**
 
+- **QUALITÄTSMANAGEMENT**
+
 ![image-3458764659274192530](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
 
 ![image-3458764659274192531](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
 
 ![image-3458764659274192529](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Welche Informationen braucht es für einen ganzheitlichen Überblick?**
 
 ## Copy of Marcel \- Prototyp &\#43; Modell
 
@@ -1500,3 +1524,20 @@ Zum Leitfaden
 
 
 
+
+
+
+
+## Frame 265
+
+- Normalisiert auf den Kunden
+
+- Teamlead · Liste aller aktiven Intelligence-Orte (Trunks, Channels, etc) · Liste aller Calls von einem Ort (von einem Trunk zB) · Liste aller Calls von allen Orten von einem Kunden
+
+- trunk
+
+- Normalisiert auf den Kunden
+
+- hier stehen neben Kundenkommunikation auch Daten aus "geheimer" Kommunikation intern / extern (Channel "GF", "Betriebsarzt" etc)
+
+- Data Lake füt tatsächich ALLE Daten
