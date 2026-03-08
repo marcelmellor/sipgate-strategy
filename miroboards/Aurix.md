@@ -986,8 +986,6 @@ Zum Leitfaden
 
 - **QUALITÄTSMANAGEMENT**
 
-- **QUALITÄTSMANAGEMENT**
-
 - **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
 
 - **Hypothese: Ein AI Agent kann an verschiedenen Stellen der Telefonie eingesetzt werden**
@@ -1262,15 +1260,9 @@ Zum Leitfaden
 
 ## Kontext / Service
 
-- 7 Teams
-
-- Lead
-
 - broad range of experience: bis zu 20 Jahre
 
 - Wie ist der Service strukturiert?
-
-- 30 Mit-arbeitende
 
 
 
@@ -1306,14 +1298,6 @@ Zum Leitfaden
 
 - Marcel (Runde 1)
 
-- Sensor kaputt
-
-- Sensornummer aufnehmen
-
-- Bestellung  aufgeben
-
-- Ticket
-
 - Abhängig von Produktspezifikiationen
 
 - ChatGPT
@@ -1325,8 +1309,6 @@ Zum Leitfaden
 - Glaubt, der Kunde hat auch ein Interesse, das mit KI zu machen, zu "vereinfachen"
 
 - Bewertung des Calls als "kritisch", wenn Zufriedenheit nicht angesprochen oder Ruhezeiten überschritten
-
-- Call-Center Kunde wird gemeint sein
 
 - Reklamation
 
@@ -1344,10 +1326,6 @@ Zum Leitfaden
 
 
 
-## Michael \- Prototyp
-
-![image-3458764659074353470](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517581340881?format=preview&redirect=false)
-
 ## Michael \- Mentale Modelle
 
 - **MENTALE MODELLE**
@@ -1356,11 +1334,15 @@ Zum Leitfaden
 
 ![image-3458764659074353473](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
 
+- **Hypothese: Hier wird das Call Routing/ das Service Team festgelegt.**
+
 - **QUALITÄTSMANAGEMENT**
 
 - **QUALITÄTSMANAGEMENT**
 
 - **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
+
+- **Hypothese: Ein AI Agent kann an verschiedenen Stellen der Telefonie eingesetzt werden**
 
 ![image-3458764659074353475](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
 
@@ -1378,6 +1360,10 @@ Zum Leitfaden
 
 - **QUALITÄTSMANAGEMENT**
 
+- **Frage: Blickt man beim Erstellen von Workflows auf die Gesamttelefonie oder auf einen spitzen Use Case?**
+
+- **Hypothese: AI Agents & Mitarbeitende teilen sich Playbooks**
+
 - **QUALITÄTSMANAGEMENT**
 
 ![image-3458764659074353478](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
@@ -1385,6 +1371,8 @@ Zum Leitfaden
 ![image-3458764659074353479](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
 
 ![image-3458764659074353477](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+- **Teamleads wollen das Coaching von Mitarbeitenden an einen objektiven AI Agenten auslagern. **
 
 - **QUALITÄTSMANAGEMENT**
 
@@ -1430,17 +1418,27 @@ Zum Leitfaden
 
 
 
+## Copy of Marcel \- Prototyp &\#43; Modell
 
+![image-3458764659274192483](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
+
+![image-3458764659274192484](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
 
 ## Copy of Tomas \- Prototyp &\#43; Modell
 
 - **PROTOTYP**
+
+- "Ich glaub, bei Agenten geht’s vielleicht um so eine KI-Person, sag ich jetzt einfach mal. Das ist wie bei diesen KI-generierten Bildern. Ich stell mir da so meinen Kopf vor in so einer KI."
+
+![image-3458764659274192542](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488835890?format=preview&redirect=false)
 
 - **MENTALE MODELLE**
 
 ![image-3458764659274192524](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
 
 ![image-3458764659274192525](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+
+- **QUALITÄTSMANAGEMENT**
 
 - **QUALITÄTSMANAGEMENT**
 
@@ -1470,50 +1468,6 @@ Zum Leitfaden
 
 - **Welche Informationen braucht es für einen ganzheitlichen Überblick?**
 
-## Copy of Marcel \- Prototyp &\#43; Modell
-
-- **PROTOTYP**
-
-- Thema Warteschleifen ist klassische Funktion von Warteschleifen.
-
-![image-3458764659274192505](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488835890?format=preview&redirect=false)
-
-- Tools wüsste ich jetzt tatsächlich gerade auch noch nicht, was ich darunter dann finde, wahrscheinlich irgendwelche Anbindungen oder so, aber das weiß ich jetzt nicht.
-
-- Hat keine konkrete Vorstellung.
-
-- **MENTALE MODELLE**
-
-![image-3458764659274192483](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
-
-![image-3458764659274192484](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
-
-- **QUALITÄTSMANAGEMENT**
-
-- **QUALITÄTSMANAGEMENT**
-
-- **QUALITÄTSMANAGEMENT**
-
-- **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
-
-- **Hypothese: Hier wird das Call Routing festgelegt**
-
-![image-3458764659274192486](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
-
-![image-3458764659274192485](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
-
-![image-3458764659274192487](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
-
-- **QUALITÄTSMANAGEMENT**
-
-- **QUALITÄTSMANAGEMENT**
-
-- **Hypothese: AI Agents & Mitarbeitende teilen sich Wissen**
-
-- **Hypothese: Ein Gesprächstyp verlangt einen Leitfaden und Nachbereitung**
-
-- **QUALITÄTSMANAGEMENT**
-
 
 
 
@@ -1530,14 +1484,141 @@ Zum Leitfaden
 
 ## Frame 265
 
-- Normalisiert auf den Kunden
+- Liste aller aktiven Intelligence-Orte (Trunks, Channels, etc) · Liste aller Calls von einem Ort (von einem Trunk zB) · Liste aller Calls von allen Orten von einem Kunden
 
-- Teamlead · Liste aller aktiven Intelligence-Orte (Trunks, Channels, etc) · Liste aller Calls von einem Ort (von einem Trunk zB) · Liste aller Calls von allen Orten von einem Kunden
+## Copy of Ilham \- Prototyp
 
-- trunk
+- Was mir sofort auffällt,ist die Vermischung von deutsch/ englisch
 
-- Normalisiert auf den Kunden
+- Übersicht der Agents
 
-- hier stehen neben Kundenkommunikation auch Daten aus "geheimer" Kommunikation intern / extern (Channel "GF", "Betriebsarzt" etc)
+- Also ich verbinde damit die Warteschleife, aber das ist verwirrend sind wir damit gemeint - also die MA?
 
-- Data Lake füt tatsächich ALLE Daten
+- Übersicht der Playbooks
+
+- Innerhalb eines Playbooks
+
+- Wissen für alle
+
+- KI ist hier schneller im Zugriff
+
+- "Das ist so der Standard"
+
+- Automatisierte Aufnahmen
+
+- Vermutet Standardisierte Antworten / Textbausteine
+
+- Das sieht hier nach KI aus, die vorgeschaltet ist · Vermutet hier die Regeln für Weiterleitung, Triggerpunkte -> erkennt die Worte
+
+- Sobald der Kunde einen Begriff nennt, erkennt der Agent das sofort und wird entsprechend weitergeleitet
+
+- nutzen Textbausteine: die beschreiben wie die menschlichen MA reagieren sollen/ können wenn der Kunde etwas sagt
+
+![image-3458764661812727913](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517581340881?format=preview&redirect=false)
+
+- und was ist, wenn der Kunde 2-3 Sachen hat, die er gerne besprechen möchte?
+
+- Auf die Fachbegriffe zugreifen kann. sehr wichtig
+
+- Ja, Warteschlangen
+
+- Dass wir einsehen können, wie viele Anrufe gerade reinkommen können
+
+- Statistiken des AI Agents
+
+- genau wie Live-Monitoring, dass man nochmal einen Überblick hat über alles
+
+- da kann man individuelle Arbeitsschritte festlegen
+
+- Übersicht der Workflows
+
+- Handbuch, ähnlich wie das Playbook
+
+- Glaubt dass es im Gespräch schwierig ist, dass MA darauf zugreifen, weil es dann zu lange dauert. Man muss sich vorher vorbereiten,
+
+- ist ein bisschen lost.
+
+
+
+## Copy of Ilham \- Mentales Modell
+
+- **MENTALE MODELLE**
+
+![image-3458764662201545686](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759587?format=preview&redirect=false)
+
+![image-3458764662201545687](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759590?format=preview&redirect=false)
+
+- **Hypothese: Hier wird das Call Routing/ das Service Team festgelegt.**
+
+- Boundary-Threat-Theorie  &#61; Grenze zwischen Mensch und Maschine verwischen und werden dadurch als eine Bedrohung für die Einzigartigkeit, Autonomie oder Arbeitsplätze des Menschen wahrgenommen
+
+- **QUALITÄTSMANAGEMENT**
+
+- eine zu "menschliche" KI wird als gruselig empfunden, dass  nicht mehr unterscheidbar ist, was menschlich und was künstlich hergestellt wurde.
+
+- **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
+
+- **Hypothese: Ein AI Agent kann an verschiedenen Stellen der Telefonie eingesetzt werden**
+
+![image-3458764662201545689](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
+
+![image-3458764662201545688](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
+
+![image-3458764662201545690](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759600?format=preview&redirect=false)
+
+- **Hypothese: AI Agents & Mitarbeitende teilen sich Wissen**
+
+- **Hypothese: Ein Gesprächstyp verlangt einen Leitfaden und Nachbereitung**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Frage: Blickt man beim Erstellen von Workflows auf die Gesamttelefonie oder auf einen spitzen Use Case?**
+
+- **Hypothese: AI Agents & Mitarbeitende teilen sich Playbooks**
+
+- **QUALITÄTSMANAGEMENT**
+
+![image-3458764662201545692](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805318?format=preview&redirect=false)
+
+![image-3458764662201545693](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805321?format=preview&redirect=false)
+
+![image-3458764662201545691](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488805312?format=preview&redirect=false)
+
+- **Teamleads wollen das Coaching von Mitarbeitenden an einen objektiven AI Agenten auslagern. **
+
+- **Warteschleife - Wie wertvoll ist die prognostizierte Wartezeit vs. Positionsansage**
+
+- **data hub -verständlich dass dort alle daten drin sind**
+
+- **QUALITÄTSMANAGEMENT**
+
+- **Hypothese: Teamleads wünschen sich  ein Live Monitoring zu den AI Agent Calls, um zu verstehen, wie viele und welche Calls diese grade abwickeln (und welche Anruflast im 2nd Level zu erwarten) **
+
+- **Hypothese: Teamleads möchten in der Analyse den gesamtheitlichen Blick auf die Hotline haben. (vs. aktuell die zwei getrennten Ansichten)**
+
+
+
+## Frame 266
+
+Prototyp
+
+Interviewreihe
+
+Ziele des Researchs
+
+5 Interviews Teamlead After Sales Möbelhaus (150 MA)CTO Systemhaus (50-60MA)Geschäftsführung Handwerksbetrieb (500MA)Teamlead JobcenterTeamlead Support Medizientechnik (100MA)
+
+Primäres Ziel: Überprüfung der Mentalen ModelleSekundäre Ziele: Kontext Service TeamleadsBegriffsverständnisEinstellung zu KI
+
+![image-3458764662220365685](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517724017049?format=preview&redirect=false)
+
+
+
+
+
+
+
