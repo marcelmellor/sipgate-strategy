@@ -1442,8 +1442,6 @@ Zum Leitfaden
 
 - **QUALITÄTSMANAGEMENT**
 
-- **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
-
 ![image-3458764659274192527](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759596?format=preview&redirect=false)
 
 ![image-3458764659274192526](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488759594?format=preview&redirect=false)
@@ -1484,13 +1482,13 @@ Zum Leitfaden
 
 ## Frame 265
 
-- Liste aller aktiven Intelligence-Orte (Trunks, Channels, etc) · Liste aller Calls von einem Ort (von einem Trunk zB) · Liste aller Calls von allen Orten von einem Kunden
+- Liste aller Calls von einem Ort (von einem Trunk zB) · Liste aller Calls von allen Orten von einem Kunden
 
 ## Copy of Ilham \- Prototyp
 
 - Was mir sofort auffällt,ist die Vermischung von deutsch/ englisch
 
-- Übersicht der Agents
+- Übersicht der Agents · Vorgeschaltete Agent
 
 - Also ich verbinde damit die Warteschleife, aber das ist verwirrend sind wir damit gemeint - also die MA?
 
@@ -1554,7 +1552,7 @@ Zum Leitfaden
 
 - **QUALITÄTSMANAGEMENT**
 
-- eine zu "menschliche" KI wird als gruselig empfunden, dass  nicht mehr unterscheidbar ist, was menschlich und was künstlich hergestellt wurde.
+- eine zu "menschliche" KI wird als gruselig empfunden, dass  nicht mehr unterscheidbar ist, was menschlich und was künstlich hergestellt wurde. · KI ist standard (kennt nur die Antworten die vorgegeben werden; Textbausteine ); Menschen sind flexibler
 
 - **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
 
@@ -1621,4 +1619,110 @@ Primäres Ziel: Überprüfung der Mentalen ModelleSekundäre Ziele: Kontext Serv
 
 
 
+
+
+
+## Frame 270
+
+Agenda
+
+Was erwartet euch?
+
+## Frame 267
+
+Prototyp
+
+![image-3458764663525728552](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517724017049?format=preview&redirect=false)
+
+## Frame 268
+
+5 Interviews Teamlead After Sales Möbelhaus (150 MA)CTO Systemhaus (50-60MA)Geschäftsführung Handwerksbetrieb (500MA)Teamlead JobcenterTeamlead Support Medizientechnik (100MA)
+
+## Frame 269
+
+Wie wurde dieser wahrgenommen?
+
+## Frame 271
+
+Einstellung & Wahrnehmung zu KI?
+
+## Frame 273
+
+Prototypen Refresher
+
+Was beinhaltet dieser?  einmal durchklicken
+
+## Queues & Call Flow
+
+Queues & Call Flow
+
+- "Also was ich mir vorher vorgestellt habe, [...] so typische Warteschlange, wie viele gerade warten und vielleicht auch mit den Anliegen [...] Aber so ein Mapping, so eine Routing Regeln, so wie so die Regeln sind, habe ich jetzt nicht erwartet."
+
+- **In den Queues wird das Call Routing & das Team festgelegt.** Trifft das das mentale Modell?
+
+Kein eindeutiger Anker – das mentale Modell schwankt zwischen Warteschleife und Teamstruktur (Rufkreis, Skillgruppe). „Queue" wird von Nicht-Power-Usern als Live-Warteschlange (Kunden warten) verstanden, nicht als Routing-Konfiguration (wer bekommt welche Anrufe) – das erzeugt eine systematische Erwartungslücke im Prototyp Das Routing wird als Ablaufdiagramm verstanden – aber nicht als Ort für Teammanagement erwartet.
+
+- **Zusammenspiel Queue und AI Agent**
+
+Das Zusammenspiel von AI Agent, Queue, Playbook und Routing wird von keinem Teilnehmenden spontan als zusammenhängendes System verstanden  – jedes Konzept wird isoliert beschrieben, aber inwiefern die Verbindungen zwischen ihnen verstanden werden, bleibt unklar.
+
+## Playbook
+
+- check
+
+Playbook & Workflows
+
+- "Ach so, Am Ende ist ein Playbook oder sind die Playbooks jetzt echt die Prompts, die dahinter sind."
+
+- **Playbook als Konzept größtenteils bekannt ** – so, all is good?
+
+Die** **Teilnehmer:innen beschreiben einen „strukturierten Gesprächsleitfaden mit (Abfrage-)schritten" – und vermuten ihn unter dem Begriff „Playbook". Die Beispiele im Prototyp wie "Terminanfrage" übertragen alle auf ihre Use Cases und erkennen darüber hinaus, dass diese im Anschluss Arbeitsschritte auslösen. **– Aber: **Hier entsteht Verwirrung im Zusammenhang mit **Workflows**. Es gelingt den Teilnehmern nicht, die beiden Begriffe voneinander eindeutig abzugrenzen.
+
+- Konfiguration sorgt für **Aha-Moment** und erweitert das mentale Modell
+
+Wenn der Begriff anfangs nicht klar war, sorgt **spätestens die Konfigurationsseite **eines einzelnen Playbooks für einen Aha-Moment. Nach dem Klick ins Interface erklären sich die Teilnehmer:innen den Begriff mit Beispielen der eigenen Praxis. Zudem wird den Teilnehmer:innen auf der Detailebene der Umfang und die Verbindung mit der Agent Konfiguration deutlich.
+
+## Copy of Queues & Call Flow
+
+AI Voice Agent
+
+- ......
+
+Von der feingranularen Einstellungen im Interface, waren User eher überrascht - aber angenehm. Einer denkt initial an das KI-Modell.vereinzelte Reaktionen mit Unbehagen oder skeptischen Kommentaren auf die Vermenschlichung.
+
+- **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
+
+Die angedachte Position des Agents ist überwiegend der **Anfang des Gesprächs**. Nur eine Person denkt nativ in mehreren Einsatzpunkten (Inbound, After-Hours, Outbound). KI Agents werden häufig als IVR Ersatz wahrgenommen: Smarte Anrufverteilung/ Weiterleitungen. 1st level support war der gängie Use Case, in denen die Interviewpartner:innen gedacht haben.
+
+- **Hypothese: Ein AI Agent kann an verschiedenen Stellen der Telefonie eingesetzt werden**
+
+## AI Voice Agent
+
+AI Voice Agent
+
+Vor dem Prototypen: Teilnehmende setzen KI im Telefonkontext primär mit regelbasierten Voicebots und IVR-Menüs gleich. Die Einschätzung der Fähigkeiten und Nützlichkeit von AI Agents hängt von persönlichen Erfahrungen mit Voice Bots ab.
+
+- **Erkenntnis:** **Vorerfahrung mit IVR & Bots ist prägend.**
+
+Mentale Modell von weniger technischversierten Personen ist bei "ein Agent kann alles", je versierter und mehr Erfahrung eine Person hat entwickelt es sich zu "jeder Agent braucht eine klar definierte abgegrenzte Aufgabe sowie abgegrenztes Wissen". Je technisch-versierter eine Person ist, desto eher verstehen sie, dass mehrere Agents wertvoll sein können und welche Möglichkeiten diese bieten.
+
+- **Ein AI Agent vs. mehrere Agents**
+
+## Frame 275
+
+Zusammenarbeit AI & Mensch
+
+- „Also die KI soll so weit Sachen aufbereiten oder vorbereiten, um den menschlichen Mitarbeiter zu unterstützen, vor allem, wenn die KI einfach nicht weiter weiß.“
+
+## Frame 276
+
+Kernaussagen
+
+## Copy of Playbook
+
+AI Voice Agent
+
+Von der feingranularen Einstellungen im Interface, waren User eher überrascht - aber angenehm. Einer denkt initial an das KI-Modell.vereinzelte Reaktionen mit Unbehagen oder skeptischen Kommentaren auf die Vermenschlichung. AI Agent wurde direkt mit Voice Agent/ Bot verknüpft.
+
+Die angedachte Position des Agents ist überwiegend der **Anfang des Gesprächs**. Nur eine Person denkt nativ in mehreren Einsatzpunkten (Inbound, After-Hours, Outbound). KI Agents werden häufig als IVR Ersatz wahrgenommen: Smarte Anrufverteilung/ Weiterleitungen. 1st level support war der gängie Use Case, in denen die Interviewpartner:innen gedacht haben.
 
