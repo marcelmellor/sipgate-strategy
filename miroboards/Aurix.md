@@ -2,19 +2,19 @@
 
 **sipgate Aurix**
 
-Voice AI for Service & Sales Automation
+**Voice AI for Service & Sales Automation**
 
-**sipgate flow** real time voice to text API in the PSTN [Product Brief](https://docs.google.com/document/d/11qdBR3g3GxSnWHGT4KHmcvcKjEGcyWy2dVguBTUxd8M/edit?tab&#61;t.0) [Landing Page](https://www.sipgate.de/lp/ai-flow)
+**sipgate flow** **real time voice to text API in the PSTN ** **[Product Brief](https://docs.google.com/document/d/11qdBR3g3GxSnWHGT4KHmcvcKjEGcyWy2dVguBTUxd8M/edit?tab&#61;t.0)** **[Landing Page](https://www.sipgate.de/lp/ai-flow)**
 
-**sipgate trunking assist** SIP trunk providing AI Assistance for every PBX [Product Brief](https://docs.google.com/document/d/1pferbeYVoNlPzoQvLYP2OariqkIM3HIw9jhMPvFqGWc/) [Landing Page](https://www.sipgatetrunking.de/)
+**sipgate trunking assist** **SIP trunk providing AI Assistance for every PBX ** **[Product Brief](https://docs.google.com/document/d/1pferbeYVoNlPzoQvLYP2OariqkIM3HIw9jhMPvFqGWc/) [Landing Page](https://www.sipgatetrunking.de/)**
 
-**sipgate ai.cx** Agentic Contact Center Solution [Product Brief](https://docs.google.com/document/d/128Id5VAl9IEYWLlXNSVV2RPgh6oseVuZxe8xdq3mHpA) [Landing Page](https://www.sipgate.ai/cx)
+**sipgate ai.cx** **Agentic Contact Center Solution** **[Product Brief](https://docs.google.com/document/d/128Id5VAl9IEYWLlXNSVV2RPgh6oseVuZxe8xdq3mHpA)** **[Landing Page](https://www.sipgate.ai/cx)**
 
 ## sipgate flow
 
 ![image-3458764641105156855](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517197032021?format=preview&redirect=false)
 
-- Rufnummern statt p,g & channel
+- **Rufnummern statt p,g & channel**
 
 ![image-3458764641105398493](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517196903867?format=preview&redirect=false)
 
@@ -28,21 +28,21 @@ Voice AI for Service & Sales Automation
 
 ## sipgate trunking assist
 
-- Auch auf englisch oder nur auf englisch?
+- **Auch auf englisch oder nur auf englisch?**
 
 ![image-3458764641103828132](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517196894739?format=preview&redirect=false)
 
 ## Growth & KPI
 
-- Fokus S3 in EU (70 - 300) · 100% AI ready calls
+- **Fokus S3 in EU (70 - 300)** · **100% AI ready calls**
 
-**Min. Aurix Growth Ziel** **2026: 40k - 50k MoM ** 2027: 45 - 55k MoM
+**Min. Aurix Growth Ziel** **2026: 40k - 50k MoM ** **2027: 45 - 55k MoM**
 
-**sipgate ai.cx** Agentic Contact Center Solution
+**sipgate ai.cx** **Agentic Contact Center Solution**
 
-**sipgate flow** real time voice to text API in the PSTN
+**sipgate flow** **real time voice to text API in the PSTN**
 
-**sipgate trunking assist** SIP trunk providing AI Assistance for every PBX
+**sipgate trunking assist** **SIP trunk providing AI Assistance for every PBX**
 
 ## sipgate trunking assist
 
@@ -50,41 +50,41 @@ Voice AI for Service & Sales Automation
 
 ![image-3458764641309904938](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517201442653?format=preview&redirect=false)
 
-## PBX \(neo &\#43; satellite business\)
+## \*\*PBX \(neo &\#43; satellite business\)\*\*
 
-- PBX (neo &#43; satellite business)
+- **PBX (neo &#43; satellite business)**
 
-- Aurix
+- **Aurix**
 
-- sipgate trunking assist
+- **sipgate trunking assist**
 
-- sipgate flow
+- **sipgate flow**
 
-- Channels
+- **Channels**
 
-- Call-Szenarien
+- **Call-Szenarien**
 
-- Playbooks
+- **Playbooks**
 
-- Smart Answers
+- **Smart Answers**
 
-- Wissen
+- **Wissen**
 
-- Beschreibung, Name etc.
+- **Beschreibung, Name etc.**
 
-- Statistiken / Analyse
+- **Statistiken / Analyse**
 
-- Playbooks
+- **Playbooks**
 
-- Call-Szenarien
+- **Call-Szenarien**
 
-- Smart Answers
+- **Smart Answers**
 
-- AI Frontdesk
+- **AI Frontdesk**
 
-- Wissen
+- **Wissen**
 
-- Routing
+- **Routing**
 
 ## telnyx
 
@@ -98,35 +98,35 @@ Voice AI for Service & Sales Automation
 
 ## Offene Fragen & Themen
 
-- Wenn alle weitergehenden AI Features auf sipgate flow laufen sollen, muss flow mind. für intern auch Mensch zu Mensch Kommunikation rausflowen
+- **Wenn alle weitergehenden AI Features auf sipgate flow laufen sollen, muss flow mind. für intern auch Mensch zu Mensch Kommunikation rausflowen**
 
-- aktuell 1k -3k parallele streams möglich, reicht definitiv lange aus. Skalierung ist möglich.
+- **aktuell 1k -3k parallele streams möglich, reicht definitiv lange aus. Skalierung ist möglich.**
 
-- Technisches
+- **Technisches**
 
-- trunking assist läuft erstmal ohne Channel*, später soll jeder trunking assist call durch channels laufen. · * das ermöglicht alle features, bis auf smart answers
+- **trunking assist läuft erstmal ohne Channel*, später soll jeder trunking assist call durch channels laufen.** · *** das ermöglicht alle features, bis auf smart answers**
 
-- Wollen wir alle Produkte miteinander buchbar lassen oder nur in den Strängen (pbx & aurix)
+- **Wollen wir alle Produkte miteinander buchbar lassen oder nur in den Strängen (pbx & aurix)**
 
 ## sipgate aurix
 
-Admins
+**Admins**
 
-Team-Leads
+**Team-Leads**
 
 ![image-3458764641463669783](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517169173249?format=preview&redirect=false)
 
-Telefonierende
+**Telefonierende**
 
-Control Panel
+**Control Panel**
 
-sipgate workspace
+**sipgate workspace**
 
-mein sipgate
+**mein sipgate**
 
-sipgate satellite
+**sipgate satellite**
 
-heute
+**heute**
 
 ![image-3458764641463669794](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517169228974?format=preview&redirect=false)
 
@@ -136,21 +136,21 @@ heute
 
 ![image-3458764641463669787](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517169135568?format=preview&redirect=false)
 
-Analyse Bereich
+**Analyse Bereich**
 
 ![image-3458764641463669790](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517169173249?format=preview&redirect=false)
 
-demnächst
+**demnächst**
 
 ![image-3458764641463669797](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517169164424?format=preview&redirect=false)
 
 ![image-3458764641463669786](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517169183188?format=preview&redirect=false)
 
-- CallCenter
+- **      CallCenter**
 
-- Call Center als zubuchbares Produkt (Kachel) · Zugriffs-verwaltung und Webuser zuordnung · Zugriffs-verwaltung und Webuser zuordnung · Routing
+- **Call Center als zubuchbares Produkt (Kachel)** · **Zugriffs-verwaltung und Webuser zuordnung** · **Zugriffs-verwaltung und Webuser zuordnung** · **Routing**
 
-- Reporting
+- **Reporting**
 
 ![image-3458764641463374727](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517205527808?format=preview&redirect=false)
 
@@ -158,13 +158,13 @@ demnächst
 
 ![image-3458764641467502297](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517205612612?format=preview&redirect=false)
 
-## Flow
+## \*\*Flow\*\*
 
-|  | Aurix | Flow | trunking Assist |
+|  | **Aurix** | **Flow** | **trunking Assist** |
 | --- | --- | --- | --- |
-| Produkt definieren |  |  |  |
-| Go-To-Market-Strategie ausarbeiten |  |  |  |
-| Umsetzung starten |  |  |  |
+| **Produkt definieren** |  |  |  |
+| **Go-To-Market-Strategie ausarbeiten** |  |  |  |
+| **Umsetzung starten** |  |  |  |
 
 ## Parloa
 
@@ -176,9 +176,9 @@ demnächst
 
 ## Frame 1
 
-Themen der Woche
+**Themen der Woche**
 
-- **Onboarding & Einrichtung**
+- **Onboarding & Einrichtung **
 
 - **Produkt-Features & Roadmap**
 
@@ -190,17 +190,17 @@ Themen der Woche
 
 ## Frame 5
 
-- Modell "Parloa"
+- **Modell "Parloa"**
 
-- Modell "Sona"
+- **Modell "Sona"**
 
-- Agent als wiederverwendbares Element
+- **Agent als wiederverwendbares Element**
 
-- Jede Instanz von Sona kann mit Wissen und Jobs ausgestattet werden
+- **Jede Instanz von Sona kann mit Wissen und Jobs ausgestattet werden**
 
-- Agent als konfigurierbares Routing-Element
+- **Agent als konfigurierbares Routing-Element**
 
-- Instanzen haben keinen Namen, man kann sie nicht zweimal benutzen
+- **Instanzen haben keinen Namen, man kann sie nicht zweimal benutzen**
 
 ![image-3458764641634144486](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517209890822?format=preview&redirect=false)
 
@@ -212,75 +212,75 @@ Themen der Woche
 
 ## Frame 4
 
-- Queue
+- **Queue**
 
-- Agent
+- **Agent**
 
-Ausbaustufe
+**Ausbaustufe**
 
-- Queue
+- **Queue**
 
-- Aurix
+- **Aurix**
 
-- Agent
+- **Agent**
 
-- Susanne
+- **Susanne**
 
-- Konzept "Sona" für CX-Produkt nicht geeignet?
+- **Konzept "Sona" für CX-Produkt nicht geeignet?**
 
 ## Frame 3
 
-- Wissen
+- **Wissen**
 
-- Call-Szenarien
+- **Call-Szenarien**
 
-- Wissen
+- **Wissen**
 
-- Call-Szenarien
+- **Call-Szenarien**
 
-- Playbook
+- **Playbook**
 
-- Assist-Konfig (Smart Answers, Custom Summaries etc.)
+- **Assist-Konfig (Smart Answers, Custom Summaries etc.)**
 
-- Playbook
+- **Playbook**
 
-- Assist-Konfig (Smart Answers, Custom Summaries etc.)
+- **Assist-Konfig (Smart Answers, Custom Summaries etc.)**
 
-Ausbaustufe
+**Ausbaustufe**
 
-- Agent "Heinz"
+- **Agent "Heinz"**
 
-- Aurix
+- **Aurix**
 
-- Call-Szenarien
+- **Call-Szenarien**
 
-- Playbook
+- **Playbook**
 
-- Assist-Konfig (Smart Answers, Custom Summaries etc.)
+- **Assist-Konfig (Smart Answers, Custom Summaries etc.)**
 
-- Susanne
+- **Susanne**
 
-- Wird vom Team Lead zugewiesen?
+- **Wird vom Team Lead zugewiesen?**
 
-- 2 Konzepte für Agents
+- **2 Konzepte für Agents**
 
-- Nutzung von AI-Agenten in PBX nicht gut möglich (notwendig?)
+- **Nutzung von AI-Agenten in PBX nicht gut möglich (notwendig?)**
 
 ## Frame 2
 
-- Call-Szenarien &#43; Wissen hängen am AI oder HI-Agent
+- **Call-Szenarien &#43; Wissen hängen am AI oder HI-Agent**
 
-Ausbaustufe
+**Ausbaustufe**
 
-- Wissen
+- **Wissen**
 
-- Call-Szenarien
+- **Call-Szenarien**
 
-- Playbook
+- **Playbook**
 
-- Assist-Konfig (Smart Answers, Custom Summaries etc.)
+- **Assist-Konfig (Smart Answers, Custom Summaries etc.)**
 
-- PBX-User können keine Live-AI-Features nutzen – richtig so?
+- **PBX-User können keine Live-AI-Features nutzen – richtig so?**
 
 ## Strategie
 
@@ -288,23 +288,23 @@ Strategie
 
 Vision
 
-Kundenservice-Teams mit hohem Anrufvolumen arbeiten so effizient und kundenorientiert wie Enterprise Contact Center – ohne deren Komplexität und Kosten.
+*Kundenservice-Teams mit hohem Anrufvolumen arbeiten so effizient und kundenorientiert wie Enterprise Contact Center – ohne deren Komplexität und Kosten.*
 
 Strategische Ziele 2025/2026
 
-- Aurix MRR Growth
+- **Aurix MRR Growth**
 
-Soll
+**Soll**
 
-Ist
+**Ist**
 
-*bis Ende Q4 &#39;25* Wir etablieren einen Sales-Prozess für AurixWir erzeugen die drei Produkte: Aurix, Flow & AssistWir verkaufen und lernen
+***bis Ende Q4 &#39;25*** Wir etablieren einen Sales-Prozess für Aurix**Wir erzeugen die drei Produkte: Aurix, Flow & Assist****Wir verkaufen und lernen**
 
-- 60k
+- **60k**
 
-*bis Ende Q1 &#39;26* Wir erweitern Aurix um human Intelligence
+***bis Ende Q1 &#39;26*** Wir erweitern Aurix um human Intelligence
 
-- 20
+- **20**
 
 - sipgate
 
@@ -314,11 +314,11 @@ Ist
 
 - **sipgate.com**
 
-- Customer Experience
+- **Customer Experience**
 
 - **Business Communications**
 
-- Business Communications
+- **Business Communications**
 
 - **sipgate aurix**
 
@@ -326,107 +326,107 @@ Ist
 
 - **sipgate neo**
 
-- sipgate agents
+- **sipgate agents**
 
-- sipgate trunking
+- **sipgate trunking**
 
-- sipgate cloud pbx
+- **sipgate cloud pbx**
 
-- sipgate workspace
+- **sipgate workspace**
 
-- sipgate trunking
+- **sipgate trunking**
 
-- sipgate cloud pbx
+- **sipgate cloud pbx**
 
-- sipgate flow
+- **sipgate flow**
 
-- sipgate assist  for pbx
+- **sipgate assist** ** for pbx**
 
-- sipgate workspace
+- **sipgate workspace**
 
-- Agenten und  Qualitätsmanagement
+- **Agenten und  Qualitätsmanagement**
 
-- Trunk für Deine Telefonanlage
+- **Trunk für Deine Telefonanlage**
 
-- Beste Cloud-PBX
+- **Beste Cloud-PBX**
 
-- Trunk für Deine Telefonanlage
+- **Trunk für Deine Telefonanlage**
 
-- Beste Cloud-PBX
+- **Beste Cloud-PBX**
 
-- Produktivität in der Desktop-App mit Assist
+- **Produktivität in der Desktop-App mit Assist**
 
-- v1: Zum Agenten bauen v2: in allen Gesprächen
+- **v1: Zum Agenten bauen** **v2: in allen Gesprächen**
 
-- Produktivität in der Desktop-App mit Assist
+- **Produktivität in der Desktop-App mit Assist**
 
 
 
 ## Research Plan
 
-Vorbereitung
+**Vorbereitung**
 
-- Anzahl Teilnehmer: 15?
+- **Anzahl Teilnehmer: 15?**
 
-- [https://sipgate-aurix.lovable.app/](https://sipgate-aurix.lovable.app/)
+- **[https://sipgate-aurix.lovable.app/](https://sipgate-aurix.lovable.app/)**
 
-- Erst Framing AI Agent only etc.
+- **Erst Framing AI Agent only etc. **
 
-- [https://www.sipgate.ai/](https://www.sipgate.ai/)
+- **[https://www.sipgate.ai/](https://www.sipgate.ai/)**
 
-- User hinführen, was im Prototypen sie testen sollen
+- **User hinführen, was im Prototypen sie testen sollen**
 
-- 30-45 Minuten, moderiert · Prototypen vorher ein bisschen befüllen, sodass man Beispiele hat
+- **30-45 Minuten, moderiert** · **Prototypen vorher ein bisschen befüllen, sodass man Beispiele hat**
 
-- Informiere dich - Verständnisfragen
+- **Informiere dich - Verständnisfragen**
 
-- Lukas: ist das die aktuell sinnvolle website? - Dora
+- **Lukas: ist das die aktuell sinnvolle website? - Dora**
 
-- An Tester kommen
+- **An Tester kommen**
 
-- Vllt hat Suse eine Idee - Dora
+- **Vllt hat Suse eine Idee - Dora**
 
-- Service Leads
+- **Service Leads**
 
-- Ggf mit impacs / friends
+- **Ggf mit impacs / friends**
 
-- [Die Profis](https://miro.com/app/board/uXjVJ7muKwA&#61;/?moveToWidget&#61;3458764645226110152&cot&#61;14)
+- **[Die Profis](https://miro.com/app/board/uXjVJ7muKwA&#61;/?moveToWidget&#61;3458764645226110152&cot&#61;14)**
 
-- Buyer "chefchefs" · Wie unterscheidet sich die Wahrnehmung der beiden Gruppen?
+- **Buyer "chefchefs"** · **Wie unterscheidet sich die Wahrnehmung der beiden Gruppen?**
 
 ## Frame 260
 
-[Produktvision](https://sipgate-aurix.lovable.app/)
+**[Produktvision](https://sipgate-aurix.lovable.app/)**
 
 ## mercatus\-est\.de/Frame 261
 
-Teststudios
+**Teststudios**
 
 ## Prototypen Test
 
-*Alles in orange nicht beim Test vorlesen
+**Alles in orange nicht beim Test vorlesen*
 
-- **Mentales Modell:** Als Service Lead / Sales Lead möchte steuern, wie Calls geführt und nachbearbeitet werden
+- **Mentales Modell: Als Service Lead / Sales Lead möchte steuern, wie Calls geführt und nachbearbeitet werden**
 
-- **Mentales Modell: **Agenten teilen sich (teilweise) gemeinsames Wissen und gemeine Playbooks
+- **Mentales Modell: Agenten teilen sich (teilweise) gemeinsames Wissen und gemeine Playbooks**
 
-**Szenario** Stellen Sie sich vor, Sie sind Service Lead von 10 Mitarbeitenden und es gibt mittlerweile auch AI Agents, die zusätzlich zu den Mitarbeitenden telefonieren. **Prototyp** [https://sipgate-aurix.lovable.app/](https://sipgate-aurix.lovable.app/)Sie sehen hier das Teamlead Interface um die Telefonie der Mitarbeitenden und AI Agents zu verwalten (Prototyp noch nicht 100%ig funktional).Schauen Sie sich einmal um und beschreiben Sie was Sie sehen, wo Sie sich befinden und was Sie dort machen können.Schauen Sie sich Kacheln an und was sie darunter erwarten (Ignorieren Sie den Bereich Flow API)Sie können sich auch gerne frei reinklicken und schauen, was Sie darunter verstehen. **Wissendatenbank** Wenn Sie nochmal auf die Kachel "Wissen" schauen, was verbirgt sich dahinter? Was können Sie dort machen?Einstieg in Wissensdatenbank UnterseiteVersteht die Person, dass die Wissendatenbank global ist? **Playbooks** Wenn Sie nochmal auf die Kachel "Playbook" schauen, was verbirgt sich dahinter? Was können Sie dort machen?Einstieg in Playbook UnterseiteKlicken Sie auf eins der Playbooks, das Sie an Ihren Arbeitsalltag erinnert.Beschreiben Sie mal, was Sie dort alles sehen und einstellen können, ohne zu klicken.Start -> Gesprächsleitfaden -> Abschlussaktion -> Assist Features zur Nachbereitung bzw. passiert im NachhineinWenn Sie sich jetzt einen Überblick verschafft haben, was verstehen Sie nun unter Playbooks?Nachfragen, wenn die Person dazu noch nichts gesagt hat:Was verstehen Sie unter "Trigger"?Was verstehen Sie unter "Automatisierte Nachbereitung mit Assist"?Was erwarten Sie was passiert, wenn sie die Toggles bedienen?Wenn Sie hier auf "Playbook speichern" drücken: Wo gilt das Playbook nun, das Sie hier angelegt sehen? (Z.B. Anrufe, Mitarbeitenden oder AI Agents)[Zurück zur Startseite]
+**Szenario** **Stellen Sie sich vor, Sie sind Service Lead von 10 Mitarbeitenden und es gibt mittlerweile auch AI Agents, die zusätzlich zu den Mitarbeitenden telefonieren.** **Prototyp** **[https://sipgate-aurix.lovable.app/](https://sipgate-aurix.lovable.app/)****Sie sehen hier das Teamlead Interface um die Telefonie der Mitarbeitenden und AI Agents zu verwalten (Prototyp noch nicht 100%ig funktional).****Schauen Sie sich einmal um und beschreiben Sie was Sie sehen, wo Sie sich befinden und was Sie dort machen können.****Schauen Sie sich Kacheln an und was sie darunter erwarten (Ignorieren Sie den Bereich Flow API)****Sie können sich auch gerne frei reinklicken und schauen, was Sie darunter verstehen.** **Wissendatenbank** **Wenn Sie nochmal auf die Kachel "Wissen" schauen, was verbirgt sich dahinter? Was können Sie dort machen?***Einstieg in Wissensdatenbank Unterseite***Versteht die Person, dass die Wissendatenbank global ist?** **Playbooks** **Wenn Sie nochmal auf die Kachel "Playbook" schauen, was verbirgt sich dahinter? Was können Sie dort machen?***Einstieg in Playbook Unterseite***Klicken Sie auf eins der Playbooks, das Sie an Ihren Arbeitsalltag erinnert.****Beschreiben Sie mal, was Sie dort alles sehen und einstellen können, ohne zu klicken.***Start -> Gesprächsleitfaden -> Abschlussaktion -> Assist Features zur Nachbereitung bzw. passiert im Nachhinein***Wenn Sie sich jetzt einen Überblick verschafft haben, was verstehen Sie nun unter Playbooks?***Nachfragen, wenn die Person dazu noch nichts gesagt hat:*Was verstehen Sie unter "Trigger"?**Was verstehen Sie unter "Automatisierte Nachbereitung mit Assist"?****Was erwarten Sie was passiert, wenn sie die Toggles bedienen?****Wenn Sie hier auf "Playbook speichern" drücken: Wo gilt das Playbook nun, das Sie hier angelegt sehen? (Z.B. Anrufe, Mitarbeitenden oder AI Agents)***[Zurück zur Startseite]*
 
-- **Mentales Modell: **Menschen und Agenten arbeiten (teilweise) an ähnlichen Anrufen / Gesprächsleitfäden · **Mentales Modell: **Ein bestimmter Anruftyp (z.B. Terminvereinbarung) verlangt einen bestimmten Gesprächsleitfaden und auch eine bestimmte Art der Nachbearbeitung
+- **Mentales Modell: Menschen und Agenten arbeiten (teilweise) an ähnlichen Anrufen / Gesprächsleitfäden** · **Mentales Modell: Ein bestimmter Anruftyp (z.B. Terminvereinbarung) verlangt einen bestimmten Gesprächsleitfaden und auch eine bestimmte Art der Nachbearbeitung**
 
-- **Hypothese:** Menschen verstehen nicht, was die Assist Funktionen sind, inkl. Toggles und dass Manches. · **Fragen: **Versteht man, wie Playbooks funktionieren? Versteht man, wie sie aktiviert werden? Versteht man, dass die Playbooks global sind?
+- **Hypothese: Menschen verstehen nicht, was die Assist Funktionen sind, inkl. Toggles und dass Manches.** · **Fragen: Versteht man, wie Playbooks funktionieren? Versteht man, wie sie aktiviert werden? Versteht man, dass die Playbooks global sind?**
 
-- **Mentales Modell: **Unter Agent verstehe ich einen "AI-Agenten" · **Mentales Modell: **Ein AI-Agent hat menschliche Eigenschaften wie Stimme, Persönlichkeit und Jobbeschreibung
+- **Mentales Modell: Unter Agent verstehe ich einen "AI-Agenten"** · **Mentales Modell: Ein AI-Agent hat menschliche Eigenschaften wie Stimme, Persönlichkeit und Jobbeschreibung**
 
-- **Mentales Modell:  **Ein Agent kann an verschiedenen Stellen der Telefonie eingesetzt werden
+- **Mentales Modell:  Ein Agent kann an verschiedenen Stellen der Telefonie eingesetzt werden**
 
-**AI Agent konfigurieren:** Angenommen Sie jetzt möchten Sie den *"Support AI Agenten"* konfigurieren. Wie gehen Sie da vor?Einstieg in Agent UnterseiteSchauen Sie sich auf der Seite einmal um: Was können Sie hier tun?Wie würden Sie den AI Agent das für Ihr Team konfigurieren? Klicken Sie sich einmal durch alle Reiter durch. Person sollte an diesen Einstellungen vorbeikommen:*Grundeinstellungen* (Name, RN)*Personalisierung des Agents* Name, wie förmlich, Stimme, Persönlichkeit prompten (beratend, informativ, etc.), Tonalität*Briefing* (Rolle des Agents, Begrüßungsphrase, weitere Anweisungen fürs VH inkl. pre-sets)*Wissen *Wissensdatenbank mit Docs die man hinzufügen oder erstellen kann, Kundendatenbanken (toggle - an aus) -> Kennt die Person schon*Playbooks* (Standard ist wenn nichts anderes ausgewählt ist) -> Kennt die Person schon*Workflows* zur Nachbearbeitung **Verständnis wo AI Agent aktiv ist** Wo glauben Sie ist der AI Agent gerade aktiv? [Zurück zur Startseite] **Queues** Wenn Sie nochmal auf die Kachel "Queue" schauen, was verbirgt sich dahinter?Was können Sie dort machen?Einstieg in Queue UnterseiteWürdest du sagen, AI Agents sind Teil Queue oder immer davor oder danach oder parallel?In der Queue sind nur Menschen. AI Agenten sind davor, übernehmen danach (z.B. nach x Zeit in Warteschleife) oder parallel (z.B. außerhalb der Geschäftszeiten).*Über die Queue kann man steuern, wann AI Agents rangehen sollen: Anruf kann in bestimmten Queues durch ein Playbook an AI Agents weitergeleitet werden.**Ein AI Agent kann über seine eigene RN erreichbar sein.**Ein AI Agent kann selbst weiterleiten.* [Zurück zur Startseite] Wie würden Sie es einstellen wenn ein AI Agent immer im 1st Level Support drangeht und im 2nd Level echte Mitarbeitende telefonieren?Wir wollen nur den ersten Gedanken zum Einstieg: Klickt man auf Queue oder Playbook?  **Abschlussfrage** Wie relevant ist sind diese Funktionen für Sie?
+**AI Agent konfigurieren:** **Angenommen Sie jetzt möchten Sie den *"Support AI Agenten"* konfigurieren. Wie gehen Sie da vor?***Einstieg in Agent Unterseite***Schauen Sie sich auf der Seite einmal um: Was können Sie hier tun?****Wie würden Sie den AI Agent das für Ihr Team konfigurieren? Klicken Sie sich einmal durch alle Reiter durch. ***Person sollte an diesen Einstellungen vorbeikommen:**Grundeinstellungen (Name, RN)**Personalisierung des Agents Name, wie förmlich, Stimme, Persönlichkeit prompten (beratend, informativ, etc.), Tonalität**Briefing (Rolle des Agents, Begrüßungsphrase, weitere Anweisungen fürs VH inkl. pre-sets)**Wissen Wissensdatenbank mit Docs die man hinzufügen oder erstellen kann, Kundendatenbanken (toggle - an aus) -> Kennt die Person schon**Playbooks (Standard ist wenn nichts anderes ausgewählt ist) -> Kennt die Person schon**Workflows zur Nachbearbeitung* **Verständnis wo AI Agent aktiv ist** **Wo glauben Sie ist der AI Agent gerade aktiv?** *[Zurück zur Startseite]* **Queues** **Wenn Sie nochmal auf die Kachel "Queue" schauen, was verbirgt sich dahinter?****Was können Sie dort machen?***Einstieg in Queue Unterseite***Würdest du sagen, AI Agents sind Teil Queue oder immer davor oder danach oder parallel?***In der Queue sind nur Menschen. AI Agenten sind davor, übernehmen danach (z.B. nach x Zeit in Warteschleife) oder parallel (z.B. außerhalb der Geschäftszeiten).****Über die Queue kann man steuern, wann AI Agents rangehen sollen: Anruf kann in bestimmten Queues durch ein Playbook an AI Agents weitergeleitet werden.******Ein AI Agent kann über seine eigene RN erreichbar sein.******Ein AI Agent kann selbst weiterleiten.*** *[Zurück zur Startseite]* **Wie würden Sie es einstellen wenn ein AI Agent immer im 1st Level Support drangeht und im 2nd Level echte Mitarbeitende telefonieren?***Wir wollen nur den ersten Gedanken zum Einstieg: Klickt man auf Queue oder Playbook? * **Abschlussfrage** **Wie relevant ist sind diese Funktionen für Sie?**
 
-- **Mentales Modell: **In einer Queue verknüpfe ich Rufnummer, menschliche Agenten und Warteschleifen-Logik
+- **Mentales Modell: In einer Queue verknüpfe ich Rufnummer, menschliche Agenten und Warteschleifen-Logik**
 
-- **Mentales Modell: **Die Telefonie von 1st und 2nd Level Support manage ich über die Queues (nicht Playbooks)
+- **Mentales Modell: Die Telefonie von 1st und 2nd Level Support manage ich über die Queues (nicht Playbooks)**
 
-**TBD** Test wahrscheinlich zu lang für 30 Min - Nochmal drüberschauen: Was ist das wichtigste?Wir hatten die Frage, wo werden Trigger aus der Nachbereitung mit Assist hingeschrieben? (CRM etc.) Funktion noch in den Prototypen integrieren?
+**TBD** **Test wahrscheinlich zu lang für 30 Min - Nochmal drüberschauen: Was ist das wichtigste?****Wir hatten die Frage, wo werden Trigger aus der Nachbereitung mit Assist hingeschrieben? (CRM etc.) Funktion noch in den Prototypen integrieren?**
 
 
 
@@ -450,33 +450,33 @@ Qualitätsmanagement
 
 OVERVIEW
 
-- Data grid mit allen Calls
+- **Data grid mit allen Calls**
 
-- Wie interagieren User mit dem Datagrid -  Wie (wertvoll) wird ein Datagrid mit allen Calls wahrgenommen?
+- **Wie interagieren User mit dem Datagrid -  Wie (wertvoll) wird ein Datagrid mit allen Calls wahrgenommen?**
 
 Analyse Hub
 
 AI AGENTS
 
-- aktuelle Frontdesk Analyse
+- **aktuelle Frontdesk Analyse**
 
 Analyse
 
-- Was wir lernen können: Wie wird das zentrale QM wahrgenommen? (alles an einer Stelle & filterbar) · Was wir lernen können: Wird verstanden, dass sich das QM  auf Menschen und AI bezieht? · Problem: KPIs auf dem Analyse Bord bezieht sich vorrangig  auf AI . · Wir haben noch kein Konzept, welches AI und Menschen denkt.
+- **Was wir lernen können:** **Wie wird das zentrale QM wahrgenommen? (alles an einer Stelle & filterbar)** · **Was wir lernen können:** **Wird verstanden, dass sich das QM  auf Menschen und AI bezieht?** · **Problem: KPIs auf dem Analyse Bord bezieht sich vorrangig  auf AI .** · **Wir haben noch kein Konzept, welches AI und Menschen denkt. **
 
 QUEUES
 
-- Naming schwierig. Queues beinhalten AI Agents (?!!!)
+- **Naming schwierig. Queues beinhalten AI Agents (?!!!)**
 
-- Wie wird zwischen den Bereichen AI Agent & Queues navigiert? · Was brauchen User um einen ganzheitlichen Blick auf die Hotline zu bekommen, · Kriegen eher Irritationen mit, warum es getrennte Bereiche sind. · Näher am aktuellem Produktstand
+- **Wie wird zwischen den Bereichen AI Agent & Queues navigiert?** · **Was brauchen User um einen ganzheitlichen Blick auf die Hotline zu bekommen,** · **Kriegen eher Irritationen mit, warum es getrennte Bereiche sind.** · **Näher am aktuellem Produktstand**
 
 Live Monitoring
 
-- aktuelle Konzepte
+- **aktuelle Konzepte**
 
-- Was wir lernen können:  Welche Daten braucht&#39;s für den ganzheitlichen Blick / Zusammenspiel AI & Mensch
+- **Was wir lernen können:** **Welche Daten braucht&#39;s für den ganzheitlichen Blick / Zusammenspiel AI & Mensch**
 
-- Problem: Live Dashboard nur auf Queue (Menschen)
+- **Problem: Live Dashboard nur auf Queue (Menschen)**
 
 Analyse
 
@@ -484,13 +484,13 @@ Live Monitoring
 
 ## Frame 264
 
-Zum Board für die Proband:innen:
+**Zum Board für die Proband:innen:**
 
-- [https://miro.com/app/board/uXjVGcKDX-U&#61;/](https://miro.com/app/board/uXjVGcKDX-U&#61;/)
+- **[https://miro.com/app/board/uXjVGcKDX-U&#61;/](https://miro.com/app/board/uXjVGcKDX-U&#61;/)**
 
-Zum Leitfaden
+**Zum Leitfaden**
 
-- [https://docs.google.com/document/d/1i3pfyW_wA4Jnp4RYKHcWpedbbKURt5ea4WKfsetZdk0/edit?tab&#61;t.0](https://docs.google.com/document/d/1i3pfyW_wA4Jnp4RYKHcWpedbbKURt5ea4WKfsetZdk0/edit?tab&#61;t.0)
+- **[https://docs.google.com/document/d/1i3pfyW_wA4Jnp4RYKHcWpedbbKURt5ea4WKfsetZdk0/edit?tab&#61;t.0](https://docs.google.com/document/d/1i3pfyW_wA4Jnp4RYKHcWpedbbKURt5ea4WKfsetZdk0/edit?tab&#61;t.0)**
 
 ## Marcel
 
@@ -518,11 +518,11 @@ Zum Leitfaden
 
 - **Wrapup**
 
-- 150 MA
+- **150 MA**
 
-- Möbelhandel
+- **Möbelhandel**
 
-- hochpreisige Möbel (wie z.B. Höffner und nicht Pocco)
+- **hochpreisige Möbel (wie z.B. Höffner und nicht Pocco)**
 
 - **AI Agents**
 
@@ -562,9 +562,9 @@ Zum Leitfaden
 
 - **Wrapup**
 
-- Personalberatung · Unternehmen zu EInstellungen
+- **Personalberatung** · **Unternehmen zu EInstellungen**
 
-- aktuell bisschen geschrupft, weil wirtschaftliche lage nicht die beste ist · ca. 450 Mitarbeitende
+- **aktuell bisschen geschrupft, weil wirtschaftliche lage nicht die beste ist** · **ca. 450 Mitarbeitende**
 
 - **AI Agents**
 
@@ -572,17 +572,17 @@ Zum Leitfaden
 
 - **Data Grid**
 
-- Fokus mit Unternehmen zusammenzuarbeiten (früher viel Personalbedarf, und konnten das nicht dementsprechend besetzen) · Überzeugen durch Tolles Kanidaten Kataloug, ...
+- **Fokus mit Unternehmen zusammenzuarbeiten (früher viel Personalbedarf, und konnten das nicht dementsprechend besetzen)** · **Überzeugen durch Tolles Kanidaten Kataloug, ... **
 
-- hat ein eigenes Team
+- **hat ein eigenes Team**
 
-- Leute finden für Jobs.
+- **Leute finden für Jobs. **
 
-- Finanzbereich
+- **Finanzbereich**
 
-- mit Kandidtaten und Unternehen sprechen
+- **mit Kandidtaten und Unternehen sprechen**
 
-- fach und führungskräfte
+- **fach und führungskräfte**
 
 
 
@@ -852,29 +852,29 @@ Zum Leitfaden
 
 - "Man legt hier fest, wie lange man in irgendeiner Art von Warteschlange verweilen kann und nach vorgegebenen Bedingungen wird man vielleicht weitergeleitet. Solche Dinge kann man da sicherlich festlegen.
 
-- Queues sind ein vertrautes Konzept. Er denkt an Kapazitäten, Wartezeiten und Überläufe. AI kann helfen, indem Anrufende gar nicht erst in der Queue landen müssen.
+- **Queues sind ein vertrautes Konzept. Er denkt an Kapazitäten, Wartezeiten und Überläufe.** **AI kann helfen, indem Anrufende gar nicht erst in der Queue landen müssen.**
 
-- AI Agents als konfigurierbare Einheiten, die Anrufe annehmen, Informationen abfragen, nachschlagen und Entscheidungen treffen  (inkl. Weiterleiten). Der Nutzen liegt  in der Entlastung der Hotline bei häufig wiederkehrenden Fragen.
+- **AI Agents als konfigurierbare Einheiten, die Anrufe annehmen, Informationen abfragen, nachschlagen und Entscheidungen treffen  (inkl. Weiterleiten). Der Nutzen liegt  in der Entlastung der Hotline bei häufig wiederkehrenden Fragen.**
 
 - "Workflow ist eine Art von Branching, also dass man Verzweigungen hat, wie eine Art von Logik in einem Programm. Nur deutlich einfacher als eine Programmierung."
 
 - "Workflow ist z. B. etwas, wenn die Eingabe erfolgt, dass es sich um ein größeres Event handelt, dann erfolgt eine Weiterleitung."
 
-- Wissensdatenbank als  ein Nachschlagewerk, das über APIs angebunden ist, konkrete Antworten liefern kann und mit Live-Daten arbeitet.
+- **Wissensdatenbank als ** **ein Nachschlagewerk, das über APIs angebunden ist, konkrete Antworten liefern kann** **und mit Live-Daten arbeitet.**
 
-- Workflows  als logische Abläufe: Eingaben der Anrufenden führen zu bestimmten Aktionen (Weiterleitungen, API-Abfragen). Er sieht hier starke Analogien zu n8n. Ein Workflow ist für ihn  technisch-funktional: *Wenn X, dann Y*.
+- **Workflows  als logische Abläufe: Eingaben der Anrufenden führen zu bestimmten Aktionen (Weiterleitungen, API-Abfragen). Er sieht hier starke Analogien zu n8n. Ein Workflow ist für ihn  technisch-funktional: *Wenn X, dann Y*.**
 
-- Playbooks  als Handlungsrahmen  – eine Mischung aus Wissen & Ablauf.  Im Unterschied zu Workflows geht es weniger um technische Logik, sondern um inhaltliche Struktur. Welche Informationen werden zuerst abgefragt? Wie wird ein Gast identifiziert?
+- **Playbooks  als Handlungsrahmen  – eine Mischung aus Wissen & Ablauf.** **Im Unterschied zu Workflows geht es weniger um technische Logik, sondern um inhaltliche Struktur. Welche Informationen werden zuerst abgefragt? Wie wird ein Gast identifiziert?**
 
 ![image-3458764655337250325](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517488835890?format=preview&redirect=false)
 
-- Unklarheit, die Begriffe Agent, Workflow & Playbook voneinander abzugrenzen: „ist ja ähnlich wie ich es bereits erklärt habe“,  "das ist Denglisch" Es ist beispielsweise nicht klar, was genau ein AI Agent im Unterschied zu einem Call Flow, einem Regelwerk und der klassischen Hotline-Logik ist.
+- **Unklarheit, die Begriffe Agent, Workflow & Playbook voneinander abzugrenzen: „ist ja ähnlich wie ich es bereits erklärt habe“,  "das ist Denglisch"** **Es ist beispielsweise nicht klar, was genau ein AI Agent im Unterschied zu einem Call Flow, einem Regelwerk und der klassischen Hotline-Logik ist.**
 
-- Qualitätsmanagement beinhalten Metriken, Dashboards, Reports. Z. B. Wie viele Anrufe kommen rein? Welche Themen dauern lange?
+- **Qualitätsmanagement beinhalten Metriken, Dashboards, Reports.** **Z. B. Wie viele Anrufe kommen rein? Welche Themen dauern lange?**
 
-- „Was ist eine Performance von einem AI Agent? – Da tue ich mich schwer“
+- **„Was ist eine Performance von einem AI Agent? – Da tue ich mich schwer“**
 
-- Data Grid als strukturierte Auswertungsebene: Texterkennung, Themencluster, Gesprächsinhalte. Also nicht nur *was* gesagt wurde, sondern *worum es ging* und *wie*. Es dient als Grundlage für Insights: Welche Fragen kommen häufig? Wo fehlen Informationen?
+- **Data Grid als strukturierte Auswertungsebene: Texterkennung, Themencluster, Gesprächsinhalte. Also nicht nur *was* gesagt wurde, sondern *worum es ging* und *wie*.** **Es dient als Grundlage für Insights: Welche Fragen kommen häufig? Wo fehlen Informationen?**
 
 
 
@@ -882,17 +882,17 @@ Zum Leitfaden
 
 ## Jan \- Prototyp
 
-- Konfiguration von AI Agent: bei Automatisierung -> Wissen
+- **Konfiguration von AI Agent: bei Automatisierung -> Wissen**
 
-- offensichtlich, dass man da verschiedene AI Agents hat, die man steuern kann
+- **offensichtlich, dass man da verschiedene AI Agents hat, die man steuern kann**
 
-- Weiß er nicht
+- **Weiß er nicht**
 
-- unsicher
+- **unsicher**
 
-- Uhrzeiten anpassen, Telefonansagen
+- **Uhrzeiten anpassen, Telefonansagen**
 
-- selber Workflows erstellen, die man dann an AI Agents überspielen kann
+- **selber Workflows erstellen, die man dann an AI Agents überspielen kann**
 
 ## Jan \- Mentales Modell
 
@@ -954,25 +954,25 @@ Zum Leitfaden
 
 ## Jan \- Kontext
 
-| Unternehmen | IT-affinität |
+| **Unternehmen** | ** IT-affinität** |
 | --- | --- |
-| Rolle & Verantwortung | KI und Einsatz von KI |
-| Monitoring & Erreichbarkeitsziele |  |
-|  | Wer macht Einstellungen in der Telefonie? |
-| Struktur des Service | Buying Entscheidung |
-| Aufgaben seines Teams |  |
-| Kommunikationskanäle |  |
-| Anrufe |  |
+| **Rolle & Verantwortung** | **KI und Einsatz von KI** |
+| **Monitoring & Erreichbarkeitsziele** |  |
+|  | **Wer macht Einstellungen in der Telefonie?** |
+| **Struktur des Service** | **Buying Entscheidung** |
+| **Aufgaben seines Teams** |  |
+| **Kommunikationskanäle** |  |
+| **Anrufe** |  |
 
 ## Ilham \- Prototyp
 
-- Was mir sofort auffällt,ist die Vermischung von deutsch/ englisch
+- **Was mir sofort auffällt,ist die Vermischung von deutsch/ englisch**
 
-- Wissen für alle
+- **Wissen für alle**
 
 ![image-3458764656511786110](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517581340881?format=preview&redirect=false)
 
-- Auf die Fachbegriffe zugreifen kann. sehr wichtig
+- **Auf die Fachbegriffe zugreifen kann. sehr wichtig**
 
 ## Ilham \- Mentales Modell
 
@@ -1026,53 +1026,53 @@ Zum Leitfaden
 
 ## Ilham \- Kontext
 
-- IT-affinität
+- ** IT-affinität**
 
-- Unternehmen
+- **Unternehmen**
 
-- KI und Einsatz von KI
+- **KI und Einsatz von KI**
 
-- Rolle & Verantwortung
+- **Rolle & Verantwortung**
 
-- Struktur des Service
+- **Struktur des Service**
 
-- Wer macht Einstellungen in der Telefonie?
+- **Wer macht Einstellungen in der Telefonie?**
 
-- Aufgaben seines Teams
+- **Aufgaben seines Teams**
 
-- Buying Entscheidung
+- **Buying Entscheidung**
 
-- Anrufe
+- **Anrufe**
 
-- Kommunikationskanäle
+- **Kommunikationskanäle**
 
-- **Hohes Interesse am Monitoring** · Monitoring & Erreichbarkeitsziele
+- **Hohes Interesse am Monitoring** · **Monitoring & Erreichbarkeitsziele**
 
 ## Jan \- Begriffe
 
-- customer intelligence: Infos die das Leben vereinfachen
+- **customer intelligence: Infos die das Leben vereinfachen**
 
-- Data hub - große Datensammlung als Bündel darstellen
+- **Data hub - große Datensammlung als Bündel darstellen**
 
-- AI Agents nutzen wir auch - aber als Fehlersuche (Ausreißer definieren und ...)
+- **AI Agents nutzen wir auch - aber als Fehlersuche (Ausreißer definieren und ...)**
 
-- Playbooks: keine Vorstellung
+- **Playbooks: keine Vorstellung**
 
-- Queues: Sacht mir nichts
+- **Queues: Sacht mir nichts**
 
-- Agenten: Bisschen so wie bei aI, dass man so gewisse Faktoren festmacht, die nicht sein sollen
+- **Agenten: Bisschen so wie bei aI, dass man so gewisse Faktoren festmacht, die nicht sein sollen**
 
-- Live Monitoring: Echtzeitdaten
+- **Live Monitoring: Echtzeitdaten**
 
-- Kriterien: Anruferzufriedenheit
+- **Kriterien: Anruferzufriedenheit**
 
-- Effizienzsteuerung / braucht man mit AI agents länger?
+- **Effizienzsteuerung / braucht man mit AI agents länger?**
 
-- Coaching: Arbeitserleichterung / Entscheidungsstützen holen bei Bedarf
+- **Coaching: Arbeitserleichterung / Entscheidungsstützen holen bei Bedarf**
 
-- Kundenzufriedenheit: will er wissen; ohne dass diese die Leitung blockieren während sie feedback da lassen
+- **Kundenzufriedenheit: will er wissen; ohne dass diese die Leitung blockieren während sie feedback da lassen**
 
-- wöchentliche JF: kein Coaching an sich (nicht die Welt erklären, wie man sich am Telefon verhält); aber dass man Argumente den MA mit an die Hand gibt
+- **wöchentliche JF: kein Coaching an sich (nicht die Welt erklären, wie man sich am Telefon verhält); aber dass man Argumente den MA mit an die Hand gibt**
 
 ## Jasmin \- Prototyp
 
@@ -1104,27 +1104,27 @@ Zum Leitfaden
 
 ## Jasmin \- Kontext
 
-- IT-affinität
+- ** IT-affinität**
 
-- Unternehmen
+- **Unternehmen**
 
-- KI und Einsatz von KI
+- **KI und Einsatz von KI**
 
-- Rolle & Verantwortung
+- **Rolle & Verantwortung**
 
-- Wer macht Einstellungen in der Telefonie?
+- **Wer macht Einstellungen in der Telefonie?**
 
-- Struktur des Service
+- **Struktur des Service**
 
-- Buying Entscheidung
+- **Buying Entscheidung**
 
-- Aufgaben seines Teams
+- **Aufgaben seines Teams**
 
-- Kommunikationskanäle
+- **Kommunikationskanäle**
 
-- Anrufe
+- **Anrufe**
 
-- Monitoring & Erreichbarkeitsziele
+- **Monitoring & Erreichbarkeitsziele**
 
 
 
@@ -1134,7 +1134,7 @@ Zum Leitfaden
 
 ## Nabil \- Kontext
 
-- Unternehmen
+- **Unternehmen**
 
 ## Nabil \- Mentales Modell
 
@@ -1226,27 +1226,27 @@ Zum Leitfaden
 
 ## Victoria \- Kontext
 
-- IT-affinität
+- ** IT-affinität**
 
-- Unternehmen
+- **Unternehmen**
 
-- KI und Einsatz von KI
+- **KI und Einsatz von KI**
 
-- Rolle & Verantwortung
+- **Rolle & Verantwortung**
 
-- Struktur des Service
+- **Struktur des Service**
 
-- Wer macht Einstellungen in der Telefonie?
+- **Wer macht Einstellungen in der Telefonie?**
 
-- Buying Entscheidung
+- **Buying Entscheidung**
 
-- Aufgaben seines Teams
+- **Aufgaben seines Teams**
 
-- Kommunikationskanäle
+- **Kommunikationskanäle**
 
-- Anrufe
+- **Anrufe**
 
-- **Hohes Interesse am Monitoring** · Monitoring & Erreichbarkeitsziele
+- **Hohes Interesse am Monitoring** · **Monitoring & Erreichbarkeitsziele**
 
 
 
@@ -1260,9 +1260,9 @@ Zum Leitfaden
 
 ## Kontext / Service
 
-- broad range of experience: bis zu 20 Jahre
+- **broad range of experience: bis zu 20 Jahre**
 
-- Wie ist der Service strukturiert?
+- **Wie ist der Service strukturiert?**
 
 
 
@@ -1272,15 +1272,15 @@ Zum Leitfaden
 
 ## Begriffe / Runde 2
 
-- Könnt man ein "2 Lügen, eine Wahrheit"-Spiel draus machen
+- **Könnt man ein "2 Lügen, eine Wahrheit"-Spiel draus machen**
 
-- Feedback geben monatlich/wöchentlich · Coaching an MA oder an die Endkunden?
+- **Feedback geben monatlich/wöchentlich** · **Coaching an MA oder an die Endkunden?**
 
-- Kundenintelligenz - unklar. Vielleicht eine einfache Variante, dem Kunden mehr Hilfestellung zu geben, die mehr auf die Intelligenz geht. Beispiel: Der Kunde bekommt im Hilfecenter nicht die ganz genaue Antwort und holen sich diese dann beim Support statt über die CI.
+- **Kundenintelligenz - unklar. Vielleicht eine einfache Variante, dem Kunden mehr Hilfestellung zu geben, die mehr auf die Intelligenz geht. Beispiel: Der Kunde bekommt im Hilfecenter nicht die ganz genaue Antwort und holen sich diese dann beim Support statt über die CI.**
 
-- Machen "side by side" Coaching insbesondere bei neuen MA. Da sitzen sie zusammen in einem virtuellen Raum mit whispering.
+- **Machen "side by side" Coaching insbesondere bei neuen MA. Da sitzen sie zusammen in einem virtuellen Raum mit whispering. **
 
-- MA Coaching findet regelmäßig statt. weil es immer was neues gibt
+- **MA Coaching findet regelmäßig statt. weil es immer was neues gibt**
 
 
 
@@ -1292,35 +1292,35 @@ Zum Leitfaden
 
 ## Mapping: Vorerfahrung / Einsatz von KI im Unternehmen
 
-- Ilham
+- **Ilham**
 
-- Nabil
+- **Nabil**
 
-- Marcel (Runde 1)
+- **Marcel (Runde 1)**
 
-- Abhängig von Produktspezifikiationen
+- **Abhängig von Produktspezifikiationen**
 
-- ChatGPT
+- **ChatGPT**
 
-- Mehrwert:  Wenn mans einmal richtig eingestellt hat, ist das für alle MAs gleich - menschlicher Trainer macht es ggf anders pro Training
+- **Mehrwert:  Wenn mans einmal richtig eingestellt hat, ist das für alle MAs gleich - menschlicher Trainer macht es ggf anders pro Training**
 
-- Lieferzeiten mit Lieferanten
+- **Lieferzeiten mit Lieferanten**
 
-- Glaubt, der Kunde hat auch ein Interesse, das mit KI zu machen, zu "vereinfachen"
+- **Glaubt, der Kunde hat auch ein Interesse, das mit KI zu machen, zu "vereinfachen"**
 
-- Bewertung des Calls als "kritisch", wenn Zufriedenheit nicht angesprochen oder Ruhezeiten überschritten
+- **Bewertung des Calls als "kritisch", wenn Zufriedenheit nicht angesprochen oder Ruhezeiten überschritten**
 
-- Reklamation
+- **Reklamation**
 
-- Authentifikation, z.B. via Bestellnummer, Geburtsdatum, eMail-Adresse
+- **Authentifikation, z.B. via Bestellnummer, Geburtsdatum, eMail-Adresse**
 
-- Wenn einfache Recherche nicht ausreicht, Weiterleitung
+- **Wenn einfache Recherche nicht ausreicht, Weiterleitung**
 
-- Gesprächsführung: muss deutlich machen, dass eine Weiterleitung stattfinden kann
+- **Gesprächsführung: muss deutlich machen, dass eine Weiterleitung stattfinden kann**
 
-- Jasmin
+- **Jasmin**
 
-- Übernahme einfacher Anrufe denkbar · Kann sich auch vorstellen, dass der AI Agent Rückrufe tätigt, wenn der Kunde einen Ruckruf angefordert hat
+- **Übernahme einfacher Anrufe denkbar** · **Kann sich auch vorstellen, dass der AI Agent Rückrufe tätigt, wenn der Kunde einen Ruckruf angefordert hat**
 
 
 
@@ -1378,23 +1378,23 @@ Zum Leitfaden
 
 ## Michael \- Kontext
 
-- Unternehmen
+- **Unternehmen**
 
-- IT-affinität
+- ** IT-affinität**
 
-- KI und Einsatz von KI
+- **KI und Einsatz von KI**
 
-- Rolle & Verantwortung
+- **Rolle & Verantwortung**
 
-- Struktur des Service
+- **Struktur des Service**
 
-- Buying Entscheidung
+- **Buying Entscheidung**
 
-- Aufgaben seines Teams
+- **Aufgaben seines Teams**
 
-- Anrufe
+- **Anrufe**
 
-- **Hohes Interesse am Monitoring** · Monitoring & Erreichbarkeitsziele
+- **Hohes Interesse am Monitoring** · **Monitoring & Erreichbarkeitsziele**
 
 
 
@@ -1482,59 +1482,59 @@ Zum Leitfaden
 
 ## Frame 265
 
-- Liste aller Calls von einem Ort (von einem Trunk zB) · Liste aller Calls von allen Orten von einem Kunden
+- **Liste aller Calls von einem Ort (von einem Trunk zB)** · **Liste aller Calls von allen Orten von einem Kunden**
 
 ## Copy of Ilham \- Prototyp
 
-- Was mir sofort auffällt,ist die Vermischung von deutsch/ englisch
+- **Was mir sofort auffällt,ist die Vermischung von deutsch/ englisch**
 
-- Übersicht der Agents · Vorgeschaltete Agent
+- **Übersicht der Agents** · **Vorgeschaltete Agent**
 
-- Also ich verbinde damit die Warteschleife, aber das ist verwirrend sind wir damit gemeint - also die MA?
+- **Also ich verbinde damit die Warteschleife, aber das ist verwirrend sind wir damit gemeint - also die MA?**
 
-- Übersicht der Playbooks
+- **Übersicht der Playbooks**
 
-- Innerhalb eines Playbooks
+- **Innerhalb eines Playbooks**
 
-- Wissen für alle
+- **Wissen für alle**
 
-- KI ist hier schneller im Zugriff
+- **KI ist hier schneller im Zugriff**
 
-- "Das ist so der Standard"
+- **"Das ist so der Standard"**
 
-- Automatisierte Aufnahmen
+- **Automatisierte Aufnahmen**
 
-- Vermutet Standardisierte Antworten / Textbausteine
+- **Vermutet Standardisierte Antworten / Textbausteine**
 
-- Das sieht hier nach KI aus, die vorgeschaltet ist · Vermutet hier die Regeln für Weiterleitung, Triggerpunkte -> erkennt die Worte
+- **Das sieht hier nach KI aus, die vorgeschaltet ist** · **Vermutet hier die Regeln für Weiterleitung, Triggerpunkte -> erkennt die Worte**
 
-- Sobald der Kunde einen Begriff nennt, erkennt der Agent das sofort und wird entsprechend weitergeleitet
+- **Sobald der Kunde einen Begriff nennt, erkennt der Agent das sofort und wird entsprechend weitergeleitet**
 
-- nutzen Textbausteine: die beschreiben wie die menschlichen MA reagieren sollen/ können wenn der Kunde etwas sagt
+- **nutzen Textbausteine: die beschreiben wie die menschlichen MA reagieren sollen/ können wenn der Kunde etwas sagt**
 
 ![image-3458764661812727913](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517581340881?format=preview&redirect=false)
 
-- und was ist, wenn der Kunde 2-3 Sachen hat, die er gerne besprechen möchte?
+- **und was ist, wenn der Kunde 2-3 Sachen hat, die er gerne besprechen möchte?**
 
-- Auf die Fachbegriffe zugreifen kann. sehr wichtig
+- **Auf die Fachbegriffe zugreifen kann. sehr wichtig**
 
-- Ja, Warteschlangen
+- **Ja, Warteschlangen**
 
-- Dass wir einsehen können, wie viele Anrufe gerade reinkommen können
+- **Dass wir einsehen können, wie viele Anrufe gerade reinkommen können**
 
-- Statistiken des AI Agents
+- **Statistiken des AI Agents**
 
-- genau wie Live-Monitoring, dass man nochmal einen Überblick hat über alles
+- **genau wie Live-Monitoring, dass man nochmal einen Überblick hat über alles**
 
-- da kann man individuelle Arbeitsschritte festlegen
+- **da kann man individuelle Arbeitsschritte festlegen**
 
-- Übersicht der Workflows
+- **Übersicht der Workflows**
 
-- Handbuch, ähnlich wie das Playbook
+- **Handbuch, ähnlich wie das Playbook**
 
-- Glaubt dass es im Gespräch schwierig ist, dass MA darauf zugreifen, weil es dann zu lange dauert. Man muss sich vorher vorbereiten,
+- **Glaubt dass es im Gespräch schwierig ist, dass MA darauf zugreifen, weil es dann zu lange dauert. Man muss sich vorher vorbereiten,**
 
-- ist ein bisschen lost.
+- **ist ein bisschen lost. **
 
 
 
@@ -1552,7 +1552,7 @@ Zum Leitfaden
 
 - **QUALITÄTSMANAGEMENT**
 
-- eine zu "menschliche" KI wird als gruselig empfunden, dass  nicht mehr unterscheidbar ist, was menschlich und was künstlich hergestellt wurde. · KI ist standard (kennt nur die Antworten die vorgegeben werden; Textbausteine ); Menschen sind flexibler
+- **eine zu "menschliche" KI wird als gruselig empfunden, dass  nicht mehr unterscheidbar ist, was menschlich und was künstlich hergestellt wurde.** · **KI ist standard (kennt nur die Antworten die vorgegeben werden; Textbausteine ); Menschen sind flexibler**
 
 - **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
 
@@ -1608,9 +1608,9 @@ Interviewreihe
 
 Ziele des Researchs
 
-5 Interviews Teamlead After Sales Möbelhaus (150 MA)CTO Systemhaus (50-60MA)Geschäftsführung Handwerksbetrieb (500MA)Teamlead JobcenterTeamlead Support Medizientechnik (100MA)
+5 Interviews **Teamlead After Sales Möbelhaus (150 MA)****CTO Systemhaus (50-60MA)****Geschäftsführung Handwerksbetrieb (500MA)****Teamlead Jobcenter****Teamlead Support Medizientechnik (100MA)**
 
-Primäres Ziel: Überprüfung der Mentalen ModelleSekundäre Ziele: Kontext Service TeamleadsBegriffsverständnisEinstellung zu KI
+**Primäres Ziel:** Überprüfung der Mentalen Modelle**Sekundäre Ziele:** **Kontext Service Teamleads****Begriffsverständnis****Einstellung zu KI**
 
 ![image-3458764662220365685](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517724017049?format=preview&redirect=false)
 
@@ -1622,107 +1622,83 @@ Primäres Ziel: Überprüfung der Mentalen ModelleSekundäre Ziele: Kontext Serv
 
 
 
-## Frame 270
-
-Agenda
-
-Was erwartet euch?
-
-## Frame 267
-
-Prototyp
-
-![image-3458764663525728552](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517724017049?format=preview&redirect=false)
-
-## Frame 268
-
-5 Interviews Teamlead After Sales Möbelhaus (150 MA)CTO Systemhaus (50-60MA)Geschäftsführung Handwerksbetrieb (500MA)Teamlead JobcenterTeamlead Support Medizientechnik (100MA)
-
-## Frame 269
-
-Wie wurde dieser wahrgenommen?
-
 ## Frame 271
 
-Einstellung & Wahrnehmung zu KI?
+Einstellung & Wahrnehmung zu KI
 
-## Frame 273
+Die Reaktionen auf KI und die Voice Agent Konfiguration sind unterschiedlich: Auf der einen Seite steht die Idealvorstellung, KI so natürlich klingen zu lassen, dass Kund:innen den Unterschied nicht bemerken. Auf der anderen Seite löst genau diese Vorstellung Unbehagen aus („gruselig“). Die anderen Teilnehmenden bewegen sich dazwischen und argumentieren pragmatisch.
 
-Prototypen Refresher
+Der gemeinsame Nenner beim Einsatz von KI ist Entlastung: Abgefangen werden von KI sollen: Standardanrufe, Wiederholungsfragen und repetitive Prozesse  Mitarbeitende sollen sich auf Aufgaben konzentrieren können, die mehr Aufmerksamkeit, Fingerspitzengefühl und Fachkenntnis erfordern.
 
-Was beinhaltet dieser?  einmal durchklicken
-
-## Queues & Call Flow
-
-Queues & Call Flow
-
-- "Also was ich mir vorher vorgestellt habe, [...] so typische Warteschlange, wie viele gerade warten und vielleicht auch mit den Anliegen [...] Aber so ein Mapping, so eine Routing Regeln, so wie so die Regeln sind, habe ich jetzt nicht erwartet."
-
-- **In den Queues wird das Call Routing & das Team festgelegt.** Trifft das das mentale Modell?
-
-Kein eindeutiger Anker – das mentale Modell schwankt zwischen Warteschleife und Teamstruktur (Rufkreis, Skillgruppe). „Queue" wird von Nicht-Power-Usern als Live-Warteschlange (Kunden warten) verstanden, nicht als Routing-Konfiguration (wer bekommt welche Anrufe) – das erzeugt eine systematische Erwartungslücke im Prototyp Das Routing wird als Ablaufdiagramm verstanden – aber nicht als Ort für Teammanagement erwartet.
-
-- **Zusammenspiel Queue und AI Agent**
-
-Das Zusammenspiel von AI Agent, Queue, Playbook und Routing wird von keinem Teilnehmenden spontan als zusammenhängendes System verstanden  – jedes Konzept wird isoliert beschrieben, aber inwiefern die Verbindungen zwischen ihnen verstanden werden, bleibt unklar.
-
-## Playbook
-
-- check
-
-Playbook & Workflows
-
-- "Ach so, Am Ende ist ein Playbook oder sind die Playbooks jetzt echt die Prompts, die dahinter sind."
-
-- **Playbook als Konzept größtenteils bekannt ** – so, all is good?
-
-Die** **Teilnehmer:innen beschreiben einen „strukturierten Gesprächsleitfaden mit (Abfrage-)schritten" – und vermuten ihn unter dem Begriff „Playbook". Die Beispiele im Prototyp wie "Terminanfrage" übertragen alle auf ihre Use Cases und erkennen darüber hinaus, dass diese im Anschluss Arbeitsschritte auslösen. **– Aber: **Hier entsteht Verwirrung im Zusammenhang mit **Workflows**. Es gelingt den Teilnehmern nicht, die beiden Begriffe voneinander eindeutig abzugrenzen.
-
-- Konfiguration sorgt für **Aha-Moment** und erweitert das mentale Modell
-
-Wenn der Begriff anfangs nicht klar war, sorgt **spätestens die Konfigurationsseite **eines einzelnen Playbooks für einen Aha-Moment. Nach dem Klick ins Interface erklären sich die Teilnehmer:innen den Begriff mit Beispielen der eigenen Praxis. Zudem wird den Teilnehmer:innen auf der Detailebene der Umfang und die Verbindung mit der Agent Konfiguration deutlich.
-
-## Copy of Queues & Call Flow
-
-AI Voice Agent
-
-- ......
-
-Von der feingranularen Einstellungen im Interface, waren User eher überrascht - aber angenehm. Einer denkt initial an das KI-Modell.vereinzelte Reaktionen mit Unbehagen oder skeptischen Kommentaren auf die Vermenschlichung.
-
-- **Hypothese: Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung**
-
-Die angedachte Position des Agents ist überwiegend der **Anfang des Gesprächs**. Nur eine Person denkt nativ in mehreren Einsatzpunkten (Inbound, After-Hours, Outbound). KI Agents werden häufig als IVR Ersatz wahrgenommen: Smarte Anrufverteilung/ Weiterleitungen. 1st level support war der gängie Use Case, in denen die Interviewpartner:innen gedacht haben.
-
-- **Hypothese: Ein AI Agent kann an verschiedenen Stellen der Telefonie eingesetzt werden**
-
-## AI Voice Agent
-
-AI Voice Agent
-
-Vor dem Prototypen: Teilnehmende setzen KI im Telefonkontext primär mit regelbasierten Voicebots und IVR-Menüs gleich. Die Einschätzung der Fähigkeiten und Nützlichkeit von AI Agents hängt von persönlichen Erfahrungen mit Voice Bots ab.
-
-- **Erkenntnis:** **Vorerfahrung mit IVR & Bots ist prägend.**
-
-Mentale Modell von weniger technischversierten Personen ist bei "ein Agent kann alles", je versierter und mehr Erfahrung eine Person hat entwickelt es sich zu "jeder Agent braucht eine klar definierte abgegrenzte Aufgabe sowie abgegrenztes Wissen". Je technisch-versierter eine Person ist, desto eher verstehen sie, dass mehrere Agents wertvoll sein können und welche Möglichkeiten diese bieten.
-
-- **Ein AI Agent vs. mehrere Agents**
+Dabei ist **Kontrolle** unabdingbar: Konkrete Bedenken betreffen den Umgang mit sensiblen Daten sowie Halluzinationen.
 
 ## Frame 275
 
 Zusammenarbeit AI & Mensch
 
-- „Also die KI soll so weit Sachen aufbereiten oder vorbereiten, um den menschlichen Mitarbeiter zu unterstützen, vor allem, wenn die KI einfach nicht weiter weiß.“
+- **„Also die KI soll so weit Sachen aufbereiten oder vorbereiten, um den menschlichen Mitarbeiter zu unterstützen, vor allem, wenn die KI einfach nicht weiter weiß.“**
 
-## Frame 276
+## e
 
-Kernaussagen
+Kernaussagen für euch
 
-## Copy of Playbook
+## Frame 267
+
+![image-3458764663525728552](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517724017049?format=preview&redirect=false)
+
+## Frame 268
+
+5 Interviews Teamlead After Sales Möbelhaus (150 MA) - eigener AI Voice AgentCTO Systemhaus (50-60 MA) - eigener AI Voice AgentGeschäftsführung Handwerksbetrieb (500 MA)Teamlead Jobcenter (400 MA) Teamlead Support Medizintechnik (100 MA) Teamgrößen: 5-25; 1-8 Teams Auszug aus den typischen Anliegen: Verträge, Termine, Reklamation, Auftragsstatus, tech Support ... Anrufvolumen: 5-20 Anrufe pro Tag pro MA
+
+## Queues & Call Flow
+
+Queues & Call Flow
+
+**Kein eindeutiger Anker** Mentale Modell schwankt zwischen Warteschleife und Teamstruktur (Rufkreis, Skillgruppe). Routing wird als Ablaufdiagramm verstanden – nicht als Ort für&#39;s Teammanagement.
+
+- In den Queues wird das Call Routing & das Team festgelegt. Trifft das das mentale Modell?
+
+Zusammenspiel von AI Agent, Queue, Playbook und Routing wird von keinem Teilnehmenden spontan als zusammenhängendes System verstanden. – jedes Konzept wird isoliert beschrieben. Inwiefern die Verbindungen zwischen ihnen verstanden werden, bleibt unklar.
+
+## Copy of Queues & Call Flow
 
 AI Voice Agent
 
-Von der feingranularen Einstellungen im Interface, waren User eher überrascht - aber angenehm. Einer denkt initial an das KI-Modell.vereinzelte Reaktionen mit Unbehagen oder skeptischen Kommentaren auf die Vermenschlichung. AI Agent wurde direkt mit Voice Agent/ Bot verknüpft.
+- **„Wenn die Personalisierung nichts vorgeben würde — ich hätte nicht daran gedacht, was für ein Hintergrundgeräusch ich möchte. Aber das ist für die Kundenempfindung sehr interessant."**
 
-Die angedachte Position des Agents ist überwiegend der **Anfang des Gesprächs**. Nur eine Person denkt nativ in mehreren Einsatzpunkten (Inbound, After-Hours, Outbound). KI Agents werden häufig als IVR Ersatz wahrgenommen: Smarte Anrufverteilung/ Weiterleitungen. 1st level support war der gängie Use Case, in denen die Interviewpartner:innen gedacht haben.
+- **Hypothese**:  Ein AI Agent braucht Stimme, Persönlichkeit, Jobbeschreibung
+
+AI Konfiguration: Eine Person denkt initial an das Auswählen des KI-Modells. Die visuelle und feingranulare Einstellungen der Persönlichkeit, überraschte die Teilnehmenden. Vereinzelt gab es Reaktionen mit Unbehagen oder Skepsis auf die menschlichen Attribute des Agents.  Ein „Briefing“ wird als naheliegend und notwendig empfunden.
+
+- **„Der Agent guckt nach: Sind wir innerhalb der Öffnungszeiten?  Ist ein Wartungsvertrag gültig? Dann leitet er weiter, an Support, Buchhaltung, Technik oder Geschäftsführung.“**
+
+Die angedachte Position des Agents ist überwiegend am Anfang des Anrufs als IVR-Ersatz und dient für die Beantwortung von "einfachen Standard-Anfragen". Fungiert als Smarte Anrufverteilung / Weiterleitung. Eine Person denkt von sich aus an mehrere Anwendungsfälle (Inbound, After-Hours, Outbound).
+
+- **Hypothese: ** Ein AI Agent kann an verschiedenen Stellen der Telefonie eingesetzt werden
+
+## AI Voice Agent
+
+Vor dem Prototypen: Teilnehmende setzen **KI im Telefonkontext** primär mit **regelbasierten Voicebots und IVR-Menüs** gleich. Die Einschätzung der Fähigkeiten und Nützlichkeit von AI Agents hängt von persönlichen Erfahrungen mit Voice Bots ab.
+
+- Erkenntnis: Vorerfahrung mit IVR & Bots ist prägend.
+
+- Ein AI Agent  vs. mehrere Agents
+
+Je technisch-versierter eine Person ist, desto eher verstehen sie, dass mehrere Agents wertvoll sein können und welche Möglichkeiten diese bieten.
+
+## Frame 276
+
+Agenda
+
+„Aurix“ Refresher Prototypen Findings AI Wahrnehmung & Einstellung Weitere Findings & Diskussion
+
+![image-3458764663832505220](https://api.miro.com/v2/boards/uXjVJFjQhCY%3D/resources/images/3458764517762205459?format=preview&redirect=false)
+
+- &#xfeff;
+
+- &#xfeff;
+
+## Frame 277
+
+AI Verständnis, Wahrnehmung &  Einstellung
 
