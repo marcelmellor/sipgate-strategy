@@ -1702,3 +1702,152 @@ Agenda
 
 AI Verständnis, Wahrnehmung &  Einstellung
 
+## Die typischen Anrufe
+
+Die typischen Anrufe
+
+## Frame 1
+
+Mensch
+
+beide
+
+AI Agent
+
+## text
+
+text
+
+text
+
+text
+
+text
+
+text
+
+text
+
+## Begriffe\-Pool
+
+Begriffe-Pool
+
+## Die typischen Anrufe
+
+Die typischen Anrufe
+
+- Kontakt zu Herstellern
+
+- Auftragserfassung
+
+- Auftragsbestätigung
+
+## Frame 2
+
+Mensch
+
+beide
+
+AI Agent
+
+## text
+
+text
+
+text
+
+text
+
+text
+
+text
+
+## Die typischen Anrufe
+
+Die typischen Anrufe
+
+- Regelmäßige Tage-Calls zu betreuten Unternehmen
+
+- Stellenanzeige Akquise mit Unternehmen · Wiedervorlage
+
+## Frame 3
+
+Mensch
+
+beide
+
+AI Agent
+
+## Begriffe\-Pool
+
+Begriffe-Pool
+
+## text
+
+text
+
+text
+
+text
+
+text
+
+text
+
+text
+
+## Begriffe\-Pool
+
+Begriffe-Pool
+
+## Die typischen Anrufe
+
+Die typischen Anrufe
+
+## Frame 4
+
+Mensch
+
+beide
+
+AI Agent
+
+## text
+
+text
+
+text
+
+text
+
+text
+
+text
+
+## Begriffe\-Pool
+
+Begriffe-Pool
+
+## Die typischen Anrufe
+
+Die typischen Anrufe
+
+## Frame 5
+
+Mensch
+
+beide
+
+AI Agent
+
+## Begriffe\-Pool
+
+Begriffe-Pool
+
+## Begriffe\-Pool
+
+Begriffe-Pool
+
+## Begriffe\-Pool
+
+Begriffe-Pool
