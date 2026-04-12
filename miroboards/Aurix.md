@@ -1670,7 +1670,7 @@ AI Voice Agent
 
 AI Konfiguration: Eine Person denkt initial an das Auswählen des KI-Modells. Die visuelle und feingranulare Einstellungen der Persönlichkeit, überraschte die Teilnehmenden. Vereinzelt gab es Reaktionen mit Unbehagen oder Skepsis auf die menschlichen Attribute des Agents.  Ein „Briefing“ wird als naheliegend und notwendig empfunden.
 
-- **„Der Agent guckt nach: Sind wir innerhalb der Öffnungszeiten?  Ist ein Wartungsvertrag gültig? Dann leitet er weiter, an Support, Buchhaltung, Technik oder Geschäftsführung.“**
+- **„Der Agent guckt nach: ** **Sind wir innerhalb der Öffnungszeiten?  Ist ein Wartungsvertrag gültig? Dann leitet er weiter, an Support, Buchhaltung, Technik oder Geschäftsführung.“**
 
 Die angedachte Position des Agents ist überwiegend am Anfang des Anrufs als IVR-Ersatz und dient für die Beantwortung von "einfachen Standard-Anfragen". Fungiert als Smarte Anrufverteilung / Weiterleitung. Eine Person denkt von sich aus an mehrere Anwendungsfälle (Inbound, After-Hours, Outbound).
 
