@@ -1,0 +1,381 @@
+/* sipgate Design – Markdown Render Template */
+
+/* === Fonts === */
+@font-face {
+  font-family: 'PX Grotesk';
+  src: url('~/.claude/skills/graphics/fonts/sipgate/Px-Grotesk-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PX Grotesk';
+  src: url('~/.claude/skills/graphics/fonts/sipgate/Px-Grotesk-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PX Grotesk';
+  src: url('~/.claude/skills/graphics/fonts/sipgate/Px-Grotesk-Italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'PX Grotesk';
+  src: url('~/.claude/skills/graphics/fonts/sipgate/Px-Grotesk-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PX Grotesk';
+  src: url('~/.claude/skills/graphics/fonts/sipgate/Px-Grotesk-Bold-Italic.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'PX Grotesk Mono';
+  src: url('~/.claude/skills/graphics/fonts/sipgate/Px-Grotesk-Mono-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Tiempos Headline';
+  src: url('~/.claude/skills/graphics/fonts/sipgate/tiempos-headline-light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* === Reset & Base === */
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: 'PX Grotesk', system-ui, -apple-system, sans-serif;
+  font-weight: 400;
+  line-height: 1.65;
+  color: #202020;
+  background: #FCFCFC;
+  padding: 0;
+  margin: 0;
+}
+
+/* === Content Container === */
+.content {
+  max-width: 680px;
+  margin: 3rem auto;
+  padding: 0 2rem;
+}
+
+/* === Typography === */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Tiempos Headline', Georgia, serif;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #202020;
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  break-after: avoid;
+  page-break-after: avoid;
+}
+
+h1 {
+  font-size: 2.4rem;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 3px solid #DEFF00;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-top: 3.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #E8E8E8;
+}
+
+.callout + h2,
+blockquote + h2 {
+  border-top: none;
+  padding-top: 0;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-family: 'PX Grotesk', system-ui, sans-serif;
+  font-weight: 700;
+}
+
+h4, h5, h6 {
+  font-family: 'PX Grotesk', system-ui, sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+/* === Links === */
+a {
+  color: #315DFF;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease;
+}
+
+a:hover {
+  border-bottom-color: #315DFF;
+}
+
+/* === Strong, Em === */
+strong {
+  font-weight: 700;
+}
+
+em {
+  font-style: italic;
+}
+
+/* === Lists === */
+ul, ol {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.35rem;
+}
+
+li > ul, li > ol {
+  margin-top: 0.35rem;
+  margin-bottom: 0;
+}
+
+/* === Blockquote === */
+blockquote {
+  border-left: 4px solid #DEFF00;
+  padding: 0.75rem 1.25rem;
+  margin: 1.5rem 0;
+  background: #F9FDEC;
+  color: #39401E;
+  font-style: italic;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+blockquote p {
+  margin-bottom: 0.5rem;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* === Code === */
+code {
+  font-family: 'PX Grotesk Mono', 'SF Mono', 'Fira Code', monospace;
+  font-size: 0.85em;
+  background: #F0F0F0;
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+  color: #202020;
+}
+
+pre {
+  background: #1F1F1F;
+  color: #F0F0F0;
+  padding: 1.25rem 1.5rem;
+  border-radius: 8px;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+  line-height: 1.5;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  color: inherit;
+  font-size: 0.85rem;
+}
+
+/* === Tables === */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+}
+
+thead {
+  border-bottom: 2px solid #202020;
+}
+
+th {
+  font-weight: 700;
+  text-align: left;
+  padding: 0.6rem 0.75rem;
+  color: #202020;
+}
+
+td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid #E8E8E8;
+  color: #202020;
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+/* === Horizontal Rule === */
+hr {
+  border: none;
+  height: 3px;
+  background: linear-gradient(90deg, #DEFF00, transparent);
+  margin: 2.5rem 0;
+}
+
+/* === Images === */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 1.5rem 0;
+}
+
+figure {
+  margin: 1.5rem 0;
+}
+
+figcaption {
+  font-size: 0.85rem;
+  color: #646464;
+  margin-top: 0.5rem;
+}
+
+/* === Definition Lists === */
+dl {
+  margin: 1rem 0;
+}
+
+dt {
+  font-weight: 700;
+  margin-top: 0.75rem;
+}
+
+dd {
+  margin-left: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #646464;
+}
+
+/* === Footnotes === */
+.footnotes {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #E8E8E8;
+  font-size: 0.85rem;
+  color: #646464;
+}
+
+/* === Callouts === */
+.callout {
+  border-left: 4px solid #315DFF;
+  padding: 0.75rem 1.25rem;
+  margin: 1.5rem 0;
+  background: #F6F9FF;
+  border-radius: 0 6px 6px 0;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.callout-title {
+  display: block;
+  font-family: 'PX Grotesk', system-ui, sans-serif;
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+  color: #315DFF;
+}
+
+.callout p {
+  margin-bottom: 0.5rem;
+}
+
+.callout p:last-child {
+  margin-bottom: 0;
+}
+
+.callout-note {
+  border-left-color: #315DFF;
+  background: #F6F9FF;
+}
+
+.callout-note .callout-title { color: #315DFF; }
+
+.callout-insight {
+  border-left-color: #DEFF00;
+  background: #F9FDEC;
+}
+
+.callout-insight .callout-title { color: #6E8000; }
+
+.callout-warning, .callout-caution {
+  border-left-color: #FFBD00;
+  background: #FFFAE8;
+}
+
+.callout-warning .callout-title,
+.callout-caution .callout-title { color: #986F00; }
+
+.callout-danger, .callout-error {
+  border-left-color: #FF5E5E;
+  background: #FFF6F5;
+}
+
+.callout-danger .callout-title,
+.callout-error .callout-title { color: #D3333A; }
+
+.callout-tip, .callout-success {
+  border-left-color: #00BD82;
+  background: #F3FCF7;
+}
+
+.callout-tip .callout-title,
+.callout-success .callout-title { color: #008353; }
+
+.callout-example {
+  border-left-color: #8642FE;
+  background: #F9F8FF;
+}
+
+.callout-example .callout-title { color: #8642FE; }
+
+.callout-info {
+  border-left-color: #006660;
+  background: #F3FBFA;
+}
+
+.callout-info .callout-title { color: #006660; }
+
+/* === Print === */
+@media print {
+  html { font-size: 11pt; }
+  body { background: white; }
+  .content { max-width: none; margin: 0; padding: 1.5cm 2cm; }
+  h1 { font-size: 1.8rem; }
+  h2 { font-size: 1.3rem; }
+  h3 { font-size: 1.05rem; }
+  pre { background: #F0F0F0; color: #202020; font-size: 0.8rem; }
+  a { color: #202020; border-bottom: none; }
+  a:not(.footnote-ref):not(.footnote-back)::after { content: " (" attr(href) ")"; font-size: 0.8em; color: #646464; }
+}

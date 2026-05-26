@@ -1,0 +1,3 @@
+[submodule ".skills/render"]
+	path = .skills/render
+	url = https://github.com/dermellor/magic-md.git
